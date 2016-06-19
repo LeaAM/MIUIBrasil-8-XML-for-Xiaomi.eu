@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Pesquisando\u2026</item>
+        <item>Conectando\u2026</item>
+        <item>Autenticando\u2026</item>
+        <item>Obtendo endereço IP\u2026</item>
+        <item>Conectado</item>
+        <item>Suspenso</item>
+        <item>Desconectando\u2026</item>
+        <item>Desconectado</item>
+        <item>Falha</item>
+        <item>Bloqueado</item>
+        <item>Temporariamente evitando conexão de baixa qualidade</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Pesquisando\u2026</item>
+        <item>Conectando-se a %1$s\u2026</item>
+        <item>Autenticando com %1$s\u2026</item>
+        <item>Obtendo endereço IP de %1$s\u2026</item>
+        <item>Conectado a %1$s</item>
+        <item>Suspenso</item>
+        <item>Desconectando-se de %1$s\u2026</item>
+        <item>Desconectado</item>
+        <item>Falha</item>
+        <item>Bloqueado</item>
+        <item>Temporariamente evitando conexão de baixa qualidade</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
+  <string-array name="weather_type">
+    <item>Ensolarado</item>
+    <item>Nublado</item>
+    <item>Nublado</item>
+    <item>Nebuloso</item>
+    <item>Tempestade pesada</item>
+    <item>Chuva torrencial</item>
+    <item>Tempestade chuvosa</item>
+    <item>Tempestade</item>
+    <item>Chuva</item>
+    <item>Chuva forte</item>
+    <item>Chuva moderada</item>
+    <item>Chuva leve</item>
+    <item>Chuva com neve</item>
+    <item>Nevasca</item>
+    <item>Neve</item>
+    <item>Neve pesada</item>
+    <item>Neve moderada</item>
+    <item>Neve leve</item>
+    <item>Tempestade de areia forte</item>
+    <item>Tempestade de areia</item>
+    <item>Areia</item>
+    <item>Ventania</item>
+    <item>Granizo</item>
+    <item>Poeira</item>
+    <item>Neblina</item>
+    <item>Chuva congelada</item>
+    <item></item>
+  </string-array>
+</resources>
