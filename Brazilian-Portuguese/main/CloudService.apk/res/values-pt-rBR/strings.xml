@@ -77,8 +77,8 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud."</string>
   <string name="find_device_disabled_title">Encontrar dispositivo desativado</string>
   <string name="find_device_disabling">Desativando\u2026</string>
   <string name="find_device_dspt">Localize, bloqueie ou apague seu dispositivo remotamente</string>
-  <string name="find_device_dspt_provision">\"Se você perder seu dispositivo, você poderá ir até %s para localizar, bloquear ou redefini-lo. Você pode ativar ou desativar este recurso a qualquer momento nas Configurações.
-\"</string>
+  <string name="find_device_dspt_provision">"Se você perder seu dispositivo, você poderá ir até %s para localizar, bloquear ou redefini-lo. Você pode ativar ou desativar este recurso a qualquer momento nas Configurações.
+"</string>
   <string name="find_device_dspt_provision_3">. Você pode ativar ou desativar este recurso a qualquer momento nas Configurações.</string>
   <string name="find_device_dspt_provision_4">Se você trocar seus cartões SIM, 1 SMS tarifado será enviado automaticamente para reativar este serviço.</string>
   <string name="find_device_enabling">Ativando\u2026</string>

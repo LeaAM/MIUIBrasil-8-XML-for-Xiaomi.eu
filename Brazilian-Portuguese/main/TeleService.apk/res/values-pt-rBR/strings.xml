@@ -814,7 +814,6 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="other_settings">Outras configurações de chamada</string>
   <string name="other_settings_category">Outras</string>
   <string name="overseas_roaming_setting">Roaming de dados</string>
-  <string name="password">Password</string>
   <string name="password_changed">Senha alterada</string>
   <string name="password_title">Senha</string>
   <string name="path_answer_state_setting_title">Apps do sistema/Telefone/Configuração de chamadas recebidas</string>
@@ -893,7 +892,6 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="pin_progress_set_fdn_lock">Configurando estado de bloqueio FDN\u2026</string>
   <string name="pin_progress_set_icc_lock">Configurando estado de bloqueio ICC\u2026</string>
   <string name="pin_progress_unlock_icc">Desbloqueando cartão SIM\u2026</string>
-  <string name="port">Port</string>
   <string name="port_title">Número da porta</string>
   <string name="preference_auto_ip_summary_disable">Desativado</string>
   <string name="preference_category_ringtone">Toque &amp; vibração</string>

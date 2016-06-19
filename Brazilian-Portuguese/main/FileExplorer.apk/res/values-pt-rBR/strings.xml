@@ -209,7 +209,7 @@
   <string name="file_info_modified">Última modificação:</string>
   <string name="file_info_size">Tamanho:</string>
   <string name="file_loading">Aguarde\u2026</string>
-  <string name="file_name_invalid">"Nomes de arquivos não podem conter os seguintes caracteres: /\\:*?<>"</string>
+  <string name="file_name_invalid">"Nomes de arquivos não podem conter os seguintes caracteres: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">"O arquivo não existe"</string>
   <string name="file_too_large">O arquivo é muito grande para o upload.</string>
   <string name="files">Arquivos</string>
@@ -217,8 +217,8 @@
   <string name="folder_exist">A pasta já existe.</string>
   <string name="folder_name_empty">O nome da pasta não pode estar vazio</string>
   <string name="folder_name_illegal">Nome da pasta inválido</string>
-  <string name="folder_name_invalid">"Nomes de pastas não podem conter os seguintes caracteres: /\\:*<>"</string>
-  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Toque&lt;/a&gt; para ir à lixeira</string>
+  <string name="folder_name_invalid">"Nomes de pastas não podem conter os seguintes caracteres: /\\:*&lt;&gt;"</string>
+  <string name="forward_to_web_recycle_prompt"><a href="%1$s">Toque</a> para ir à lixeira</string>
   <string name="found_router">Roteador conectado</string>
   <string name="found_usb">Armaz. USB conectado</string>
   <string name="ftp_account_req_notice">4-16 caracteres, letras e números, sensível a maiúsculas e minúsculas</string>
@@ -341,9 +341,9 @@
   <string name="migrate_confirm">Transferir</string>
   <string name="migrate_failed_confirm">OK</string>
   <string name="migrate_failed_msg">Algo deu errado. Mova seus arquivos manualmente.
-        &lt;a href=\"http://www.kuaipan.cn\"&gt;Toque aqui para visualizá-los&lt;/a&gt;</string>
+        <a href="http://www.kuaipan.cn">Toque aqui para visualizá-los</a></string>
   <string name="migrate_failed_title">"Não foi possível mover os arquivos"</string>
-  <string name="migrate_failed_toast">Algo deu errado. Mova seus arquivos manualmente. &lt;a href=\"http://www.kuaipan.cn\"&gt;Toque aqui para visualizá-los&lt;/a&gt;</string>
+  <string name="migrate_failed_toast">Algo deu errado. Mova seus arquivos manualmente. <a href="http://www.kuaipan.cn">Toque aqui para visualizá-los</a></string>
   <string name="migrate_hint">Importante. O KuaiPan está sendo substituído pelo Mi Drive. Toque para mover seus arquivos agora.</string>
   <string name="migrate_note">Importante: O KuaiPan está sendo substituído pelo Mi Drive. Mova seus arquivos agora.</string>
   <string name="migrate_runing">Movendo arquivos\u2026 Volte mais tarde.</string>

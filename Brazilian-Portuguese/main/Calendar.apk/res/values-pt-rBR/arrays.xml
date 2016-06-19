@@ -176,9 +176,6 @@
     <item>Apenas quando estiver no silencioso</item>
     <item>Nunca</item>
   </string-array>
-    <item>Transparente</item>
-    <item>Fundo branco</item>
-  </string-array>
   <string-array name="miui_reminder_minutes_labels">
     <item>Sem lembrete</item>
     <item>0 minutos</item>

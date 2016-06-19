@@ -887,7 +887,7 @@
   <string name="preferred_app_entries_launcher">Launcher</string>
   <string name="preferred_app_entries_messaging">Mensagens</string>
   <string name="preferred_app_entries_music">Música</string>
-  <string name="privacy_declare_dialog_message">"Ao usar este serviço, você estará concordando com os <a href=%s>Termos e Condições</a> do Opera Software."</string>
+  <string name="privacy_declare_dialog_message">"Ao usar este serviço, você estará concordando com os <a href="%s">Termos e Condições</a> do Opera Software."</string>
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>
   <string name="privacy_mode_dialog_title">Modo convidado</string>
   <string name="privacy_prompt_tc_sms_report_message">"Seu número de telefone e detalhes da operadora serão encriptados e enviados para os servidores da Mi para atualizar suas informações de uso de dados."</string>
@@ -1159,7 +1159,7 @@
   <string name="tc_sms_report_notify_get_timeout_body">O processo expirou. Confirme com a sua operadora se o código de requisição SMS que você inseriu está correto.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Não foi possível obter SMS do uso de dados"</string>
   <string name="tc_sms_report_receive_content">Conteúdo do SMS de relatório de uso de dados (Confirme as estatisticas de uso)</string>
-  <string name="tc_sms_report_receive_content_null">"Ajude a melhorar esta função!<br/>Veja como:<br/>1. Vá até "Verificar comando dpor SMS" e "Número do destinatário"<br/>2.Toque em \"Obter modelo de SMS\"<br/>3. Aguarde o recebimento da mensagem SMS de sua operadora <br/>4. Toque em \"Enviar para a MIUI\""</string>
+  <string name="tc_sms_report_receive_content_null">"Ajude a melhorar esta função!<br/>Veja como:<br/>1. Vá até \"Verificar comando por SMS\" e \"Número do destinatário\"<br/>2.Toque em \"Obter modelo de SMS\"<br/>3. Aguarde o recebimento da mensagem SMS de sua operadora <br/>4. Toque em \"Enviar para a MIUI\""</string>
   <string name="tc_sms_report_receive_num">Número do destinatário</string>
   <string name="tc_sms_report_send_num">Telefone da operadora</string>
   <string name="tc_sms_report_summary">Ajude-nos a melhorar este recurso ao nos enviar um relatório quando as informações de uso de dados estiverem incorretas ou sua atualização falhar</string>
@@ -1247,7 +1247,7 @@
   <string name="traffic_config_alert_body_leisure">\nO seu limite mensal de uso de dados fora do pico é de %1$s. Isto difere do limite de %2$s que você definiu manualmente.</string>
   <string name="traffic_config_alert_body_leisure_notset">\nO seu limite mensal de uso de dados fora do pico é de %1$s. Você ainda não definiu um limite de uso de dados fora do pico.</string>
   <string name="traffic_config_alert_body_normal">\nO seu limite mensal de uso de dados em pico é de %1$s. Isto difere do limite de %2$s que você definiu manualmente.</string>
-  <string name="traffic_config_alert_package">\n\"Dados extras em uso\"</string>
+  <string name="traffic_config_alert_package">\nDados extras em uso</string>
   <string name="traffic_config_alert_setted">Configurações aplicadas</string>
   <string name="traffic_config_alert_title">Correção de %s</string>
   <string name="traffic_correction_failed">"Não foi possível obter informações"</string>
@@ -1256,7 +1256,7 @@
   <string name="traffic_correction_success">Limite de dados atualizado</string>
   <string name="traffic_correction_success_notify_message">Toque para ver detalhes.</string>
   <string name="traffic_limit_error_alert_body">Sua operadora mostra que você possui %1$s restantes este mês. Isto é mais do que o limite de %2$s que você definiu manualmente.</string>
-  <string name="traffic_limit_error_alert_package">\n\n\"Os dados restantes incluem dados remanescentes do mês anterior.\"</string>
+  <string name="traffic_limit_error_alert_package">\n\nOs dados restantes incluem dados remanescentes do mês anterior.</string>
   <string name="traffic_limit_error_alert_title">Lembrete de limite de dados %s</string>
   <string name="traffic_none">Nenhum</string>
   <string name="traffic_over_purchase_body">Toque para ver detalhes.</string>

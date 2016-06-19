@@ -43,7 +43,7 @@
   <string name="bt_enable_ok">Ativar</string>
   <string name="bt_error_btn_ok">OK</string>
   <string name="bt_share_picker_label">Bluetooth</string>
-  <string name="bt_sm_2_1">"Não há espaço suficiente no armazenamento USB para salvar o arquivo de \"%1$s\""</string>
+  <string name="bt_sm_2_1">Não há espaço suficiente no armazenamento USB para salvar o arquivo de \"%1$s\"</string>
   <string name="bt_sm_2_2">Espaço necessário: %1$s</string>
   <string name="bt_toast_1">O arquivo será recebido. Verifique o andamento na aba de Notificações.</string>
   <string name="bt_toast_2">"O arquivo não pôde ser recebido."</string>
@@ -80,9 +80,9 @@
   <string name="incoming_file_confirm_Notification_caption">Deseja receber este arquivo?</string>
   <string name="incoming_file_confirm_Notification_title">Compart. Bluetooth: arquivo recebido</string>
   <string name="incoming_file_confirm_cancel">Recusar</string>
-  <string name="incoming_file_confirm_content">\"%1$s deseja enviar para você %2$s (%3$s). 
+  <string name="incoming_file_confirm_content">"%1$s deseja enviar para você %2$s (%3$s). 
 
-Aceitar o arquivo?\"</string>
+Aceitar o arquivo?"</string>
   <string name="incoming_file_confirm_ok">Aceitar</string>
   <string name="incoming_file_confirm_timeout_content">Tempo limite excedido ao receber um arquivo de \"%1$s\"</string>
   <string name="incoming_file_confirm_timeout_ok">OK</string>
@@ -173,7 +173,7 @@ Aceitar o arquivo?\"</string>
 "</string>
   <string name="update_record">Confirmar registro</string>
   <string name="upload_fail_cancel">Fechar</string>
-  <string name="upload_fail_line1">"Arquivo não enviado para \"%1$s\"."</string>
+  <string name="upload_fail_line1">Arquivo não enviado para \"%1$s\".</string>
   <string name="upload_fail_line1_2">Arquivo: %1$s</string>
   <string name="upload_fail_ok">Tentar novamente</string>
   <string name="upload_fail_waiting">Preparação do envio do arquivo, a retransmissão ocorrerá em breve</string>

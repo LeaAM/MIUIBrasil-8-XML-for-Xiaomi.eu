@@ -63,7 +63,7 @@
   <string name="feedback_phone_model_label">Modelo do telefone</string>
   <string name="feedback_probability_label">Probabilidade</string>
   <string name="feedback_remind_login_btn">Fazer login</string>
-  <string name="feedback_report_remind_login_desc">"Faça o login com sua Conta Mi para que nossos engenheiros entrem em contato. Você poderá ainda ver o progresso de seu relatório em \"Meus relatórios\"."</string>
+  <string name="feedback_report_remind_login_desc">Faça o login com sua Conta Mi para que nossos engenheiros entrem em contato. Você poderá ainda ver o progresso de seu relatório em \"Meus relatórios\".</string>
   <string name="feedback_retest_label">Passos para reproduzir erro</string>
   <string name="feedback_select_images">Adicionar imagens</string>
   <string name="feedback_select_upload_log">Adicionar logs</string>

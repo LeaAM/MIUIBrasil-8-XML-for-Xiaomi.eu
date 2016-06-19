@@ -10,11 +10,9 @@
   <string name="change_default_dialer_with_previous_app_set_text">Usar %1$s ao invés de %2$s como seu app Discador padrão?</string>
   <string name="dial_conference_fail_prompt">"Não é possível discar diretamente para a conferência pois a rede atual não suporta VoLTE."</string>
   <string name="dial_vt_fail_prompt">"A rede atual não suporta VoLTE. Alternar para chamada de voz normal?"</string>
-  <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
   <string name="duplicate_video_call_not_allowed">Não é possível adicionar a chamada neste momento.</string>
   <string name="enable_account_preference_title">Contas de chamadas</string>
   <string name="handle_restricted">RESTRITO</string>
-  <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
   <string name="incall_error_call_failed">"Não foi possível efetuar chamada."</string>
   <string name="lch_dtmf_key">D</string>
   <string name="no_vm_number">Número do correio de voz ausente</string>

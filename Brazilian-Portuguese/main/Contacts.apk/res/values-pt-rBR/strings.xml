@@ -415,8 +415,8 @@ Motivo: \"%s\""</string>
   <string name="exporting_vcard_canceled_title">Exportação de %s cancelada.</string>
   <string name="exporting_vcard_finished_title">Exportação de %s concluída.</string>
   <string name="external_profile_title">Meu perfil Mi %1$s</string>
-  <string name="fail_reason_could_not_initialize_exporter">"Não foi possível iniciar o exportador: \"%s\"."</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"Não foi possível abrir \"%s\": %s."</string>
+  <string name="fail_reason_could_not_initialize_exporter">Não foi possível iniciar o exportador: \"%s\".</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">Não foi possível abrir \"%s\": %s.</string>
   <string name="fail_reason_error_occurred_during_export">Ocorreu um erro ao exportar: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"Não foi possível obter as informações meta dos arquivos vCard."</string>
   <string name="fail_reason_failed_to_read_files">"Um ou mais arquivos não puderam ser importados (%s)."</string>
@@ -735,65 +735,65 @@ Motivo: \"%s\""</string>
   <string name="noContacts">Nenhum contato</string>
   <string name="noContactsHelpText">"Você não possui contatos para mostrar.
 
-Para adicionar contatos, toque em \"<b><font fgcolor="#ffffffff">Menu</font></b>\", e então toque em:
+Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>", e então toque em:
  
-\"<b><font fgcolor="#ffffffff"><li>\"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
-\"</li></font></b>\"
-\"<b><font fgcolor="#ffffffff"><li>\"Novo contato para criar um contato do zero
-\"</li></font></b>\"
-\"<b><font fgcolor="#ffffffff"><li>\"Importar e exportar para importar contatos do seu cartão SIM ou cartão SD
-\"</li></font></b>\"
+"<b><font fgcolor="#ffffffff"><li>"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
+"</li></font></b>"
+"<b><font fgcolor="#ffffffff"><li>"Novo contato para criar um contato do zero
+"</li></font></b>"
+"<b><font fgcolor="#ffffffff"><li>"Importar e exportar para importar contatos do seu cartão SIM ou cartão SD
+"</li></font></b>"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">"Você não tem contatos para mostrar."</string>
   <string name="noContactsHelpTextWithSync">"Você não possui contatos para mostrar. (Caso tenha adicionado uma conta recentemente, seus contatos podem estar sendo sincronizados neste momento.)
 
-Para adicionar contatos, toque em \"<b><font fgcolor="#ffffffff">Menu</font></b>\", e então toque em:
+Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>", e então toque em:
  
-\"<b><font fgcolor="#ffffffff"><li>\"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
-\"</li></font></b>\"
-\"<b><font fgcolor="#ffffffff"><li>\"Mostrar opções para alterar quais contatos são visíveis
-\"</li></font></b>\"
-\"<b><font fgcolor="#ffffffff"><li>\"Novo contato para criar um contato do zero
-\"</li></font></b>\"
-\"<b><font fgcolor="#ffffffff"><li>\"Importar e exportar para importar contatos do seu cartão SIM ou cartão SD
-\"</li></font></b>\" 
+"<b><font fgcolor="#ffffffff"><li>"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
+"</li></font></b>"
+"<b><font fgcolor="#ffffffff"><li>"Mostrar opções para alterar quais contatos são visíveis
+"</li></font></b>"
+"<b><font fgcolor="#ffffffff"><li>"Novo contato para criar um contato do zero
+"</li></font></b>"
+"<b><font fgcolor="#ffffffff"><li>"Importar e exportar para importar contatos do seu cartão SIM ou cartão SD
+"</li></font></b>" 
 "</string>
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Você não tem contatos para mostrar. Se você acabou de adicionar uma conta, pode levar alguns minutos para sincronizar os contatos."</string>
   <string name="noContactsNoSimHelpText">"Você não possui contatos para mostrar.
 
-Para adicionar contatos, toque em \"<b><font fgcolor="#ffffffff">Menu</font></b>\", e então toque em:
+Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>", e então toque em:
  
-\"<b><font fgcolor="#ffffffff"><li>\"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
-\"</li></font></b>\" 
-\"<b><font fgcolor="#ffffffff"><li>\"Novo contato para criar um contato do zero
-\"</li></font></b>\" 
-\"<b><font fgcolor="#ffffffff"><li>\"Importar e exportar para importar contatos do seu cartão SIM ou cartão SD
-\"</li></font></b>\" 
+"<b><font fgcolor="#ffffffff"><li>"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Novo contato para criar um contato do zero
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importar e exportar para importar contatos do seu cartão SIM ou cartão SD
+"</li></font></b>" 
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"Você não possui contatos para mostrar. (Caso você tenha adicionado uma conta recentemente, aguarde a sincronização concluir.)
 
-Para adicionar contatos, toque em \"<b><font fgcolor="#ffffffff">Menu</font></b>\", e então toque em:
+Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>", e então toque em:
  
-\"<b><font fgcolor="#ffffffff"><li>\"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
-\"</li></font></b>\" 
-\"<b><font fgcolor="#ffffffff"><li>\"Mostrar opções para alterar quais contatos são visíveis
-\"</li></font></b>\" 
-\"<b><font fgcolor="#ffffffff"><li>\"Novo contato para criar um contato do zero
-\"</li></font></b>\" 
-\"<b><font fgcolor="#ffffffff"><li>\"Importar e exportar para importar contatos do seu cartão SIM ou cartão SD
-\"</li></font></b>\" 
+"<b><font fgcolor="#ffffffff"><li>"Contas para adicionar ou configurar uma conta com contatos sincronizáveis com o telefone
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Mostrar opções para alterar quais contatos são visíveis
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Novo contato para criar um contato do zero
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importar e exportar para importar contatos do seu cartão SIM ou cartão SD
+"</li></font></b>" 
 "</string>
   <string name="noContactsWithPhoneNumbers">Nenhum contato com números de telefone</string>
   <string name="noFavoritesHelpText">"Você não possui nenhum número favorito.
 
  Para adicionar um contato à sua lista de favoritos:
  
-\"<li>Toque na aba <b>Contatos</b>\"
-\"</li>\" 
-\"<li>\"Toque no contato que você deseja adicionar como favorito
-\"</li>\" 
-\"<li>\"Toque no ícone de estrela próximo ao nome do contato
-\"</li>\" 
+"<li>Toque na aba <b>Contatos</b>"
+"</li>" 
+"<li>"Toque no contato que você deseja adicionar como favorito
+"</li>" 
+"<li>"Toque no ícone de estrela próximo ao nome do contato
+"</li>" 
 "</string>
   <string name="noGroups">Nenhum grupo</string>
   <string name="noMatchingContacts">Nenhum contato correspondente encontrado.</string>
@@ -964,7 +964,7 @@ Para adicionar contatos, toque em \"<b><font fgcolor="#ffffffff">Menu</font></b>
   <string name="quit_dialog_confirm_message">"Você não mesclou nenhum contato"</string>
   <string name="quit_dialog_confirm_title">Cancelar mescla de contatos</string>
   <string name="readOnlyContactDeleteConfirmation">Este contato contém informações de várias contas. Informações de contas somente leitura serão ocultadas em sua lista de contatos, mas não serão excluídas.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" contém informações de múltiplas contas. Qualquer informação que não puder ser apagada, será escondida da sua lista de contatos."</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" contém informações de múltiplas contas. Qualquer informação que não puder ser apagada, será escondida da sua lista de contatos.</string>
   <string name="readOnlyContactWarning">"Você não pode excluir contatos de contas somente leitura, mas você pode ocultá-los em sua lista de contatos."</string>
   <string name="readingSimContacts">Lendo o cartão SIM\u2026</string>
   <string name="reading_vcard_canceled_title">Leitura dos dados do vCard cancelada</string>

@@ -101,7 +101,7 @@
   <string name="debug_mode_desc">Executar app em modo de depuração e mostrar id do vídeo no canto superior esquerdo</string>
   <string name="declaration">Termos de Serviço</string>
   <string name="declaration_allow">Aceitar</string>
-  <string name="declaration_content">"1. Ao usar este app, você estará concordando com os \"<a href="file:///android_asset/terms.html">Termos de Serviço</a>\" da Sohu Vídeo, iQiyi, e outros provedores de conteúdo.
+  <string name="declaration_content">"1. Ao usar este app, você estará concordando com os "<a href="file:///android_asset/terms.html">Termos de Serviço</a>" da Sohu Vídeo, iQiyi, e outros provedores de conteúdo.
 2. Para melhorar sua experiência de uso, coletaremos alguns dados de seu dispositivo e o conteúdo que você assiste. Youku e iQiyi irão ainda coletar o IMEI do dispositivo.
 3. Nosso plug-in de vídeo HD será instalado automaticamente.
 4. Este app precisará de uma conexão com a internet para funcionar normalmente."</string>
@@ -242,7 +242,7 @@
   <string name="nowifi_alert_dialog_message">"Utilizar sua conexão de dados móveis para transmissão de vídeos irá aumentar seu consumo de dados. Caso o limite de dados de sua operadora seja ultrapassado, você poderá ser cobrado pela utilização excedente."</string>
   <string name="nowifi_alert_dialog_title">Alerta do uso de dados</string>
   <string name="offline">Offline</string>
-  <string name="offline_add_queue_fail">"Falha no download de \"%1$s\""</string>
+  <string name="offline_add_queue_fail">Falha no download de \"%1$s\"</string>
   <string name="offline_alert_title">Uso de dados</string>
   <string name="offline_alert_wifi">O download começará quando o dispositivo estiver conectado a uma rede Wi-Fi.</string>
   <string name="offline_already_in">\"%1$s\" já na lista de download</string>

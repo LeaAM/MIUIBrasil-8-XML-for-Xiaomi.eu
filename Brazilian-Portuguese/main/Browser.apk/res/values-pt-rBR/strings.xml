@@ -798,7 +798,7 @@ Sair desta página?"</string>
   <string name="video_subtitle_prefix_message">"Assistido: "</string>
   <string name="video_title_prefix_message">"Offline: "</string>
   <string name="view_certificate">Ver certificado</string>
-  <string name="voice_sub_title">"Não sabe o que dizer? Tente \"Abrir mi.com\""</string>
+  <string name="voice_sub_title">Não sabe o que dizer? Tente \"Abrir mi.com\"</string>
   <string name="voice_title">Diga seu comando\u2026</string>
   <string name="voice_title_distinguish">Processando\u2026</string>
   <string name="voice_title_listening">Escutando\u2026</string>

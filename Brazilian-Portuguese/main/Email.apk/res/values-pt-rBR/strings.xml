@@ -391,7 +391,6 @@ Atualizá-los agora?"</string>
   <string name="forward_attribution_no_headers">---------- Mensagem encaminhada ----------</string>
   <string name="forward_download_failed_ticker">"Não foi possível encaminhar todos os anexos."</string>
   <string name="forward_download_failed_title">Anexo não encaminhado</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from_heading">"De: "</string>
   <string name="general_preference_confirm_delete_label">Confirmar antes de excluir</string>
   <string name="general_preference_confirm_send_label">Confirmar antes de enviar</string>
@@ -527,7 +526,7 @@ Atualizá-los agora?"</string>
   <string name="more_context">Mais</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Mover para outra pasta</string>
-  <string name="multiple_new_message_notification_item"><b>%1$s</b>\"   %2$s\"</string>
+  <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Silenciar</string>
   <string name="net_check_title">"Não foi possível conectar-se à rede. Verifique a conexão e tente novamente."</string>
   <string name="network_error">Sem conexão</string>
@@ -815,10 +814,9 @@ Atualizá-los agora?"</string>
   <string name="validation_failed_prompt">"Não foi possível verificar a conta, verifique as configurações de servidor para %s"</string>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Ver mais conversas</string>
-  <string name="wait_for_manual_sync_body">\"Esta conta não está configurada para sincronizar automaticamente.
-Toque em \"<b>Sincronizar Agora</b>" para sincronizar os e-mails uma vez, ou "<b>Alterar configurações de sincronização</b>\" para configurar esta conta para sincronizar automaticamente.\"</string>
+  <string name="wait_for_manual_sync_body">"Esta conta não está configurada para sincronizar automaticamente.
+Toque em "<b>Sincronizar Agora</b>" para sincronizar os e-mails uma vez, ou "<b>Alterar configurações de sincronização</b>" para configurar esta conta para sincronizar automaticamente."</string>
   <string name="wait_for_sync_title">Aguardando sincronização</string>
-  <string name="wait_help_context">wait</string>
   <string name="widget_all_mail">Todos os e-mails</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Outros</string>

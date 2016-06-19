@@ -3,8 +3,8 @@
 <resources>
   <string name="accept">OK</string>
   <string name="activate">Ativar</string>
-  <string name="activate_auto_sms_notification_desc_1_card">SMS enviado para ativar \"Encontrar dispositivo\"</string>
-  <string name="activate_auto_sms_notification_desc_2_cards">SMS enviado do cartão SIM %s para ativar \"Encontrar dispositivo\"</string>
+  <string name="activate_auto_sms_notification_desc_1_card">SMS enviado para ativar o Encontrar dispositivo</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">SMS enviado do cartão SIM %s para ativar o Encontrar dispositivo</string>
   <string name="activate_auto_sms_notification_title">Ativação do cartão SIM</string>
   <string name="activate_feature_call_log_sync">Sincronizar registro de chamadas</string>
   <string name="activate_feature_default_name">Serviços Mi</string>
@@ -75,7 +75,6 @@ Insira o número do telefone associado com o seu novo cartão SIM para reativar 
   <string name="activate_popup_title_manual">Ativar %s</string>
   <string name="activate_popup_title_new_sim_card">Reativar %s</string>
   <string name="activate_popup_title_register_account">Criar Conta Mi</string>
-  <string name="activate_sms_postfix">This SMS is used to activate your Mi service</string>
   <string name="activate_status_desc_acquire_phone_number">Obtendo número do telefone\u2026</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Erro no servidor ao adquirir número do telefone</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">"Não foi possível obter o número do telefone"</string>

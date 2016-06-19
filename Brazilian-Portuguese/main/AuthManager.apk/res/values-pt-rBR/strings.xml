@@ -284,9 +284,8 @@ Você precisa instalar a versão de desenvolvedor da MIUI para permitir o acesso
   <string name="permission_group_title_settings_related">Configurações</string>
   <string name="permission_request_title">Solicitação de permissão</string>
   <string name="permission_warning_template">Permitir %2$s pelo app %1$s?</string>
-  <string name="permisson_reject_notice_toast_text">"\"%1$s\" não tem permissão para %2$s. Você pode alterar as permissões do app a qualquer momento em Segurança &gt; Permissões."</string>
+  <string name="permisson_reject_notice_toast_text">\"%1$s\" não tem permissão para %2$s. Você pode alterar as permissões do app a qualquer momento em Segurança &gt; Permissões.</string>
   <string name="screen_overlay_button">Abrir Configurações</string>
   <string name="screen_overlay_message">Para alterar a configuração desta permissão, você primeiro precisa desativar a sobreposição de tela em Configurações &gt; Apps do sistema</string>
   <string name="screen_overlay_title">Sobreposição de tela detectada</string>
-  <string name="static_cache_db_md5">a091ed54ebb50d2485bc3138234b205b</string>
 </resources>

@@ -51,7 +51,7 @@ Se você selecionar não usar anúncios personaliados, o nível de anúncios nã
   <string name="accessibility_personal_account_title">Conta pessoal - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Botão de ligar encerra a chamada</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
-  <string name="accessibility_screen_magnification_summary">Quando este recurso está ativado, você pode aumentar e diminuir o zoom com um toque triplo na tela.\n\nQuando o zoom é aplicado, você pode:\n\"<ul><li>"Deslocar: arraste dois ou mais dedos pela tela."</li>\n<li>"Ajustar o nível de zoom: use o gesto de pinçagem ou expanda usando dois ou mais dedos."</li></ul>\n\n\"Você também pode ampliar temporariamente o que estiver sob seu dedo dando um toque triplo e segurando. No estado ampliado, arraste o dedo para explorar as diferentes partes da tela. Levante o dedo para voltar ao estado anterior.\n\nObservação: o toque triplo para ampliar funciona em qualquer parte da tela, exceto no teclado e na barra de navegação.</string>
+  <string name="accessibility_screen_magnification_summary">Quando este recurso está ativado, você pode aumentar e diminuir o zoom com um toque triplo na tela.\n\nQuando o zoom é aplicado, você pode:\n<ul><li>Deslocar: arraste dois ou mais dedos pela tela.</li>\n<li>Ajustar o nível de zoom: use o gesto de pinçagem ou expanda usando dois ou mais dedos.</li></ul>\n\nVocê também pode ampliar temporariamente o que estiver sob seu dedo dando um toque triplo e segurando. No estado ampliado, arraste o dedo para explorar as diferentes partes da tela. Levante o dedo para voltar ao estado anterior.\n\nObservação: o toque triplo para ampliar funciona em qualquer parte da tela, exceto no teclado e na barra de navegação.</string>
   <string name="accessibility_screen_magnification_title">Gestos de ampliação</string>
   <string name="accessibility_service_default_description">Nenhuma descrição foi fornecida.</string>
   <string name="accessibility_services_title">Serviços</string>
@@ -409,7 +409,6 @@ Se você selecionar não usar anúncios personaliados, o nível de anúncios nã
   <string name="battery_stats_duration">%1$s desde que foi desconectado</string>
   <string name="battery_stats_flashlight_on_label">Lanterna ligada</string>
   <string name="battery_stats_gps_on_label">GPS ligado</string>
-  <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
   <string name="battery_stats_on_battery">%1$s na bateria</string>
   <string name="battery_stats_phone_signal_label">Sinal da rede celular</string>
   <string name="battery_stats_screen_on_label">Tela ativada</string>
@@ -933,10 +932,10 @@ Se você selecionar não usar anúncios personaliados, o nível de anúncios nã
   <string name="data_usage_restrict_background_title">Restringir dados de segundo plano?</string>
   <string name="data_usage_restrict_denied_dialog">Restringir dados de segundo plano só é possível quando você define um limite de dados de rede celular.</string>
   <string name="data_usage_summary_title">Uso de dados</string>
-  <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>\"
-\"<font size="12">limite</font></string>
-  <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>\"
-\"<font size="12">alerta</font></string>
+  <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">limite</font></string>
+  <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">alerta</font></string>
   <string name="data_usage_tab_3g">2G e 3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1640,7 +1639,7 @@ Se você selecionar não usar anúncios personaliados, o nível de anúncios nã
   <string name="location_menu_scanning">Verificação</string>
   <string name="location_mode_battery_saving_description">Usar Wi-Fi, Bluetooth ou redes celulares para determinar a localização</string>
   <string name="location_mode_battery_saving_title">Economia de bateria</string>
-  <string name="location_mode_high_accuracy_description">Usar GPS, Wi‑Fi, Bluetooth ou redes celulares para determinar a localização</string>
+  <string name="location_mode_high_accuracy_description">Usar GPS, Wi-Fi, Bluetooth ou redes celulares para determinar a localização</string>
   <string name="location_mode_high_accuracy_title">Alta precisão</string>
   <string name="location_mode_location_off_title">Local desativado</string>
   <string name="location_mode_screen_title">Modo de localização</string>
@@ -1786,19 +1785,19 @@ para o Segundo Espaço"</string>
   <string name="managed_user_title">Perfil de trabalho</string>
   <string name="managing_admin">Gerenciado por %s</string>
   <string name="manually_add_network">Adicionar rede</string>
-  <string name="master_clear_accounts">\n\n\"No momento você está conectado às seguintes contas:\n\"</string>
+  <string name="master_clear_accounts">\n\nNo momento você está conectado às seguintes contas:\n</string>
   <string name="master_clear_all">"Apagar todos os seus dados da memória interna de seu telefone? Esta ação não pode ser desfeita!"</string>
   <string name="master_clear_button_text">Redefinir telefone</string>
   <string name="master_clear_confirm_title">Redefinir?</string>
-  <string name="master_clear_desc">\"Essa ação apagará todos os dados do \"<b>"armazenamento interno"</b>\" de seu telefone, incluindo:\n\n\"<li>"Sua Conta do Google"</li>\n<li>"Configurações e dados do sistema e dos apps"</li>\n<li>"Apps baixados"</li></string>
-  <string name="master_clear_desc_also_erases_external"><li>"Músicas"</li>\n<li>"Fotos"</li>\n<li>"Outros dados do usuário"</li></string>
-  <string name="master_clear_desc_erase_external_storage">\n\n\"Para limpar músicas, imagens e outros dados de usuário, o conteúdo do \"<b>"cartão SD"</b>\" precisa ser apagado.\"</string>
+  <string name="master_clear_desc">Essa ação apagará todos os dados do <b>armazenamento interno</b> de seu telefone, incluindo:\n\n\<li>Sua Conta do Google</li>\n<li>Configurações e dados do sistema e dos apps</li>\n<li>Apps baixados</li></string>
+  <string name="master_clear_desc_also_erases_external"><li>Músicas</li>\n<li>Fotos</li>\n<li>Outros dados do usuário</li></string>
+  <string name="master_clear_desc_erase_external_storage">\n\nPara limpar músicas, imagens e outros dados de usuário, o conteúdo do <b>cartão SD</b> precisa ser apagado.</string>
   <string name="master_clear_erase_application_progress">Apagando apps\u2026</string>
   <string name="master_clear_failed">Nenhuma redefinição foi realizada porque o serviço de Limpeza do sistema não está disponível.</string>
   <string name="master_clear_final_button_text">Apagar tudo</string>
   <string name="master_clear_final_desc">Limpar todas as suas informações pessoais e apps baixados por download? Não é possível desfazer esta ação.</string>
   <string name="master_clear_not_available">A configuração original não está disponível para esse usuário</string>
-  <string name="master_clear_other_users_present">\n\n\"Há outros usuários presentes neste dispositivo.\n\"</string>
+  <string name="master_clear_other_users_present">\n\nHá outros usuários presentes neste dispositivo.\n</string>
   <string name="master_clear_personal_data">"Apagar todos os seus dados pessoais? Esta ação não pode ser desfeita!"</string>
   <string name="master_clear_personal_data_application">"Apagar todos os seus dados pessoais e apps transferidos? Esta ação não pode ser desfeita!"</string>
   <string name="master_clear_personal_data_sdcard">"Apagar todos os seus dados pessoais e conteúdo do dispositivo? Esta ação não pode ser desfeita!"</string>
@@ -2601,13 +2600,13 @@ Selecione seu sistema operacional:"</string>
   <string name="reset_aaid">Redefinir identificador de anunciante</string>
   <string name="reset_app_preferences">Redefinir preferências</string>
   <string name="reset_app_preferences_button">Redefinir apps</string>
-  <string name="reset_app_preferences_desc">Isso redefinirá todas as preferências para:\n \n \"<li>"apps desabilitados "</li>\" \n \"<li>"notificações de apps desabilitados"</li>\" \n \"<li>"apps padrão para ações"</li>\" \n \"<li>"restrições de dados em plano de fundo para apps"</li>\" \n \"<li>"quaisquer restrições de permissão"</li>\" \n\n Você não perderá dados de apps.</string>
+  <string name="reset_app_preferences_desc">Isso redefinirá todas as preferências para:\n\n<li>apps desabilitados</li>\n<li>notificações de apps desabilitados</li>\n<li>apps padrão para ações</li>\n<li>restrições de dados em plano de fundo para apps</li>\n<li>quaisquer restrições de permissão</li>\n\nVocê não perderá dados de apps.</string>
   <string name="reset_app_preferences_title">Redefinir preferências?</string>
   <string name="reset_legacy_password_settings_preface_text">Você precisa redefinir a senha da tela de bloqueio.</string>
   <string name="reset_network_button_text">Redefinir configurações</string>
   <string name="reset_network_complete_toast">As configurações de rede foram redefinidas</string>
   <string name="reset_network_confirm_title">Redefinir?</string>
-  <string name="reset_network_desc">\"Isso redefinirá todas as configurações de rede, incluindo:\n\n\"<li>"Wi‑Fi"</li>\n<li>"dados da rede celular"</li>\n<li>"Bluetooth"</li></string>
+  <string name="reset_network_desc">Isso redefinirá todas as configurações de rede, incluindo:\n\n<li>Wi-Fi</li>\n<li>dados da rede celular</li>\n<li>Bluetooth</li></string>
   <string name="reset_network_final_button_text">Redefinir configurações</string>
   <string name="reset_network_final_desc">Redefinir todas as configurações de rede? Não é possível desfazer esta ação.</string>
   <string name="reset_network_title">Redef. config. de rede</string>
@@ -2630,7 +2629,7 @@ Selecione seu sistema operacional:"</string>
   <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Restrições</string>
   <string name="restriction_wifi_config_summary">Permitir modificação das configurações de Wi-Fi e redes móveis</string>
-  <string name="restriction_wifi_config_title">Wi‑Fi e redes móveis</string>
+  <string name="restriction_wifi_config_title">Wi-Fi e redes móveis</string>
   <string name="retry">Repetir</string>
   <string name="ring_volume_option_title">Volume do toque</string>
   <string name="ring_volume_title">Volume da campainha</string>
@@ -2976,8 +2975,8 @@ Selecione seu sistema operacional:"</string>
   <string name="security_settings_fingerprint_enroll_dialog_delete">Excluir</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Nome</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">Ok</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">\"Além de desbloquear seu smartphone, também é possível usar sua impressão digital para autorizar compras e acesso a apps. \"<annotation id="url">\"Saiba mais\"</annotation></string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">\"Opção de bloqueio de tela desativada. Ainda será possível usar sua impressão digital para autorizar compras e acesso a apps. \"<annotation id="url">\"Saiba mais\"</annotation></string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Além de desbloquear seu smartphone, também é possível usar sua impressão digital para autorizar compras e acesso a apps. <annotation id="url">Saiba mais</annotation></string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Opção de bloqueio de tela desativada. Ainda será possível usar sua impressão digital para autorizar compras e acesso a apps. <annotation id="url">Saiba mais</annotation></string>
   <string name="security_settings_fingerprint_enroll_done">Concluído</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustração mostrando a localização do sensor de impressão digital no dispositivo</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">Localize o sensor de impressão digital na parte de trás do smartphone.</string>
@@ -3311,15 +3310,15 @@ Se você optar por ignorá-lo, todos os dados do dispositivo serão perdidos par
 
 Todos os dados deste ^1 serão apagados. Faça backup primeiro.
 
-\"<b>Backup de fotos e outras mídias</b>\"
+"<b>Backup de fotos e outras mídias</b>"
 Mova seus arquivos de mídia para um local de armazenamento alternativo neste dispositivo ou transfira-os para um computador usando um cabo USB. 
 
-\"<b>Backup de apps</b>\"
+"<b>Backup de apps</b>"
 Todos os apps armazenados neste ^1 serão desinstalados, e os dados deles serão apagados. Para manter esses apps, mova-os para um local de armazenamento alternativo neste dispositivo."</string>
   <string name="storage_internal_title">Armazenamento do dispositivo</string>
-  <string name="storage_internal_unmount_details"><b>Quando você ejetar este ^1, os apps armazenados nele deixarão de funcionar, e os arquivos de mídia não ficarão disponíveis até que ele seja inserido novamente.</b>\"
+  <string name="storage_internal_unmount_details"><b>Quando você ejetar este ^1, os apps armazenados nele deixarão de funcionar, e os arquivos de mídia não ficarão disponíveis até que ele seja inserido novamente.</b>"
 
-Este ^1 é formatado para funcionar apenas neste dispositivo. Não funcionará em nenhum outro.\"</string>
+Este ^1 é formatado para funcionar apenas neste dispositivo. Não funcionará em nenhum outro."</string>
   <string name="storage_label">Armazenamento</string>
   <string name="storage_low_summary">Algumas funções do sistema, como a sincronização, podem não funcionar corretamente. Tente liberar espaço excluindo ou desmarcando itens como apps ou conteúdo de mídia.</string>
   <string name="storage_low_title">Pouco espaço de armazenamento</string>
@@ -3357,11 +3356,11 @@ Este ^1 é formatado para funcionar apenas neste dispositivo. Não funcionará e
 
 Depois da formatação, este ^1 funcionará somente neste dispositivo. 
 
-\"<b>A formatação limpa todos os dados armazenados no ^1.</b>\" Para evitar perder os dados, faça backup deles."</string>
+"<b>A formatação limpa todos os dados armazenados no ^1.</b>" Para evitar perder os dados, faça backup deles."</string>
   <string name="storage_wizard_format_confirm_next">Limpar e formatar</string>
   <string name="storage_wizard_format_confirm_public_body">"É necessário que o cartão ^1 seja formatado.
 
-\"<b>A formatação limpa todos os dados armazenados atualmente no cartão ^1.</b>\" Para evitar perder os dados, faça backup deles."</string>
+"<b>A formatação limpa todos os dados armazenados atualmente no cartão ^1.</b>" Para evitar perder os dados, faça backup deles."</string>
   <string name="storage_wizard_format_confirm_public_title">Formatar c/ armazenam. portátil</string>
   <string name="storage_wizard_format_confirm_title">Formatar como armazenam. interno</string>
   <string name="storage_wizard_format_progress_body">Não remova o ^1 enquanto ele estiver sendo formatado.</string>
@@ -3438,7 +3437,7 @@ Você pode usar um ^1 mais rápido para ter um desempenho melhor."</string>
   <string name="sync_menu_sync_now">Sincronizar agora</string>
   <string name="sync_one_time_sync">"Toque para sincronizar agora
 %1$s"</string>
-  <string name="sync_plug"><font fgcolor="#ffffffff">\"Bem-vindo ao Google Sync!\"</font>\" \nUm método do Google para sincronizar dados a fim de permitir acesso aos seus contatos, compromissos e muito mais, onde quer que você esteja.\"</string>
+  <string name="sync_plug"><font fgcolor="#ffffffff">Bem-vindo ao Google Sync!</font>\nUm método do Google para sincronizar dados a fim de permitir acesso aos seus contatos, compromissos e muito mais, onde quer que você esteja.</string>
   <string name="sync_settings">Sincronização</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Somente por Wi-Fi</string>
@@ -3701,7 +3700,7 @@ Suas impressões digitais também serão removidas deste dispositivo e não ser�
   <string name="user_add_user_item_summary">Usuários padrão têm seus próprios apps e conteúdo</string>
   <string name="user_add_user_item_title">Usuário</string>
   <string name="user_add_user_menu">Adicionar usuário</string>
-  <string name="user_add_user_message_long">É possível compartilhar esse dispositivo com outras pessoas criando usuários adicionais. Cada usuário tem seu próprio espaço, que pode ser personalizado com apps, planos de fundo etc. Os usuários também podem ajustar as configurações do dispositivo, como Wi‑Fi, que afetam a todos.\n\nQuando você adiciona um novo usuário, essa pessoa precisa configurar o próprio espaço.\n\nQualquer usuário pode atualizar apps para os demais usuários.</string>
+  <string name="user_add_user_message_long">É possível compartilhar esse dispositivo com outras pessoas criando usuários adicionais. Cada usuário tem seu próprio espaço, que pode ser personalizado com apps, planos de fundo etc. Os usuários também podem ajustar as configurações do dispositivo, como Wi-Fi, que afetam a todos.\n\nQuando você adiciona um novo usuário, essa pessoa precisa configurar o próprio espaço.\n\nQualquer usuário pode atualizar apps para os demais usuários.</string>
   <string name="user_add_user_message_short">Quando você adiciona um novo usuário, essa pessoa precisa configurar o próprio espaço.\n\nQualquer usuário pode atualizar apps para os demais usuários.</string>
   <string name="user_add_user_or_profile_menu">Adicionar usuário ou perfil</string>
   <string name="user_add_user_title">Adicionar novo usuário?</string>
@@ -3942,7 +3941,7 @@ Suas impressões digitais também serão removidas deste dispositivo e não ser�
   <string name="wifi_alert_lockdown_by_device_owner">O app %1$s gerencia seu dispositivo e não permite a modificação ou exclusão desta rede Wi-Fi. Para receber mais informações, entre em contato com seu administrador.</string>
   <string name="wifi_allow_scan_with_traffic">Sempre permitir verif. de roaming de Wi-Fi</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/proibir verificações de roaming de Wi-Fi com base no volume do tráfego de dados presente na interface</string>
-  <string name="wifi_and_mobile_skipped_message">\"Se você ignorar o Wi‑Fi:\n\n\"<li>"Seu smartphone não terá conexão com a Internet."</li>\n\n<li>"Você não receberá atualizações de software enquanto não se conectar à Internet."</li>\n\n<li>"Não será possível ativar recursos de proteção de dispositivos no momento."</li></string>
+  <string name="wifi_and_mobile_skipped_message">Se você ignorar o Wi-Fi:\n\n<li>Seu smartphone não terá conexão com a Internet.</li>\n\n<li>Você não receberá atualizações de software enquanto não se conectar à Internet.</li>\n\n<li>Não será possível ativar recursos de proteção de dispositivos no momento.</li></string>
   <string name="wifi_ap_band_config">Selecionar banda de AP</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
@@ -4119,7 +4118,7 @@ Suas impressões digitais também serão removidas deste dispositivo e não ser�
 
 Permitir isto para todos os apps que quiserem verificar?"</string>
   <string name="wifi_scan_notify_remember_choice">Não mostrar novamente</string>
-  <string name="wifi_scan_notify_text">Para aumentar a precisão da localização, apps e serviços do sistema ainda conseguem procurar redes Wi‑Fi. É possível alterar isso nas LINK_BEGINconfigurações de verificaçãoLINK_END.</string>
+  <string name="wifi_scan_notify_text">Para aumentar a precisão da localização, apps e serviços do sistema ainda conseguem procurar redes Wi-Fi. É possível alterar isso nas LINK_BEGINconfigurações de verificaçãoLINK_END.</string>
   <string name="wifi_security">Segurança</string>
   <string name="wifi_security_none">Nenhuma</string>
   <string name="wifi_select_assistant_dialog_title">Escolher assistente</string>
@@ -4139,7 +4138,7 @@ Permitir isto para todos os apps que quiserem verificar?"</string>
   <string name="wifi_setup_back">Voltar</string>
   <string name="wifi_setup_cancel">Cancelar</string>
   <string name="wifi_setup_connect">Conectar</string>
-  <string name="wifi_setup_description_connected">Toque em \"<b>"Próximo"</b>\" para continuar a configuração.\n\nToque em \"<b>"Voltar"</b>\" para conectar-se a outra rede Wi-Fi.</string>
+  <string name="wifi_setup_description_connected">Toque em \"<b>Próximo</b>\" para continuar a configuração.\n\nToque em \"<b>Voltar</b>\" para conectar-se a outra rede Wi-Fi.</string>
   <string name="wifi_setup_description_connecting">A conexão pode levar alguns minutos...</string>
   <string name="wifi_setup_detail">Detalhes da rede</string>
   <string name="wifi_setup_eap_not_supported">"Não é possível configurar uma conexão Wi-Fi EAP durante a configuração. É possível fazer isso em seguida, na opção \"Configurações\" &gt; \"Sem fio e redes\"."</string>
@@ -4163,7 +4162,7 @@ Permitir isto para todos os apps que quiserem verificar?"</string>
   <string name="wifi_setup_title_connected_network">Conectado à rede Wi-Fi %s</string>
   <string name="wifi_setup_title_connecting_network">Conectando-se à rede Wi-Fi %s\u2026</string>
   <string name="wifi_setup_title_editing_network">Conectar-se à rede Wi-Fi %s</string>
-  <string name="wifi_setup_wizard_title">Selecionar rede Wi‑Fi</string>
+  <string name="wifi_setup_wizard_title">Selecionar rede Wi-Fi</string>
   <string name="wifi_setup_wps">Configuração automática (WPS)</string>
   <string name="wifi_share">Compartilhar Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Parar de compartilhar redes</string>
