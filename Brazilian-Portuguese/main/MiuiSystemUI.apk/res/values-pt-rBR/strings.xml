@@ -21,6 +21,7 @@
   <string name="accessibility_data_three_bars">Três barras do sinal de dados.</string>
   <string name="accessibility_data_two_bars">Duas barras de sinal de dados.</string>
   <string name="accessibility_home">Página inicial</string>
+  <string name="accessibility_ime_switch_button">Botão para alternar método de entrada.</string>
   <string name="accessibility_managed_profile">Perfil de trabalho</string>
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">Nenhum dado.</string>
@@ -177,11 +178,11 @@ Use apenas o carregador fornecido."</string>
   <string name="label_view">Visualizar</string>
   <string name="lland">L Land</string>
   <string name="lockscreen_carrier_default">Sem serviço</string>
-  <string name="long_screenshot_not_support_msg">"O app atual não suporta a captura de tela estendida"</string>
+  <string name="long_screenshot_not_support_msg">"O app atual não suporta captura de tela estendida"</string>
   <string name="long_screenshot_out_of_memory_error">O tamanho da imagem é muito grande</string>
   <string name="long_screenshot_processing">Processando\u2026</string>
   <string name="long_screenshot_stop">Concluído</string>
-  <string name="long_screenshot_top_msg">Estendendo captura de tela\u2026</string>
+  <string name="long_screenshot_top_msg">Criando captura de tela\u2026</string>
   <string name="managed_profile_foreground_toast">"Você está usando seu perfil de trabalho"</string>
   <string name="mdb_entering">Iniciando\u2026</string>
   <string name="mdb_restore_cancel">Cancelar</string>
@@ -283,10 +284,10 @@ Deslize para baixo para bloquear"</string>
   <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponível</string>
   <string name="status_bar_recording_back">Retornar ao Gravador</string>
   <string name="status_bar_recording_pause">Gravação em pausa</string>
-  <string name="status_bar_safepay_risk">Ambiente de pagamento inseguro!</string>
-  <string name="status_bar_safepay_safe">Ambiente de pagamento seguro.</string>
-  <string name="status_bar_safepay_scanning">Detectando ambiente de pagamento\u2026</string>
-  <string name="status_bar_safepay_unknown">Segurança de pagamento desconhecida.</string>
+  <string name="status_bar_safepay_risk">Risco de pagamentos encontrado</string>
+  <string name="status_bar_safepay_safe">Nenhum risco de pagamentos encontrado</string>
+  <string name="status_bar_safepay_scanning">Verificando ambiente de pagamento\u2026</string>
+  <string name="status_bar_safepay_unknown">"Não foi possível verificar o ambiente de pagamentos"</string>
   <string name="status_bar_settings_airplane">Modo avião</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Sem conexão à Internet</string>

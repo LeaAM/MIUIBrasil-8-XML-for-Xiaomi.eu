@@ -15,6 +15,6 @@
   </plurals>
   <plurals name="view_realtime_clear">
     <item quantity="other">Limpo</item>
-    <item quantity="one">Ensolarado</item>
+    <item quantity="one">Claro</item>
   </plurals>
 </resources>

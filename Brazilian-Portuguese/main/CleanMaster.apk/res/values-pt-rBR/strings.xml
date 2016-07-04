@@ -223,6 +223,7 @@
   <string name="hot">Popular</string>
   <string name="hot_today">Popular hoje</string>
   <string name="information_setting">Config. do Feed de notícias</string>
+  <string name="install_sucess">%s instalado com sucesso</string>
   <string name="installed">Instalado</string>
   <string name="installing">Instalando</string>
   <string name="item_title_process_mode">Escolha uma ação</string>
@@ -262,6 +263,7 @@
   <string name="notify_when">Receber notificação quando o lixo atingir 100MB</string>
   <string name="ok">OK</string>
   <string name="open">Ativar</string>
+  <string name="open_app">Abrir</string>
   <string name="open_browser">Abrir no navegador</string>
   <string name="optimizecenter_data_support_cm">Desenvolvido por CleanMaster</string>
   <string name="optimizecenter_data_support_tc">Desenvolvido por Tencent</string>
@@ -390,7 +392,7 @@
   <string name="total_clean_text">Limpo</string>
   <string name="traffic_top">Top 5 de apps consumindo dados</string>
   <string name="unlike">Não, obrigado</string>
-  <string name="update_date_format">dd-MM-yyyy</string>
+  <string name="update_date_format">dd/MM/yyyy</string>
   <string name="virus_scan">Antivírus</string>
   <string name="white_list_ad_header">Arquivos de anúncios: %d</string>
   <string name="white_list_apk_header">Pacotes de instalação: %d</string>

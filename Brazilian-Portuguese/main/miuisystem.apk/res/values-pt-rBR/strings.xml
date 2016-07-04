@@ -15,7 +15,7 @@
   <string name="device_xiaomi">Mi Phone</string>
   <string name="edit_frequent_phrases">Editar frases frequentes</string>
   <string name="frequent_phrases_des">Insira frases usadas frequentemente com poucos toques ao escrever uma mensagem</string>
-  <string name="frequent_phrases_size_exceeded">É possível adicionar até 10 frases frequentes. Exclua as desnecessárias para adicionar mais</string>
+  <string name="frequent_phrases_size_exceeded">É possível adicionar até %1$d frases frequentes. Exclua as desnecessárias para adicionar mais.</string>
   <string name="menu_add_frequent_phrases">Adicionar</string>
   <string name="menu_delete">Excluir</string>
   <string name="menu_edit">Editar</string>

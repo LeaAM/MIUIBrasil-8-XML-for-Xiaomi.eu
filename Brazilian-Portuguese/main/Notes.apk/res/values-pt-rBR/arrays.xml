@@ -28,16 +28,16 @@
     <item>Grande</item>
     <item>Extra grande</item>
   </string-array>
-    <string-array name="welcome_notes_content">
-        <item>"Bem-vindo!
+  <string-array name="welcome_notes_content">
+    <item>"Toque para criar uma anotação
 "</item>
-        <item>"Toque para criar uma anotação
+    <item>"Para adicionar uma imagem ou exibir caixas de seleção, toque no botão abaixo
 "</item>
-        <item>"Escolha um lindo tema
+    <item>"Escolha modelos
 "</item>
-        <item>"Criar pasta de anotações
+    <item>"Crie pastas
 "</item>
-        <item>"Proteja anotações privadas
+    <item>"Oculte anotações
 "</item>
     <item>"E muitos outros recursos!
  - Sincronização com a Mi Cloud

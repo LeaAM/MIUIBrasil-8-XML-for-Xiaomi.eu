@@ -245,7 +245,7 @@
   <string name="close_dialog">PM</string>
   <string name="close_profile">Fechar</string>
   <string name="cloud_antispam_title">Identificar números desconhecidos</string>
-  <string name="cmcc_ut_data_enable_prompt">"Não foi possível conectar-se à rede VoLTE. Ative sua conexão de dados móveis agora."</string>
+  <string name="cmcc_ut_data_enable_prompt">Este serviço requer uma conexão de dados móveis. Ative-a para continuar.</string>
   <string name="command_error_fdn_failure">É preciso desativar o FDN primeiro</string>
   <string name="common_problem_message">Saiba mais em %1$s, ou entre em contato com o SAC em 400-100-5678</string>
   <string name="common_setting">Configurações gerais</string>
@@ -394,7 +394,7 @@
   <string name="error_updating_title">Erro de configuração da chamada</string>
   <string name="exception_error">Erro de rede ou do cartão SIM.</string>
   <string name="exportAllcontatsFailed">"Falha ao exportar todos os contatos para o cartão SIM."</string>
-  <string name="exportAllcontatsNoContacts">Nenhum contato encontrado para exportar para o cartão SIM.</string>
+  <string name="exportAllcontatsNoContacts">Nenhum contato encontrado para exportar para o cartão SIM</string>
   <string name="exportAllcontatsSuccess">Contatos exportados para o cartão SIM</string>
   <string name="exportContactScreen"> Exportar contatos do telefone para o SIM </string>
   <string name="exportContacts">Exportando contatos para cartão SIM\u2026</string>
@@ -469,8 +469,6 @@ Mudar para o novo provedor?"</string>
   <string name="incall_error_supp_service_unknown">Serviço não suportado</string>
   <string name="incall_error_wfc_only_no_wireless_network">Conecte-se a uma rede sem fio para fazer a chamada.</string>
   <string name="incall_status_dialed_mmi">Iniciando sequência MMI\u2026</string>
-  <string name="incoming_video_show_pref_summary">Mostrar vídeo definido pelo remetente. Para utilizar esta função, active os cartões de contato.</string>
-  <string name="incoming_video_show_pref_title">"Mostrar vídeo do remetente"</string>
   <string name="input_password">Insira a senha</string>
   <string name="international_calls">Somente internacionais</string>
   <string name="international_dial_complete_intention">Faça chamadas internacionais com tarifas mais baixas</string>
@@ -836,7 +834,6 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="path_fdn">Apps do sistema/Telefone/Configurações avançadas/Números de chamadas fixas (FDN)</string>
   <string name="path_flash_when_ring_title">Apps do sistema/Telefone/Configuração de chamadas recebidas/Piscar LED de notificação quando tocar</string>
   <string name="path_handon_ringer_title">Apps do sistema/Telefone/Configuração de chamadas recebidas/Silenciar toque quando pego</string>
-  <string name="path_incoming_video_show_pref_title">"Apps do sistema/Telefone/Configurações avançadas/Mostrar vídeo de perfil"</string>
   <string name="path_missed_call_notify_times_title">Apps do sistema/Telefone/Configurações avançadas/Lembrete de chamadas perdidas</string>
   <string name="path_preference_dial_pad_touch_tone_title">Apps do sistema/Telefone/Configurações avançadas/Tons do teclado de discagem</string>
   <string name="path_preference_telocation_title">Apps do sistema/Telefone/Localização</string>
@@ -849,6 +846,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
   <string name="path_telocation_enable_title">Apps do sistema/Telefone/Mostrar localização</string>
   <string name="path_turnover_mute_title">Apps do sistema/Telefone/Configuração de chamadas recebidas/Virar para silenciar toque</string>
   <string name="path_voicemail_settings">Apps do sistema/Telefone/Configurações avançadas/Definir</string>
+  <string name="path_voip_setting">Apps do sistema/Telefone/Configurações de VoIP</string>
   <string name="pause_prompt_no">Não</string>
   <string name="pause_prompt_str">"Enviando tons
 "</string>
@@ -1112,6 +1110,7 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="simContacts_empty">Não há contatos no seu cartão SIM.</string>
   <string name="simContacts_emptyLoading">Lendo a partir do cartão SIM\u2026</string>
   <string name="simContacts_title">Gerenciar contatos do SIM</string>
+  <string name="simFdnContacts_empty">Nenhum contato de FDN.</string>
   <string name="sim_activated">Verificado</string>
   <string name="sim_card_activate">Verificação do SIM</string>
   <string name="sim_card_num">Cartão SIM %s</string>

@@ -54,7 +54,7 @@
   <string name="receiver_transfer_interrupt">"Transferência interrompida, não desative o Hotspot Wi-Fi durante a transferência"</string>
   <string name="receiver_video_file_current">Recebendo %2$d​ vídeos de %1$s</string>
   <string name="receiver_video_file_num">%2$d​ vídeos de %1$s</string>
-  <string name="runtime_permission_ungranted">Não foi possível usar o Mi Drop devido a permissões insuficientes</string>
+  <string name="runtime_permission_ungranted">"Não é possível usar o Mi Drop devido a permissões não concedidas"</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"Cancelar"</string>

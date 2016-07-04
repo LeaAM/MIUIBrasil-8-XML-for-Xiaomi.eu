@@ -87,7 +87,7 @@ Você também pode fazer o download deles separadamente."</string>
   <string name="import_contacts_desc">Tornar contatos importados privados</string>
   <string name="import_contacts_suc">Contatos privados importados</string>
   <string name="import_file_suc">Itens importados para pastas</string>
-  <string name="import_now">Exportar</string>
+  <string name="import_now">Importar</string>
   <string name="import_photo">Importar fotos</string>
   <string name="import_photo_desc">Ver itens compartilhados no Segundo Espaço</string>
   <string name="import_photo_suc">Fotos importadas</string>
@@ -124,6 +124,7 @@ Você também pode fazer o download deles separadamente."</string>
   <string name="private_space_setting">Gerenciar</string>
   <string name="public_app">Ambos os Espaços</string>
   <string name="removeSuccess">Excluído com sucesso</string>
+  <string name="remove_second_space_msg">Todos os dados de apps do Segundo Espaço serão perdidos após excluir o Segundo Espaço. Excluí-lo agora?</string>
   <string name="removingSpace">Excluindo\u2026</string>
   <string name="restore_normal_show">"Não mostrar mensagens privadas"</string>
   <string name="restore_show_desc">"Não mostrar mensagens privadas no Segundo Espaço. Elas ainda estarão disponíveis no Espaço principal."</string>
@@ -199,7 +200,7 @@ Você também pode fazer o download deles separadamente."</string>
   <string name="wating">Aguarde\u2026</string>
   <string name="xspace_chocie">Outros apps</string>
   <string name="xspace_creating">Clonando app\u2026</string>
-  <string name="xspace_description">Clone apps para usá-los separadamente. Apps clonados terão ícones específicos na Tela inicial.</string>
+  <string name="xspace_description">Crie apps clonados para usá-los separadamente. Apps clonados possuem ícones específicos na Tela inicial.</string>
   <string name="xspace_header">Apps clonados</string>
   <string name="xspace_install_completed">Ícone adicionado na Tela inicial</string>
   <string name="xspace_installing">Instalando\u2026</string>
@@ -207,7 +208,7 @@ Você também pode fazer o download deles separadamente."</string>
   <string name="xspace_label">Apps clonados</string>
   <string name="xspace_loading_msg">Carregando apps\u2026</string>
   <string name="xspace_uninstall_completed">App clonado desinstalado com sucesso</string>
-  <string name="xspace_uninstall_dialog_content">A desinstalação do app clonado removerá todos os dados deste app.</string>
+  <string name="xspace_uninstall_dialog_content">A desinstalação do app clonado removerá todos os dados do app.</string>
   <string name="xspace_uninstall_dialog_title">Desinstalar app clonado</string>
   <string name="xspace_uninstalling">Desinstalando\u2026</string>
 </resources>

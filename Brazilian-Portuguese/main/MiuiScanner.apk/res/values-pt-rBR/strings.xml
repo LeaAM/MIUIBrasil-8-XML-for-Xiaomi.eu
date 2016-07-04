@@ -97,7 +97,7 @@
   <string name="name">Nome:</string>
   <string name="namecard_recognize_failed_tip">"Não foi possível ler o cartão"</string>
   <string name="namecard_recognizing">Lendo\u2026</string>
-  <string name="namecard_title">Alinhe o cartão no quadro para escanear</string>
+  <string name="namecard_title">Coloque o cartão dentro do quadro</string>
   <string name="namecard_vendor_info">Fornecido por CamCard</string>
   <string name="nickname">Apelido:</string>
   <string name="no_network">"Não foi possível conectar-se à rede"</string>
@@ -126,6 +126,7 @@
   <string name="shopping_vendor_info">Fornecido por Taobao</string>
   <string name="spaceIsLow_content">Espaço insuficiente no cartão SD. Libere algum espaço.</string>
   <string name="study_report_title">Reportar</string>
+  <string name="study_rotate_picture">Processando foto</string>
   <string name="study_scan_result">Resultado</string>
   <string name="study_searching">Pesquisando resultados</string>
   <string name="study_title">Tire uma foto do problema</string>
@@ -140,13 +141,13 @@
   <string name="translation_language_korean">Coreano</string>
   <string name="translation_language_spanish">Espanhol</string>
   <string name="translation_prompt_cannot_find">"Palavra ou frase não encontrada"</string>
-  <string name="translation_prompt_maintain_level">Alinhe o texto nesta linha</string>
+  <string name="translation_prompt_maintain_level">Mantenha o texto paralelo a esta linha</string>
   <string name="translation_prompt_recapture">A foto está muito desfocada, tire uma nova</string>
   <string name="translation_prompt_sentence">Selecione o texto para traduzir</string>
   <string name="translation_prompt_translating">Traduzindo\u2026</string>
   <string name="translation_prompt_translating_sentence">Traduzindo\u2026</string>
   <string name="translation_prompt_translating_word">Reconhecendo\u2026</string>
-  <string name="translation_prompt_word">Alinhe a palavra dentro do quadro</string>
+  <string name="translation_prompt_word">Coloque a palavra dentro do quadro</string>
   <string name="translation_see_more">Ver definição</string>
   <string name="translation_type_sentence">Frase</string>
   <string name="translation_type_word">Palavra</string>

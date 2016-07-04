@@ -34,7 +34,7 @@
   <string name="allContactdeleteSuccess">Contatos do cartão SIM excluídos</string>
   <string name="always_enable_mms">Sempre receber MMS</string>
   <string name="always_enable_mms_summary">Receber MMS mesmo com os dados móveis desativados</string>
-  <string name="answer_features_setting_category">Atendendo</string>
+  <string name="answer_features_setting_category">Atendimento e chamadas</string>
   <string name="answer_state_setting_summary">Opções adicionais para chamadas recebidas</string>
   <string name="answer_state_setting_title">Configuração de chamadas recebidas</string>
   <string name="antispam_notification_title">Número desconhecido</string>
@@ -88,6 +88,7 @@
   <string name="bad_puk">O PUK digitado está incorreto.</string>
   <string name="bad_puk2">O PUK2 inserido está incorreto.</string>
   <string name="bf_news_settings">Notícias de negócios e finanças</string>
+  <string name="call_advanced_setting_title">Configurações avançadas</string>
   <string name="call_barring_sum">Configuração de restrição de chamadas</string>
   <string name="call_description_recording">Gravando\u2026</string>
   <string name="call_forwarding_number_hint">Encaminhar chamadas para</string>
@@ -103,7 +104,7 @@
   <string name="call_record_auto_whitelist_summary">%d números</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 número</string>
   <string name="call_record_off_summary">Desativado</string>
-  <string name="call_record_on_summary">Chamadas serão gravadas automaticamente</string>
+  <string name="call_record_on_summary">Ativado</string>
   <string name="call_record_setting">Gravação de chamadas</string>
   <string name="call_record_whitelist_custom">Números selecionados</string>
   <string name="call_recording_notification_message">Toque para ouvir.</string>
@@ -565,6 +566,7 @@ Recarregue e comece a falar"</string>
   <string name="network_settings_sel_sub">Configuração de cartões SIM</string>
   <string name="network_settings_select_automatic_hint">"Não foi possível registrar-se na rede que você selecionou.
 A rede preferencial será utilizada."</string>
+  <string name="network_settings_title">Redes móveis</string>
   <string name="network_settings_turn_off">Desativado</string>
   <string name="network_settings_warn_message">Seu dispositivo só irá se conectar a redes que você selecionar manualmente.</string>
   <string name="network_unconnected_message_livetalk">Erro de rede. Tente fazer uma chamada regular. Ela será cobrada por sua operadora.</string>
@@ -690,6 +692,7 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="preference_auto_ip_summary_disable">Desativado</string>
   <string name="preference_category_ringtone">Toque &amp; vibração</string>
   <string name="preference_dial_pad_touch_tone_default">Padrão</string>
+  <string name="preference_dial_pad_touch_tone_off">Desativado</string>
   <string name="preference_dial_pad_touch_tone_piano">Teclas de piano</string>
   <string name="preference_dial_pad_touch_tone_title">Tons do teclado de discagem</string>
   <string name="preference_telocation_summary_countrycode_off">"Não adicionar automaticamente o código de país"</string>

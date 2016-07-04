@@ -9,6 +9,7 @@
   <string name="media_status_starting">Conectando\u2026</string>
   <string name="media_status_stopped">Parado</string>
   <string name="media_status_stopping">Parando\u2026</string>
+  <string name="prjection_title">Tela Wi-Fi</string>
   <string name="search_for_devices">Atualizar</string>
   <string name="wifi_display_autonomous_go">Ativar autonomous GO</string>
   <string name="wifi_display_certification_heading">Certificação</string>

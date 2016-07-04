@@ -5,6 +5,7 @@
   <string name="account_login_title">Conta</string>
   <string name="action_mode_deselect_all">Desmarcar tudo</string>
   <string name="action_mode_select_all">Selecionar tudo</string>
+  <string name="activity_parse_video_title">Colar URL</string>
   <string name="activity_rule">Regras</string>
   <string name="ad_download">Download</string>
   <string name="ad_downloading">Aguarde\u2026</string>
@@ -13,6 +14,8 @@
   <string name="add_private_files">Adicionar arquivos</string>
   <string name="add_task">Adicionar tarefas</string>
   <string name="adding_upload_tasks">Adicionando tarefas\u2026</string>
+  <string name="album_creator">Criado por %s</string>
+  <string name="album_name">Seleção diária: %s</string>
   <string name="all_topic">Todos os tópicos</string>
   <string name="already_liked">"Você já marcou o item com estrela"</string>
   <string name="already_signin_description">"Você já efetuou o check-in hoje."</string>
@@ -175,6 +178,7 @@
   <string name="downloading_in_3g">Transferindo com 3G\u2026</string>
   <string name="drive_closed">Não conectado</string>
   <string name="drive_opened">Conectado</string>
+  <string name="editor_commend">Editar</string>
   <string name="email_platform">E-mail</string>
   <string name="empty_comment">"Comentários não podem estar em branco"</string>
   <string name="empty_file_download">"Não é possível fazer o download de arquivos vazios"</string>
@@ -209,7 +213,7 @@
   <string name="file_info_modified">Última modificação:</string>
   <string name="file_info_size">Tamanho:</string>
   <string name="file_loading">Aguarde\u2026</string>
-  <string name="file_name_invalid">"Nomes de arquivos não podem conter os seguintes caracteres: /\\:*?&lt;&gt;"</string>
+  <string name="file_name_invalid">"Nomes de arquivos não podem conter os seguintes caracteres: /\\:*?<>"</string>
   <string name="file_not_exist">"O arquivo não existe"</string>
   <string name="file_too_large">O arquivo é muito grande para o upload.</string>
   <string name="files">Arquivos</string>
@@ -247,6 +251,7 @@
   <string name="hot_comments">Comentários populares</string>
   <string name="hot_sticker">Stickers</string>
   <string name="hot_video">Vídeos</string>
+  <string name="hot_video_load_more">Mais &gt;</string>
   <string name="hottest_sticker_str">Popular</string>
   <string name="if_cancel">Cancelar esta operação?</string>
   <string name="image_loading_error">"Não foi possível carregar a imagem"</string>
@@ -254,6 +259,8 @@
   <string name="installing">Instalando\u2026</string>
   <string name="instruction">Insira o seguinte endereço em seu cliente FTP:</string>
   <string name="instruction_pre">Toque para iniciar o servidor FTP</string>
+  <string name="interest_recommend">Vídeos recomendados</string>
+  <string name="join_activity">Participar</string>
   <string name="just_now">agora mesmo</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Categoria</string>
@@ -335,7 +342,7 @@
   <string name="midrop_msg_1">Ative o Mi Drop no outro dispositivo</string>
   <string name="midrop_msg_2">Quando o Mi Drop está ativado, você pode pesquisar por dispositivos próximos e enviar arquivos</string>
   <string name="midrop_send_files">Escolher arquivos para enviar</string>
-  <string name="migrate_announcement_msg">O KuaiPan deixará de funcionar em 30 de Junho de 2016. Sugerimos que você mova seus arquivos para o Mi Drive agora. Não é necessário possuir uma conexão de dados para isso, já que a transferência ocorrerá diretamente em nossos servidores. Durante a transferência, downloads ou uploads em andamento serão interrompidos.</string>
+  <string name="migrate_announcement_msg">O KuaiPan irá parar de funcionar em 30 de junho de 2016. Nós sugerimos que você mova seus arquivos para o Mi Drive agora. Nenhuma conexão de dados é requerida para isso, já que a transferência ocorrerá diretamente em nossos servidores. Durante a transferência, downloads e upload em andamento serão interrompidos. O Mi Drive e a Mi Cloud compartilharão o mesmo armazenamento.</string>
   <string name="migrate_announcement_title">O KuaiPan está sendo substituído pelo Mi Drive</string>
   <string name="migrate_cancel">Cancelar</string>
   <string name="migrate_confirm">Transferir</string>
@@ -449,7 +456,7 @@ e nunca perca os novos!</string>
   <string name="open_changed_file_message">O arquivo que você está tentando abrir foi alterado. Por favor:\n1. Faça o download do arquivo novamente para atualizá-lo.\n2. Efetue o upload do arquivo em sua conta KuaiPan.</string>
   <string name="open_changed_file_title">Alterações aplicadas.</string>
   <string name="open_file_failed">"Não foi possível abrir"</string>
-  <string name="open_private_folder">Solte para ver as pastas ocultas\u2026</string>
+  <string name="open_private_folder">Solte para ver as pastas secretas</string>
   <string name="operate_confirm_in_3g">"Utilizar sua conexão de dados móveis para transferir este arquivo? Tarifas de uso de dados poderão ser cobradas por sua operadora."</string>
   <string name="operating">Processando\u2026</string>
   <string name="operation_add_fav">Adicionando aos favoritos\u2026</string>
@@ -563,7 +570,7 @@ e nunca perca os novos!</string>
   <string name="repair_error">"Não foi possível restaurar"</string>
   <string name="repair_file">Restaurar arquivos criptografados</string>
   <string name="repeat_upload_video">Este vídeo já foi compartilhado, escolha outro.</string>
-  <string name="reply_success">O comentário será publicado após revisão.</string>
+  <string name="reply_success">Comentário adicionado</string>
   <string name="report_abuse">Abuso</string>
   <string name="report_advertisement">Anúncio</string>
   <string name="report_other">Outros</string>
@@ -667,6 +674,7 @@ e nunca perca os novos!</string>
   <string name="stay_awake_summary">"Não desligar tela durante sessão FTP"</string>
   <string name="stay_awake_title">Manter tela ativa</string>
   <string name="stop_server">Parar servidor</string>
+  <string name="storage_cloned_app">Armazenamento para apps duplicados</string>
   <string name="storage_info">%1$s disponível</string>
   <string name="storage_info_detail">Disponível: %1$s | Total: %2$s</string>
   <string name="storage_internal">Armazenamento interno</string>
@@ -698,6 +706,7 @@ e nunca perca os novos!</string>
   <string name="tab_storage">ARMAZENAMENTO</string>
   <string name="tag_weixin_video">Clipes de vídeo</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_album">Álbuns</string>
   <string name="title_app_tags">Apps</string>
   <string name="title_enable_documentsui">Ativar DocumentsUI</string>
   <string name="title_expire_video">Prestes a expirar</string>
@@ -731,6 +740,10 @@ e nunca perca os novos!</string>
   <string name="ui_main_toast_operation_failed">"Não foi possível remover %1$s dos favoritos"</string>
   <string name="unmount_inform_text">Desmontar armazenamento USB?</string>
   <string name="unreviewed_video_cannot_share">Vídeos precisam ser revisados antes do compartilhamento</string>
+  <string name="upload_external_action_hint">Colar URL</string>
+  <string name="upload_external_notification_failed">"Não foi possível publicar"</string>
+  <string name="upload_external_notification_success">Publicado com sucesso</string>
+  <string name="upload_external_notification_title">Publicando, aguarde</string>
   <string name="upload_failed">"Não foi possível fazer o upload"</string>
   <string name="upload_file_toolarge_message">"O arquivo %1$d é muito grande. Não é possível fazer upload de arquivos maiores que 300MB."</string>
   <string name="upload_local_video">Compartilhar clipe de vídeo</string>
@@ -746,6 +759,7 @@ e nunca perca os novos!</string>
   <string name="upload_video_dialog_message">"Seu vídeo será destacado após ser verificado."</string>
   <string name="upload_video_dialog_title">Vídeo compartilhado</string>
   <string name="upload_video_failed">"Não foi possível compartilhar o vídeo, tente novamente."</string>
+  <string name="upload_video_forbidden">"Não mostrar vídeos similares"</string>
   <string name="upload_video_success">Verificando vídeo\u2026</string>
   <string name="upload_video_tip">"Não é possível compartilhar mais de 1 clipe de vídeo por vez"</string>
   <string name="uploading">Enviando</string>
@@ -795,6 +809,13 @@ e nunca perca os novos!</string>
   <string name="video_data_consumption_confirm">OK</string>
   <string name="video_data_consumption_dialog_message">O upload usará %1$s de dados móveis</string>
   <string name="video_data_consumption_dialog_title">Alerta do uso de dados</string>
+  <string name="video_parse_btn">Iniciar</string>
+  <string name="video_parse_error_repeated">"Não envie vídeos similares"</string>
+  <string name="video_parse_error_unknown">"Este serviço de vídeo não é suportado, tente um diferente"</string>
+  <string name="video_parse_hint">Apps suportados: Wechat, Weibo, Youku.</string>
+  <string name="video_parse_success">Verificado com sucesso</string>
+  <string name="video_parse_timeout">Algo deu errado, tente novamente</string>
+  <string name="video_parsing_btn">Verificando\u2026</string>
   <string name="video_play_failed">Erro desconhecido</string>
   <string name="video_publish_hint">Uma boa descrição ajudará outras pessoas a encontrarem seu vídeo</string>
   <string name="video_releasing">Fazendo upload\u2026</string>

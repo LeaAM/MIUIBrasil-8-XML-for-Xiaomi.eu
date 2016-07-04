@@ -138,11 +138,11 @@
   <string name="logout_failed">"Não foi possível fazer o logout"</string>
   <string name="mi_account_identity_title">Verificar identidade</string>
   <string name="mi_pass">Mi Pass</string>
-  <string name="micloud_account_name">Conta Mi</string>
+  <string name="mi_pay_identity">Identidade</string>
   <string name="micloud_space_info">%s disponível</string>
   <string name="mili_center">Créditos Mi</string>
   <string name="mipay_center">Mi Wallet</string>
-  <string name="multi_user_not_show_sync_activity_message_1">"Parece que você está usando sua Conta Mi no Espaço principal."</string>
+  <string name="multi_user_not_show_sync_activity_message_1">"Parece que você está usando sua Conta Mi do Espaço principal."</string>
   <string name="multi_user_not_show_sync_activity_message_2">"Neste caso, todos os dados serão sincronizados em seu Segundo Espaço. Para prevenir isso, não ative a sincronização com a Mi Cloud."</string>
   <string name="multi_user_not_show_sync_activity_title">"Não ativar sincronização com a Mi Cloud"</string>
   <string name="my_device_title">Dispositivo atual</string>
@@ -240,8 +240,8 @@ Para ativar sua conta, siga o
   <string name="passport_login_title">Faça o login em sua Conta Mi</string>
   <string name="passport_login_using_other_ways"><u>Outras formas de login</u></string>
   <string name="passport_login_with_email_or_id"><u>Fazer login com um e-mail ou ID da Conta Mi</u></string>
-  <string name="passport_miui_provision_find_status_text">"Este dispositivo está associado com uma Conta Mi existente (%1$s). É necessário inserir a senha desta conta para desbloquear o dispositivo.
-(número de desbloqueio: %2$s)"</string>
+  <string name="passport_miui_provision_find_status_text">"Este dispositivo já está associado a uma Conta Mi (%1$s), insira a senha para desbloquear este dispositivo.
+(Número de desbloqueio: %2$s)"</string>
   <string name="passport_next">Avançar</string>
   <string name="passport_notification_title">Erro de login para a conta %1$s</string>
   <string name="passport_password_req_notice">A senha deve possuir de 8 a 16 caracteres e incluir letras e números (sensível a maiúsculas).</string>

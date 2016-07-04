@@ -7,30 +7,6 @@
     <item>SMS</item>
     <item>Alarme</item>
   </string-array>
-  <string-array name="reminder_minutes_labels">
-    <item>Sem lembrete</item>
-    <item>0 minutos</item>
-    <item>5 minutos</item>
-    <item>10 minutos</item>
-    <item>15 minutos</item>
-    <item>30 minutos</item>
-    <item>1 hora</item>
-    <item>1 dia</item>
-    <item>2 dias</item>
-    <item>1 semana</item>
-  </string-array>
-  <string-array name="preferences_default_reminder_labels">
-    <item>Sem lembrete</item>
-    <item>0 minutos</item>
-    <item>5 minutos</item>
-    <item>10 minutos</item>
-    <item>15 minutos</item>
-    <item>30 minutos</item>
-    <item>1 hora</item>
-    <item>1 dia</item>
-    <item>2 dias</item>
-    <item>1 semana</item>
-  </string-array>
   <string-array name="preferences_week_start_day_labels">
     <item>Padrão da localidade</item>
     <item>Sábado</item>
@@ -151,19 +127,9 @@
     <item>Este evento e eventos futuros</item>
     <item>Todos os eventos</item>
   </string-array>
-  <string-array name="delete_repeating_labels_no_selected">
-    <item>Este evento e eventos futuros</item>
-    <item>Todos os eventos</item>
-  </string-array>
   <string-array name="change_response_labels">
     <item>Somente este evento</item>
     <item>Todos os eventos da série</item>
-  </string-array>
-  <string-array name="buttons_list">
-    <item>Dia</item>
-    <item>Semana</item>
-    <item>Mês</item>
-    <item>Compromissos</item>
   </string-array>
   <string-array name="quick_response_defaults">
     <item>Com alguns minutos de atraso.</item>
@@ -175,6 +141,10 @@
     <item>Sempre</item>
     <item>Apenas quando estiver no silencioso</item>
     <item>Nunca</item>
+  </string-array>
+  <string-array name="widget_style_list">
+    <item>Transparente</item>
+    <item>Fundo branco</item>
   </string-array>
   <string-array name="miui_reminder_minutes_labels">
     <item>Sem lembrete</item>

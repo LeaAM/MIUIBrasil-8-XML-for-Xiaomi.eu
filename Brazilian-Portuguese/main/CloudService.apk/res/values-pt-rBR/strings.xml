@@ -53,7 +53,7 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud."</string>
   <string name="connect_wlan">Conectar-se à rede Wi-Fi</string>
   <string name="contact">Contatos</string>
   <string name="deskclock_backup">Backup do relógio</string>
-  <string name="detect_sim_card">Buscar cartão SIM novamente</string>
+  <string name="detect_sim_card">Procurando cartão SIM</string>
   <string name="disable_find_device_error">"Não foi possível desativar a função Encontrar dispositivo. %1$s"</string>
   <string name="disable_find_device_success">Encontrar dispositivo desativado.</string>
   <string name="enableAll">Sincronizar tudo</string>
@@ -225,11 +225,11 @@ Para corrigir isto, você pode excluir alguns arquivos antigos para liberar espa
   <string name="micloud_main_memory_low_message">"Para sincronizar, exclua alguns itens armazenados na Mi Cloud."</string>
   <string name="micloud_main_memory_low_title">"Armazenamento interno quase cheio"</string>
   <string name="micloud_main_message_not_synced">%s itens não sincronizados</string>
-  <string name="micloud_main_multi_user_error_message">"Você fez o login na mesma conta com o Espaço principal e a Mi Cloud foi interrompida. Caso deseje fazer backup dos seus dados:
+  <string name="micloud_main_multi_user_error_message">"Você fez login com a mesma Conta Mi configurada no Espaço principal, causando um erro na Mi Cloud. Se você deseja fazer o backup dos seus arquivos:
 
-1. Use outra conta
-2. Transfira os dados para o Espaço principal"</string>
-  <string name="micloud_main_multi_user_error_title">Mi Cloud interrompida</string>
+1. Use uma conta diferente.
+2. Mova os arquivos para o Espaço principal."</string>
+  <string name="micloud_main_multi_user_error_title">Erro da Mi Cloud</string>
   <string name="micloud_main_network_abnormal">"Não foi possível conectar-se à rede"</string>
   <string name="micloud_main_network_error">"Não foi possível conectar-se à rede"</string>
   <string name="micloud_main_not_sync">%d itens para sincronizar</string>
@@ -283,7 +283,7 @@ Toque no botão de configurações de sincronização para ver mais opções."</
   <string name="micloud_notif_content_depend_wifi">Conecte-se ao Wi-Fi para sincronizar.</string>
   <string name="micloud_notif_content_master_depend_wifi">Conecte-se ao Wi-Fi primeiro.</string>
   <string name="micloud_notif_content_memory_low">Espaço na Mi Cloud insuficiente.</string>
-  <string name="micloud_notif_content_multi_user_error">Você fez login na mesma conta do Espaço principal.</string>
+  <string name="micloud_notif_content_multi_user_error">Você fez o login com a mesma Conta Mi presente no Espaço principal.</string>
   <string name="micloud_notif_content_sync_finish">Conta</string>
   <string name="micloud_notif_content_sync_not_finish">Detalhes</string>
   <string name="micloud_notif_content_sync_with_off">Toque para sincronizar o dispositivo agora.</string>

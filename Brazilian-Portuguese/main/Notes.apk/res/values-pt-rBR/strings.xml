@@ -14,9 +14,9 @@
   <string name="all_terms">%1$s e %2$s</string>
   <string name="app_name">Anotações</string>
   <string name="app_widget">Anotações</string>
-  <string name="attachment_camera">Câmera</string>
+  <string name="attachment_camera">Tirar uma foto</string>
   <string name="attachment_contact">Contatos</string>
-  <string name="attachment_gallery">Galeria</string>
+  <string name="attachment_gallery">Escolher da Galeria</string>
   <string name="button_new_note">Novo</string>
   <string name="call_record_folder_name">Anotações de chamada</string>
   <string name="default_folder_name">Pasta sem nome</string>
@@ -84,6 +84,7 @@ Toque no sinal de + para criar uma pasta"</string>
   <string name="pref_title_recover_help">Recuperar anotações</string>
   <string name="privacy_hint">Privacidade</string>
   <string name="privacy_notes_fragment_title">Anotações ocultas</string>
+  <string name="recover_notes_hint">Ocorreu um erro, vá para i.mi.com para restaurar as anotações.</string>
   <string name="redo">Refazer</string>
   <string name="rename_folder_dialog_tile">Renomear pasta</string>
   <string name="search">Anotações</string>
@@ -109,13 +110,13 @@ Toque no sinal de + para criar uma pasta"</string>
   <string name="sns_desc_preview_wechat">Pré-visualização de mensagem WeChat</string>
   <string name="sns_desc_preview_weibo">Pré-visualização de mensagem Weibo</string>
   <string name="sns_footer_text">Criado com o Mi Notes</string>
-  <string name="sns_hint_content">"No que você está pensando?"</string>
+  <string name="sns_hint_content">Insira a mensagem</string>
   <string name="sns_hint_title">Assunto (opcional)</string>
   <string name="sns_message_disconnect">"Não foi possível conectar-se à rede. Verifique sua conexão de dados e tente novamente."</string>
   <string name="sns_title_edit">Editar título</string>
   <string name="sns_title_send">Enviar mensagem</string>
-  <string name="sns_toast_empty">"Não é possível enviar um post vazio"</string>
-  <string name="sns_toast_over_limit">Enviado como imagem (acima do limite de texto)</string>
+  <string name="sns_toast_empty">"Não é possível enviar uma mensagem vazia"</string>
+  <string name="sns_toast_over_limit">Enviado como imagem</string>
   <string name="sync_tips">Toque para sincronizar anotações com a Mi Cloud.</string>
   <string name="theme_title_antique">Outono</string>
   <string name="theme_title_arty">Floral</string>
@@ -130,7 +131,7 @@ Toque no sinal de + para criar uma pasta"</string>
   <string name="theme_title_yellow">Amarela</string>
   <string name="toast_folder_privacy_mode">"Não é possível editar a pasta no modo Convidado"</string>
   <string name="toast_mark_privacy_notes">Anotação ocultada</string>
-  <string name="toast_mark_privacy_notes_count">%1$s anotações ocultadas com sucesso</string>
+  <string name="toast_mark_privacy_notes_count">%1$s ocultada(s) com sucesso</string>
   <string name="toast_message_add_image_fail">"Não foi possível adicionar imagem"</string>
   <string name="toast_message_add_text_warn">"Este tipo de arquivo não é suportado"</string>
   <string name="toast_note_privacy_mode">"Não é possível criar anotações no modo Convidado"</string>
@@ -138,7 +139,7 @@ Toque no sinal de + para criar uma pasta"</string>
   <string name="toast_reach_text_limit_attachment">"Não é possível adicionar novos anexos porque a anotação é muito longa"</string>
   <string name="toast_reach_text_limit_truncate">Esta anotação é muito longa. Parte do texto foi cortado ao final.</string>
   <string name="toast_unmark_privacy_notes">Anotação desocultada</string>
-  <string name="toast_unmark_privacy_notes_count">%1$s anotações desocultadas com sucesso</string>
+  <string name="toast_unmark_privacy_notes_count">%1$s desocultada(s) com sucesso</string>
   <string name="undo">Desfazer</string>
   <string name="unknown_source">Fonte desconhecida</string>
   <string name="welcome_note_for_cm">"E muitos outros recursos!

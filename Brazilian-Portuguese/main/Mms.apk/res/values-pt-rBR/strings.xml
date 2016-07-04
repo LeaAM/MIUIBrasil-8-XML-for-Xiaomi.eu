@@ -20,8 +20,8 @@
   <string name="add_slide_hint">Toque para criar um novo slide</string>
   <string name="add_smiley">Emoticon</string>
   <string name="add_timing">Agendamento</string>
-  <string name="add_to_browser_favorite_failed">falha</string>
-  <string name="add_to_browser_favorite_success">sucesso</string>
+  <string name="add_to_browser_favorite_failed">"Não foi possível adicionar"</string>
+  <string name="add_to_browser_favorite_success">Adicionado com sucesso</string>
   <string name="add_video">Adicionar vídeo</string>
   <string name="adding_attachments">Aguarde enquanto os itens são adicionados à apresentação de slides.</string>
   <string name="adding_attachments_title">Adicionando anexos</string>
@@ -167,7 +167,9 @@
   <string name="failed_to_resize_image">Imagem não redimensionada.</string>
   <string name="fake_cell_alert_hint">Parece que esta mensagem foi enviada de um número diferente do exibido. Tenha cuidado com SMS contendo informações financeiras.</string>
   <string name="fake_cell_checking_hint">Verificando segurança\u2026</string>
+  <string name="fake_cell_detection_entry">Detecção de estação base falsa</string>
   <string name="fake_cell_safe_hint">Esta mensagem é segura</string>
+  <string name="fake_cell_timeout_hint">"Não foi possível verificar a segurança"</string>
   <string name="fdn_check_failure">Você só pode enviar mensagens para os números de chamadas fixas (FDN).</string>
   <string name="festival">Saudações</string>
   <string name="festival_continue">OK</string>
@@ -487,10 +489,8 @@
   <string name="search_setting_description">Texto nas suas mensagens</string>
   <string name="search_show_more_results">Mostrar mais</string>
   <string name="search_title_mms">Mensagens</string>
-  <string name="second_mms">SMS do Segundo Espaço</string>
-  <string name="second_mms_introduction">Por favor, acesse o Segundo Espaço</string>
-  <string name="second_mms_notice">Exibir somente do Segundo Espaço</string>
-  <string name="second_mms_switch">Alternar usuário</string>
+  <string name="second_mms_introduction">Ir ao Segundo Espaço</string>
+  <string name="second_mms_switch">Alternar</string>
   <string name="secs">seg</string>
   <string name="security_alert_desc">"<font color="#7f000000">O remetente não está em seus contatos.
 </font>"</string>
@@ -542,7 +542,7 @@
   <string name="slide_number">Slide %s</string>
   <string name="slide_show_part">Parte %1$s de %2$s</string>
   <string name="slideshow_activity">Apresentação de slides</string>
-  <string name="sms_card_partner_label">"Parceiro SMS: "</string>
+  <string name="sms_card_partner_label">"Parceiro do cartão SMS: "</string>
   <string name="sms_card_teddy_mobile">Teddy Mobile</string>
   <string name="sms_content">Conteúdo:</string>
   <string name="sms_full_body">"Uma mensagem de entrada foi rejeitada: Não há espaço suficiente neste dispositivo."</string>
@@ -593,9 +593,9 @@
   <string name="timed_message_to">para</string>
   <string name="title_allow_network_access">Atualizar informações automaticamente</string>
   <string name="title_collapse_sp_messages">Agrupar notificações</string>
-  <string name="title_recv_red_package">Obter Pacote Vermelho</string>
-  <string name="title_red_package">Obtendo riquezas e boa sorte</string>
-  <string name="title_send_red_package">Verificar Pacote Vermelho</string>
+  <string name="title_recv_red_package">Receber Pacote Vermelho</string>
+  <string name="title_red_package">Tenha um ano próspero!</string>
+  <string name="title_send_red_package">Enviar Pacote Vermelho</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueados</string>
   <string name="title_show_sms_template">Verificar SMS por códigos de verificação</string>
   <string name="title_show_sms_template_in">Verificar SMS por OTP</string>
@@ -625,12 +625,12 @@ Tentativas efetuadas: %s."</string>
   <string name="unstick_conversation">Desafixar conversa atual</string>
   <string name="unsticked_conversation">A conversa atual já foi desafixada</string>
   <string name="unsupported_media_format">O formato de %1$s não é suportado.</string>
-  <string name="url_fraud_dangerous_alert">"O website que você está tentando acessar pode ser falso, prejudicando seu dispositivo e dados pessoais. Deseja continuar?
+  <string name="url_fraud_dangerous_alert">"O website que você está tentando acessar pode ser perigoso. Ele pode danificar seu dispositivo ou seus dados. Continuar assim mesmo?
 %s"</string>
   <string name="url_fraud_insurance">Seguro de fraudes</string>
-  <string name="url_fraud_risky_alert">"O website que você está tentando acessar pode ser falso, deseja continuar? 
+  <string name="url_fraud_risky_alert">"O website que você está tentando acessar pode ser perigoso. Continuar assim mesmo?
 %s"</string>
-  <string name="url_fraud_title">Suspeita de fraude</string>
+  <string name="url_fraud_title">O website pode ser falso</string>
   <string name="url_fraud_visit"><u>Visitar assim mesmo</u></string>
   <string name="url_result_safe">Esta URL é segura</string>
   <string name="url_scanning">Verificando URL\u2026</string>

@@ -336,8 +336,8 @@ e o Mi Mover ativado"</string>
   <string name="user_notice_title">Atenção</string>
   <string name="wifi_title">Configurações de Wi-Fi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_connect_download_manager_fail">Falha na conexão com o Gerenciador de Downloads, verifique o status do Gerenciador de Downloads no Gerenciamento de Apps.</string>
-  <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível, verifique o cartão SD.</string>
+  <string name="xiaomi_connect_download_manager_fail">"Não foi possível conectar-se ao Gerenciador de Downloads, verifique o status do Gerenciador de Downloads no Gerenciador de Tarefas."</string>
+  <string name="xiaomi_external_storage_unavailable">Armazenamento indisponível, verifique seu cartão SD.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">Mi Router</string>
@@ -346,5 +346,5 @@ e o Mi Mover ativado"</string>
 Tamanho: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introduzindo a versão %1$s
 Atualização: %2$s"</string>
-  <string name="xiaomi_update_dialog_title">Nova versão disponível!</string>
+  <string name="xiaomi_update_dialog_title">Atualização disponível</string>
 </resources>

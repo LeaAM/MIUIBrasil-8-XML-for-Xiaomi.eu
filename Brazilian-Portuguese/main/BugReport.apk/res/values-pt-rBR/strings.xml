@@ -52,7 +52,7 @@
   <string name="feedback_bug_status_change_notification_desc">Problema de %1$s - \"%2$s\"</string>
   <string name="feedback_collect_log_failed">"Não foi possível obter os logs"</string>
   <string name="feedback_description">Descrição</string>
-  <string name="feedback_description_bugreport_hint">Em alguns casos () meu telefone não funciona corretamente ().</string>
+  <string name="feedback_description_bugreport_hint">Em alguns casos (\u2026) meu telefone não funciona corretamente (\u2026).</string>
   <string name="feedback_description_label">Descrição</string>
   <string name="feedback_description_suggest_hint">"Gostaria de adicionar uma nova função () porque eu preciso de ()."</string>
   <string name="feedback_detail_tile">Progresso</string>
@@ -63,7 +63,8 @@
   <string name="feedback_phone_model_label">Modelo do telefone</string>
   <string name="feedback_probability_label">Probabilidade</string>
   <string name="feedback_remind_login_btn">Fazer login</string>
-  <string name="feedback_report_remind_login_desc">Faça o login com sua Conta Mi para que nossos engenheiros entrem em contato. Você poderá ainda ver o progresso de seu relatório em \"Meus relatórios\".</string>
+  <string name="feedback_report_remind_login_desc">Faça o login com sua Conta Mi para que nossos engenheiros entrem em contato.</string>
+  <string name="feedback_report_remind_login_desc2">"Você pode ainda ver o progresso de seus relatórios em \"Meus relatórios\"."</string>
   <string name="feedback_retest_label">Passos para reproduzir erro</string>
   <string name="feedback_select_images">Adicionar imagens</string>
   <string name="feedback_select_upload_log">Adicionar logs</string>
@@ -77,7 +78,7 @@
   <string name="feedback_status_recorded">Feedback recebido</string>
   <string name="feedback_status_replyed">Respondido</string>
   <string name="feedback_status_reresolved">Resolvido</string>
-  <string name="feedback_status_supplement">"Descreva seu problema com detalhes"</string>
+  <string name="feedback_status_supplement">Descreva seu problema com detalhes</string>
   <string name="feedback_submit_failed_notification_desc">Ver detalhes</string>
   <string name="feedback_submit_failed_notification_retry">Enviar novamente</string>
   <string name="feedback_submit_failed_notification_title">"Não foi possível enviar o relatório"</string>
@@ -99,11 +100,13 @@
   <string name="menu_copy">Copiar</string>
   <string name="message_label">Mensagem</string>
   <string name="michat_app_name">Suporte online</string>
+  <string name="michat_artifical_customer_phone_dial_error">"Se você não puder ligar para o hotline 400, ligue para %1$s usando outro telefone"</string>
   <string name="michat_artifical_customer_text">Equipe de suporte</string>
   <string name="michat_attach_image">Imagem</string>
   <string name="michat_attach_smiley">Emoticon</string>
   <string name="michat_attach_take_photo">Câmera</string>
   <string name="michat_back_to_detail">Voltar ao chat</string>
+  <string name="michat_cant_join_artifical">"Não foi possível conectar-se devido a um erro de rede"</string>
   <string name="michat_check_network">Verifique a conexão de rede</string>
   <string name="michat_close_text">Chat finalizado</string>
   <string name="michat_comment_net_error">"Não foi possível conectar-se à rede, tente novamente mais tarde"</string>
@@ -116,6 +119,7 @@
   <string name="michat_error_need_login_btn">Fazer login</string>
   <string name="michat_error_need_login_text">Faça o login para utilizar o suporte online</string>
   <string name="michat_failed_to_add_media">"Desculpe, não é possível enviar %1$s"</string>
+  <string name="michat_failed_to_fetch_fql">"Não foi possível obter informações do FAQ, verifique sua conexão de rede"</string>
   <string name="michat_feedback_title_name">Pesquisa do Feedback</string>
   <string name="michat_finish_text">Finalizar</string>
   <string name="michat_in_artifical_customer_state">"Não é possível fazer isso durante uma sessão de ajuda"</string>
@@ -123,10 +127,12 @@
   <string name="michat_invation_invite_fail">Desculpe, todos os operadores estão ocupados agora. Tente novamente mais tarde.</string>
   <string name="michat_invation_invite_full">Desculpe, todos os operadores estão ocupados agora. Tente novamente mais tarde.</string>
   <string name="michat_kefu_welcome">Bem-vindo ao suporte online Xiaomi!</string>
+  <string name="michat_lose_artifical">Ocorreu um erro de rede, você saiu do chat</string>
   <string name="michat_menu_copy_text">Copiar</string>
   <string name="michat_mesage_resend_error_network">"Não foi possível conectar-se à rede"</string>
   <string name="michat_mesage_send_error_network">"Não foi possível enviar, verifique a conexão de rede"</string>
   <string name="michat_message_copy_info">Copiado para a área de transferência</string>
+  <string name="michat_message_join_again">"Bem-vindo de volta!"</string>
   <string name="michat_message_robot_welcome">"Meu nome é Mi Bunny. Eu sou um robô de suporte online."</string>
   <string name="michat_msg_image_upload_error">"Não foi possível enviar a imagem, tente novamente mais tarde"</string>
   <string name="michat_msg_input_info">Descreva seu problema</string>
@@ -141,6 +147,7 @@
   <string name="michat_pull_to_refresh_pull_label">Puxe para ver o histórico</string>
   <string name="michat_pull_to_refresh_refreshing_label">Carregando histórico\u2026</string>
   <string name="michat_pull_to_refresh_release_label">Solte para revisar o histórico</string>
+  <string name="michat_queue_pos_update">%1$d pessoas estão na sua frente, aguarde\u2026</string>
   <string name="michat_return_to_outside">Sair</string>
   <string name="michat_service_unavailiable">"Não foi possível obter informações, tente novamente mais tarde"</string>
   <string name="michat_skillset_business_type_title">Selecionar serviço</string>
@@ -149,6 +156,7 @@
   <string name="michat_try_again">Tente novamente</string>
   <string name="michat_type_list_null">"Não foi possível obter informações, tente novamente mais tarde"</string>
   <string name="michat_type_picture">Imagem</string>
+  <string name="michat_user_quit">Você saiu do chat</string>
   <string name="michat_wait_for_a_moment">Aguarde, a ajuda está chegando!</string>
   <string name="michat_webview_title">Ver detalhes</string>
   <string name="min_error">Seu %1$s precisa ser mais longo.</string>
@@ -189,6 +197,7 @@
   <string name="pull_to_refresh_release_label">Solte para atualizar</string>
   <string name="refresh">Atualizar</string>
   <string name="reply">Responder</string>
+  <string name="reply_failed">Falha ao responder</string>
   <string name="report_miui">Reportar Erro</string>
   <string name="request_empty_data">Sem dados</string>
   <string name="save_pic">Salvar</string>

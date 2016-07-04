@@ -34,7 +34,7 @@
   <string name="callFailed_userBusy">Linha ocupada</string>
   <string name="callUnanswered_forwarded">Chamada não atendida encaminhada</string>
   <string name="call_button_dialer_text">Teclado</string>
-  <string name="call_button_tools_text">Função</string>
+  <string name="call_button_tools_text">Funcionalidades</string>
   <string name="call_contacts_deny_permission_msg">"A permissão de leitura de contatos foi negada, não é possível exibir as informações de contato."</string>
   <string name="call_description_recording">Gravando\u2026</string>
   <string name="call_extension_conference_mode">Modo de conferência</string>
@@ -79,6 +79,7 @@
   <string name="conference_call_single_description" formatted="false">%s etc. total de %s</string>
   <string name="conference_caller_info_name">"Chamada de conferência de %1$s"</string>
   <string name="conference_caller_name_me">Eu</string>
+  <string name="conference_callers_exceeded">Membros na conferência excedidos</string>
   <string name="contactPhoto">Foto do contato</string>
   <string name="contacts_icon_label">Contatos</string>
   <string name="default_area_code_setting">Código de área padrão</string>
@@ -121,12 +122,12 @@
   <string name="incall_error_supp_service_unknown">"Este serviço não é suportado."</string>
   <string name="incoming_answer_voice_text">Atender por voz</string>
   <string name="incoming_call_forwarded_title">Encaminhar chamadas recebidas</string>
-  <string name="incoming_circle_text_answer">Atendimento padrão</string>
-  <string name="incoming_circle_text_answer_p">Deslizar para atender</string>
-  <string name="incoming_circle_text_message">SMS padrão</string>
-  <string name="incoming_circle_text_message_p">Deslizar para SMS</string>
-  <string name="incoming_circle_text_reject">Rejeitar padrão</string>
-  <string name="incoming_circle_text_reject_p">Deslizar para rejeitar</string>
+  <string name="incoming_circle_text_answer">Liberar</string>
+  <string name="incoming_circle_text_answer_p">Deslizar para cima</string>
+  <string name="incoming_circle_text_message">Liberar</string>
+  <string name="incoming_circle_text_message_p">Deslizar para cima</string>
+  <string name="incoming_circle_text_reject">Liberar</string>
+  <string name="incoming_circle_text_reject_p">Deslizar para cima</string>
   <string name="ivr_menu_dialing_msg">Encaminhando\u2026</string>
   <string name="ivr_menu_dialing_msg_no_mute">Vá para o serviço selecionado\u2026 [Correção de erro automática está ativada]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Toque em %s</string>
@@ -196,7 +197,7 @@
   <string name="onscreen_close_preview_camera">Fechar câmera</string>
   <string name="onscreen_hold_text">Em espera</string>
   <string name="onscreen_merge_calls_text">Juntar chamadas</string>
-  <string name="onscreen_mi_support_calls_text">MiSupport</string>
+  <string name="onscreen_mi_support_calls_text">Suporte Mi</string>
   <string name="onscreen_mute_text">Mudo</string>
   <string name="onscreen_note_calls_text">Anotação</string>
   <string name="onscreen_rcs_text">Mensagens</string>
@@ -209,7 +210,7 @@
   <string name="picking_participant">Obtendo informações de contato\u2026</string>
   <string name="private_num">Número privado</string>
   <string name="respond_via_sms_custom_message">Escreva sua resposta\u2026</string>
-  <string name="select_audio_dialog_title">Selecione o modo de atendimento</string>
+  <string name="select_audio_dialog_title">Selecionar método de atendimento</string>
   <string name="select_one_sim_title">Só é possível usar o cartão SIM %1$d</string>
   <string name="select_sim_hint">"Não é possível usar o cartão SIM %2$d enquanto o cartão SIM %1$d estiver em uso."</string>
   <string name="select_voice_call_sim">Escolher cartão SIM</string>

@@ -98,7 +98,7 @@
   <string name="app_version">Versão</string>
   <string name="app_wifi">Wi-Fi</string>
   <string name="apps_item_sign_dialog_content">A assinatura de \"%s\" é diferente da versão da Loja de Apps. Eliminar este app e instalar a versão oficial? Nota: instalar um app com conflitos de assinatura pode causar a perda dos dados do app.</string>
-  <string name="apps_item_sign_dialog_title">Instalar versão oficial do app</string>
+  <string name="apps_item_sign_dialog_title">Instalar app oficial</string>
   <string name="apps_item_sign_install_button_text">Substituir</string>
   <string name="apps_item_sms_default_set_success">Definido com sucesso!</string>
   <string name="apps_item_sms_reset_button_text">Restaurar padrões</string>
@@ -110,7 +110,7 @@
   <string name="apps_item_virus_cleanup_success">Limpo com sucesso!</string>
   <string name="apps_item_virus_cleanup_text">Limpar</string>
   <string name="apps_item_virus_summary_installed">App instalado</string>
-  <string name="apps_item_virus_summary_uninstalled">Apk</string>
+  <string name="apps_item_virus_summary_uninstalled">APK</string>
   <string name="apps_list_header_title_sms">Verificar app de mensagens</string>
   <string name="apps_list_header_title_sms_access">Restringir acesso a códigos de verificação</string>
   <string name="auto_handle_title">GERAL</string>
@@ -189,6 +189,7 @@
   <string name="button_text_cleanup">Limpar</string>
   <string name="button_text_clear">Limpar</string>
   <string name="button_text_create_shortcut">Criar atalho na Tela inicial</string>
+  <string name="button_text_deny">Negar</string>
   <string name="button_text_disconnect_now">Desconectar</string>
   <string name="button_text_fix">Corrigir</string>
   <string name="button_text_fix_now">Corrigir</string>
@@ -229,6 +230,8 @@
   <string name="connect_internet_by_usbshare">Internet compartilhada por USB</string>
   <string name="connect_internet_by_wifi">Wi-Fi</string>
   <string name="continue_install">Instalar</string>
+  <string name="convenient_mode">Desbloquear todos os apps de uma vez</string>
+  <string name="convenient_summary">"Não solicitar senha após 1 app ser desbloqueado"</string>
   <string name="correction_attention_dialog_message">As configurações estão sendo ajustadas. Aguarde o processo ser finalizado e tente novamente.</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Cancelar</string>
@@ -241,7 +244,7 @@
   <string name="daily_limit_network_available_body">Toque para estatísticas de uso de dados.</string>
   <string name="daily_limit_network_available_body_open_traffic_saving">Toque para ativar os dados móveis.</string>
   <string name="daily_limit_over_message">"Você excedeu seu limite diário de dados."</string>
-  <string name="daily_pkg_traffic">Limite excedente de dados</string>
+  <string name="daily_pkg_traffic">Limite do uso de dados</string>
   <string name="data_network_blocked_notification_title">Sem conexão com a internet</string>
   <string name="data_usage_correction_timeout_body">Toque para atualizar manualmente.</string>
   <string name="data_usage_correction_timeout_title">Tempo esgotado na sincronização do uso de dados</string>
@@ -320,7 +323,7 @@
   <string name="dialog_app_roaming_message">"%1$s não pode usar os dados móveis em roaming. Quando você está em roaming de dados, somente apps adicionados na lista de exceções podem usar os dados móveis."</string>
   <string name="dialog_app_roaming_title">"Roaming de dados desativado para %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Alguns apps podem indicar incorretamente que a MIUI os impediu de serem iniciados. Verifique as permissões que foram concedidas a apps individuais em Configurações &gt; Apps.</string>
-  <string name="dialog_msg_stop_paysafety_scan">Parar a verificação de segurança em pagamentos?</string>
+  <string name="dialog_msg_stop_paysafety_scan">Parar a verificação de segurança de pagamentos?</string>
   <string name="dialog_msg_stop_virus_scan">"Interromper a verificação de vírus antes da sua conclusão?"</string>
   <string name="dialog_roaming_apps_sorted_title">Ordenar por</string>
   <string name="dialog_roaming_message">Permitir o uso de dados deste app durante o roaming?</string>
@@ -656,6 +659,7 @@
   <string name="notification_battery_consume_abnormal_title">A bateria está sendo drenada rapidamente</string>
   <string name="notification_battery_over_heat_summary">Encontre o que causa superaquecimento e resfrie o dispositivo.</string>
   <string name="notification_battery_over_heat_title">A temperatura atual é de %d℃</string>
+  <string name="notification_charging_title">Carregando</string>
   <string name="notification_exit_power_save_mode">Economia de energia desativada</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria carregada a %s.</string>
   <string name="notification_item">Proteja apps selecionados com o Bloqueio de apps</string>
@@ -699,7 +703,7 @@
   <string name="path_monthreport">Apps do sistema/Segurança</string>
   <string name="path_networkassistant_1">Apps do sistema/Segurança/Uso de dados</string>
   <string name="path_networkassistant_2">Apps do sistema/Segurança/Uso de dados</string>
-  <string name="path_networkassistant_4">Apps do sistema/Segurança/Uso de dados/Teste de rede</string>
+  <string name="path_networkassistant_4">Apps do sistema/Segurança/Uso de dados/Testar a rede</string>
   <string name="path_permcenter">Apps do sistema/Segurança/Permissões</string>
   <string name="path_powercenter">Apps do sistema/Segurança/Bateria</string>
   <string name="path_securitycenter">Apps do sistema/Segurança</string>
@@ -784,7 +788,7 @@
   <string name="power_save_mode_end_time">Término</string>
   <string name="power_save_mode_ontime_enabled">Definir horário para alternar modos</string>
   <string name="power_save_mode_start_time">Início</string>
-  <string name="power_save_mode_summary" formatted="false">Monitorar processos em segundo plano, desativar sincronização e ocultar animações do sistema. A Economia de energia será desativada automaticamente quando a bateria estiver com mais de 60% de carga.</string>
+  <string name="power_save_mode_summary" formatted="false">Monitorar processos em segundo plano e desativar sincronização. A Economia de Energia será desativada automaticamente quando a bateria estiver acima de 60% ou 100% carregada.</string>
   <string name="power_save_on_time_default_time_na">00:00</string>
   <string name="power_save_on_time_end_time_summary_na">A</string>
   <string name="power_save_on_time_start_time_summary_na">De</string>
@@ -895,7 +899,7 @@
   <string name="privacy_prompt_traffic_purchase_message">"Seu número de telefone e detalhes de operadora serão encriptados e enviados para os servidores Mi para obter mais informações de opções de compra de dados."</string>
   <string name="privacy_prompt_upload">Enviar</string>
   <string name="process_kernel_label">Android</string>
-  <string name="process_mediaserver_label">Servidor de Mídia</string>
+  <string name="process_mediaserver_label">Servidor de mídia</string>
   <string name="prompt_input_time_illegal">"Não foi possível definir este horário, altere-o e tente novamente."</string>
   <string name="protection_category_dangerous_title">Riscos (%d)</string>
   <string name="protection_category_recommend_title">Mudanças recomendadas (%d)</string>
@@ -933,7 +937,7 @@
   <string name="resource_networkassistant_2">Calibrar plano de dados</string>
   <string name="resource_networkassistant_4">Teste de rede</string>
   <string name="resource_permcenter">Permissões</string>
-  <string name="resource_powercenter">Economia de energia</string>
+  <string name="resource_powercenter">Uso da bateria</string>
   <string name="resource_securitycenter">Segurança</string>
   <string name="resource_securitycenter_settings">Segurança</string>
   <string name="restrictbackground_conflict_saving_msg">"Não é possível usar o Data Saver quando os dados em segundo plano estão restritos. Desativar Data Saver e restringir dados em segundo plano?"</string>
@@ -941,8 +945,8 @@
   <string name="result_autoscan_info">Monitorar automaticamente o ambiente do sistema quando apps de pagamento forem iniciados</string>
   <string name="result_sign_header">%d apps não oficiais encontrados</string>
   <string name="result_sms_header">Riscos em mensagens detectados</string>
-  <string name="result_sms_info_antispam">Abra o AntiSpam para evitar URLs maliciosas</string>
-  <string name="result_sms_info_auth">Restrinja o acesso de apps de terceiros a códigos de verificação por SMS.</string>
+  <string name="result_sms_info_antispam">Ative o Antispam para proteger o dispositivo de URLs maliciosas</string>
+  <string name="result_sms_info_auth">Restringir acesso de apps de terceiros a códigos de verificação.</string>
   <string name="result_sms_title_antispam">Risco de URL maliciosa em SMS</string>
   <string name="result_sms_title_auth">Risco de vazamento de dados financeiros</string>
   <string name="result_virus_header">%d vírus e apps inseguros encontrados</string>
@@ -966,22 +970,22 @@
   <string name="root_apply_step_5">Permitir acesso root de %s?</string>
   <string name="root_apply_title">Alerta importante</string>
   <string name="safe_result_header_info_protecting">Protegendo</string>
-  <string name="safe_result_header_title_app">Segurança de apps</string>
+  <string name="safe_result_header_title_app">Segurança dos apps</string>
   <string name="safe_result_header_title_sms">Segurança de mensagens</string>
   <string name="safe_result_header_title_system">Segurança do sistema</string>
-  <string name="safe_result_header_title_wifi">Segurança do Wi-Fi</string>
+  <string name="safe_result_header_title_wifi">Segurança do Wi-fi</string>
   <string name="safe_result_item_button_monitor">Configurações de monitoramento</string>
-  <string name="safe_result_item_empty_monitor">Nenhum app protegido para pagamentos</string>
+  <string name="safe_result_item_empty_monitor">Nenhum app de pagamento protegido</string>
   <string name="safe_result_item_info_app_sign">Nenhum app não-oficial</string>
   <string name="safe_result_item_info_app_virus">Nenhum vírus ou apps com risco</string>
   <string name="safe_result_item_info_sms_auth">Restringir acesso de apps de terceiros a códigos de verificação</string>
-  <string name="safe_result_item_info_sms_default">Restaurar app padrão de mensagens</string>
-  <string name="safe_result_item_info_sms_url">Proteção de URLs maliciosas em SMS</string>
-  <string name="safe_result_item_info_system_antivirus">Proteção de vírus de phishing</string>
+  <string name="safe_result_item_info_sms_default">Alternar para app de mensagens padrão</string>
+  <string name="safe_result_item_info_sms_url">Proteção contra URLs maliciosas em SMS</string>
+  <string name="safe_result_item_info_system_antivirus">Proteção contra vírus de phishing</string>
   <string name="safe_result_item_info_system_root">Root seguro</string>
   <string name="safe_result_item_info_system_scan">Monitoramento de pagamentos ativado</string>
-  <string name="safe_result_item_info_system_version">O sistema está na versão mais recente</string>
-  <string name="safe_result_item_info_wifi_arp">Sem ataques de ARP</string>
+  <string name="safe_result_item_info_system_version">O MIUI está atualizado</string>
+  <string name="safe_result_item_info_wifi_arp">Nenhum ataque ARP</string>
   <string name="safe_result_item_info_wifi_connection">Wi-Fi conectado</string>
   <string name="safe_result_item_info_wifi_dns">Servidor de DNS seguro</string>
   <string name="safe_result_item_info_wifi_encryption">Wi-Fi criptografado </string>
@@ -1041,17 +1045,17 @@
   <string name="sorted_button">Organizar por</string>
   <string name="sorted_dialog_title">Organizar por</string>
   <string name="sp_back_title_text_zero">Seguro</string>
-  <string name="sp_monitored_apps_count_zero">Nenhum app de pagamento protegido</string>
+  <string name="sp_monitored_apps_count_zero">Nenhum app de pagamento está sendo protegido</string>
   <string name="sp_monitored_apps_list_title">Configurações de monitoramento</string>
-  <string name="sp_safe_score_text">Pagamentos Seguros</string>
-  <string name="sp_scan_item_monitor">Monitoramento de Pagamentos</string>
+  <string name="sp_safe_score_text">Pagamentos seguros</string>
+  <string name="sp_scan_item_monitor">Monitorar pagamentos</string>
   <string name="sp_scan_item_url_antispam">Proteção contra URLs maliciosas</string>
   <string name="sp_settings_group_title_ime">Configurações de IME seguro</string>
   <string name="sp_settings_group_title_omit">Itens omitidos</string>
   <string name="sp_settings_info_input_method">Usar método de entrada do sistema em apps de pagamento</string>
   <string name="sp_settings_info_monitor">Monitorar ambiente do sistema quando apps de pagamento forem iniciados</string>
-  <string name="sp_settings_plugin_monitor_summary">Verificar quando plugins de pagamento forem iniciados em qualquer app instalado</string>
-  <string name="sp_settings_plugin_monitor_title">Plugin de monitoramento de pagamento</string>
+  <string name="sp_settings_plugin_monitor_summary">Verificar plugins de pagamento quando forem iniciados</string>
+  <string name="sp_settings_plugin_monitor_title">Monitorar plugins de pagamento</string>
   <string name="sp_settings_root_title_omit">Verificação de root</string>
   <string name="sp_settings_title_input_method">IME Seguro</string>
   <string name="spinner_title">%1$s - Dados móveis: %2$s</string>
@@ -1159,7 +1163,7 @@
   <string name="tc_sms_report_notify_get_timeout_body">O processo expirou. Confirme com a sua operadora se o código de requisição SMS que você inseriu está correto.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Não foi possível obter SMS do uso de dados"</string>
   <string name="tc_sms_report_receive_content">Conteúdo do SMS de relatório de uso de dados (Confirme as estatisticas de uso)</string>
-  <string name="tc_sms_report_receive_content_null">"Ajude a melhorar esta função!<br/>Veja como:<br/>1. Vá até \"Verificar comando por SMS\" e \"Número do destinatário\"<br/>2.Toque em \"Obter modelo de SMS\"<br/>3. Aguarde o recebimento da mensagem SMS de sua operadora <br/>4. Toque em \"Enviar para a MIUI\""</string>
+  <string name="tc_sms_report_receive_content_null">"Ajude a melhorar esta função!<br/>Veja como:<br/>1. Vá até "Verificar comando dpor SMS" e "Número do destinatário"<br/>2.Toque em \"Obter modelo de SMS\"<br/>3. Aguarde o recebimento da mensagem SMS de sua operadora <br/>4. Toque em \"Enviar para a MIUI\""</string>
   <string name="tc_sms_report_receive_num">Número do destinatário</string>
   <string name="tc_sms_report_send_num">Telefone da operadora</string>
   <string name="tc_sms_report_summary">Ajude-nos a melhorar este recurso ao nos enviar um relatório quando as informações de uso de dados estiverem incorretas ou sua atualização falhar</string>
@@ -1231,7 +1235,7 @@
   <string name="toast_reject_sms_read_permission_success">Definido com sucesso!</string>
   <string name="toast_root_apply_accept">Acesso root permitido para %s</string>
   <string name="toast_root_apply_reject">Acesso root negado para %s</string>
-  <string name="toast_set_success">Aberto com sucesso!</string>
+  <string name="toast_set_success">Ativado com sucesso!</string>
   <string name="toast_shortcut_install">Atalho adicionado na Tela inicial</string>
   <string name="toast_shortcut_uninstall">Atalho removido</string>
   <string name="toast_show_notification">Fixado à aba de notificações</string>
@@ -1371,6 +1375,7 @@
   <string name="usbsharenet_pc_exception_summary">"Não foi possível conectar-se à internet usando a conexão USB compartilhada. Verifique a conexão de internet em seu computador."</string>
   <string name="virus_list_header_title">%d vírus detectados</string>
   <string name="voltage_symbol">V</string>
+  <string name="wakepath_confirm_start_activity">Permitir que %1$s abra %2$s?</string>
   <string name="warning_open_mi_sim">Ativar Mi SIM</string>
   <string name="wifi_exception_summary">Testar redes Wi-Fi disponíveis</string>
   <string name="wifi_exception_title">Testar rede Wi-Fi</string>
@@ -1380,7 +1385,7 @@
   <string name="wifi_item_title_connection">Conexão Wi-Fi</string>
   <string name="wifi_item_title_dns">Segurança de servidor DNS</string>
   <string name="wifi_item_title_encryption">Criptografia Wi-Fi</string>
-  <string name="wifi_item_title_fake">Detecção de Wi-Fi falso</string>
+  <string name="wifi_item_title_fake">Detectar Wi-Fi falsa</string>
   <string name="wifi_network_blocked_notification_title">Sem conexão com a internet</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Comprar mais</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Notificação de Plano de dados Mi</string>

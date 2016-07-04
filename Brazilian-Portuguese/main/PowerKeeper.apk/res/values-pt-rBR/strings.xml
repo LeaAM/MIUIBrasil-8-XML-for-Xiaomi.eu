@@ -14,6 +14,7 @@
   <string name="alter_message_delete">Excluir?</string>
   <string name="alter_message_switch_mode">Alternar modos?</string>
   <string name="alter_message_switch_mode_message">Quando você alternar os modos, sua configuração antiga não será aplicável a este app.</string>
+  <string name="app_invisible_title">Apps invisíveis</string>
   <string name="app_list_title">Escolher apps</string>
   <string name="app_list_total">%d apps</string>
   <string name="app_name">Economia de energia</string>
@@ -39,7 +40,7 @@ O Economizador de bateria irá tratar apps importantes de forma seletiva."</stri
   <string name="fragment_tab_title_sys">Apps do sistema</string>
   <string name="full_screen_enter">Entrar em tela cheia</string>
   <string name="full_screen_exit">Sair da tela cheia</string>
-  <string name="hide_mode_desc">"Quando um app é executado em segundo plano, suas atividades serão monitoradas para reduzir o uso de bateria. Conexões de rede, serviços de localização, Rádio, Timer, etc., podem ser afetados por este recurso. Esta configuração é adequada para a maioria dos apps, mas se um app em particular se comportar de forma anormal durante a execução em segundo plano, você poderá personalizar as configurações do app."</string>
+  <string name="hide_mode_desc">Quando um app executa em segundo plano, suas atividades serão monitoradas para reduzir o uso de energia.</string>
   <string name="hide_mode_ultimate_desc">O modo Ultimate está ativado. Os apps em segundo plano serão congelados. Desative a Economia de energia para sair do modo Ultimate.</string>
   <string name="high">Performance</string>
   <string name="hints_loading_text">Aguarde\u2026</string>
@@ -69,6 +70,7 @@ O Economizador de bateria irá tratar apps importantes de forma seletiva."</stri
   <string name="power_checker_recent_group_title">Recentemente</string>
   <string name="power_checker_running_btn_title">Matar processo</string>
   <string name="power_checker_running_group_title">Executando</string>
+  <string name="power_checker_title">Verificação de energia</string>
   <string name="power_chooser_user_define_title">Novo modo</string>
   <string name="power_config_alarm_sync_summary">Permitir alarme em segundo plano</string>
   <string name="power_config_alarm_sync_title">Alarme</string>

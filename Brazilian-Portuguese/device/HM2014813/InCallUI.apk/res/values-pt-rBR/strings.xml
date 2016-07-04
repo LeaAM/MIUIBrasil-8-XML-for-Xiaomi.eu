@@ -206,12 +206,12 @@
   <string name="incall_error_supp_service_unknown">"Este serviço não é suportado."</string>
   <string name="incall_toast_unhold">Continuar</string>
   <string name="incoming_call_forwarded_title">Encaminhar chamadas recebidas</string>
-  <string name="incoming_circle_text_answer">Atendimento padrão</string>
-  <string name="incoming_circle_text_answer_p">Deslizar para atender</string>
-  <string name="incoming_circle_text_message">SMS regular</string>
-  <string name="incoming_circle_text_message_p">Deslizar para SMS</string>
-  <string name="incoming_circle_text_reject">Rejeitar regular</string>
-  <string name="incoming_circle_text_reject_p">Deslizar para rejeitar</string>
+  <string name="incoming_circle_text_answer">Liberar</string>
+  <string name="incoming_circle_text_answer_p">Deslizar para cima</string>
+  <string name="incoming_circle_text_message">Liberar</string>
+  <string name="incoming_circle_text_message_p">Deslizar para cima</string>
+  <string name="incoming_circle_text_reject">Liberar</string>
+  <string name="incoming_circle_text_reject_p">Deslizar para cima</string>
   <string name="international_dialing_add_country_code" formatted="false">"Você está discando para %s. Deseja adicionar o código do país (+%s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code">"Você está discando para um número em %1$s, %2$s. Deseja adicionar um código de país e o código de área (+%3$s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code_without_prefix">Você deseja adicionar o código do país e o código de área?</string>
@@ -404,7 +404,7 @@
   <string name="retries_left">%d tentativas restantes</string>
   <string name="ring_only_once_summary">Tocar apenas uma vez ao optar aceitar uma vídeochamada pelo modo de voz</string>
   <string name="ring_only_once_title">Tocar apenas uma vez</string>
-  <string name="select_audio_dialog_title">Selecione o modo de atendimento</string>
+  <string name="select_audio_dialog_title">Selecionar método de atendimento</string>
   <string name="select_voice_call_sim">Escolher cartão SIM</string>
   <string name="separate_from_conference">Separar chamada</string>
   <string name="service_3g_off">Desativado</string>

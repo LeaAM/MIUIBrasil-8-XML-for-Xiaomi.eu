@@ -54,8 +54,8 @@
   <string name="cloud_app_restore_title">Pendente</string>
   <string name="configure_wallpaper">Configurações</string>
   <string name="confirm_btn_label">OK</string>
-  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Os apps clonados serão desinstalados juntamente com estes apps.</string>
-  <string name="confirm_uninstall_dialog_has_xspace_app_msg">O app clonado será desinstalado juntamente com este app.</string>
+  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Os apps clonados serão desinstalados junto com estes.</string>
+  <string name="confirm_uninstall_dialog_has_xspace_app_msg">O app clonado será desinstalado junto com este.</string>
   <string name="confirm_uninstall_dialog_title">Os apps clonados correspondentes serão removidos.</string>
   <string name="current_preview">Pré-visualizar</string>
   <string name="current_wallpaper">Atual</string>
@@ -210,6 +210,7 @@
   <string name="preferences_title">Configurações do Launcher</string>
   <string name="recommend_apps_default_title">Vazio</string>
   <string name="recommend_apps_notice">Apps recomendados</string>
+  <string name="recommend_apps_notice_nodata">Apps recomendados (Sem dados)</string>
   <string name="recommend_apps_switch_title">Apps recomendados</string>
   <string name="recommend_apps_tips">"Este recurso precisa de uma conexão com a internet para funcionar normalmente. Para desativar este recurso, toque no nome da pasta."</string>
   <string name="reset_scene_prompt">A tela será restaurada para o layout padrão.</string>
@@ -255,8 +256,8 @@
   <string name="uninstall_result_succeeded">App desinstalado</string>
   <string name="uninstall_result_two_failed">"Não foi possível desinstalar %s e 1 outro app"</string>
   <string name="uninstall_with_xspace_dialog_message">Os apps clonados correspondentes serão removidos com os dados dos apps.</string>
-  <string name="uninstall_xspace_dialog_message">A desinstalação do app clonado removerá todos os dados deste app.</string>
-  <string name="uninstall_xspace_dialog_title_format">Desinstalar \"%s\" clonado</string>
+  <string name="uninstall_xspace_dialog_message">A desinstalação do app clonado removerá todos os dados do app.</string>
+  <string name="uninstall_xspace_dialog_title_format">Desinstalar app clonado \"%s\"</string>
   <string name="unknown_artist_name">Artista desconhecido</string>
   <string name="unnamed_folder_name">Pasta sem nome</string>
   <string name="wallpaper">Plano de fundo</string>

@@ -55,6 +55,9 @@
   <string name="continue_update_negative_btn">Continuar</string>
   <string name="continue_update_positive_btn">Parar</string>
   <string name="daily_build">Noturna</string>
+  <string name="dialog_reboot_message">"O MIUI está prestes a ser atualizado. O processo poderá levar de 5 a 20 minutos. Mantenha o dispositivo ligado e não o reinicie durante a atualização."</string>
+  <string name="dialog_reboot_title">Atualização de sistema</string>
+  <string name="dialog_reboot_yes">Atualizar</string>
   <string name="download_again">Tentar novamente</string>
   <string name="download_cancel">Cancelar</string>
   <string name="download_current_rom">Reinicie para aplicar a atualização</string>
@@ -152,7 +155,7 @@ http://www.miuirom.com.br"</string>
   <string name="reboot">Reiniciar</string>
   <string name="recovery_failed_button">OK</string>
   <string name="recovery_failed_msg">"Seu dispositivo não possui memória suficiente para entrar no Recovery e atualizar seu sistema. Tente utilizar o Mi PC Suite para isso:
-http://miuibrasil.com.br/mi-pc-suite"</string>
+http://miuirom.com.br/mi-pc-suite"</string>
   <string name="recovery_failed_notification_msg">"Não foi possível entrar no modo Recovery"</string>
   <string name="recovery_failed_title">Use o Mi PC Suite para atualizar seu sistema</string>
   <string name="recovery_power_not_enough_msg">Conecte o carregador para atualizar caso a bateria esteja abaixo de 30%</string>
@@ -163,7 +166,7 @@ http://miuibrasil.com.br/mi-pc-suite"</string>
   <string name="root_agree_check_box_title">Eu entendo os riscos do acesso root</string>
   <string name="root_dangerous_msg">Permitir o acesso root é extremamente perigoso e pode expor o seu dispositivo e dados pessoais a ataques de apps maliciosos. Você concorda que é o único responsável por qualquer dano ao seu dispositivo ou perda de dados que podem resultar da permissão ao acesso root.</string>
   <string name="set_auto">Buscar atualizações automaticamente</string>
-  <string name="set_auto_msg">"As atualizações serão transferidas quando você estiver em uma rede Wi-Fi e instaladas durante a noite quando o dispositivo não estiver sendo usado."</string>
+  <string name="set_auto_msg">Fazer download de atualizações enquanto conectado a uma rede Wi-Fi e instalá-las durante a noite?</string>
   <string name="set_auto_update_title">Atualizar automaticamente?</string>
   <string name="set_installfail_full_msg">Algo deu errado. Toque OK para relatar este erro.</string>
   <string name="set_installfail_msg">"Você não está conectado a uma rede Wi-Fi. Usar sua conexão de dados móveis para transferir este arquivo aumentará seu uso de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente."</string>

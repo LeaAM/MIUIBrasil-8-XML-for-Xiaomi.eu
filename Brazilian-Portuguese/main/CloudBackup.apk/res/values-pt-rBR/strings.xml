@@ -13,6 +13,7 @@
   <string name="backup_finished_notification_content">Backup de apps da Tela inicial e configurações do sistema concluído.</string>
   <string name="backup_now">Backup agora</string>
   <string name="backup_size">Tamanho: %s</string>
+  <string name="backup_size_summary">Tamanho: %1$s</string>
   <string name="backup_success">Backup dos apps da Tela Inicial finalizado</string>
   <string name="backup_successfully">Backup concluído</string>
   <string name="backup_to_cloud">Backup do app</string>

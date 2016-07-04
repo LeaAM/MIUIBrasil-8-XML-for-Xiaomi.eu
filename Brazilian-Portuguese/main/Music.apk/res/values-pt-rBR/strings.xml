@@ -59,7 +59,7 @@
   <string name="auto_download_in_wifi">Transferir músicas favoritas por Wi-Fi</string>
   <string name="auto_payment">Renovação automática</string>
   <string name="auto_payment_date">Próximo pagamento: %s</string>
-  <string name="auto_restart_under_wifi">O arquivo será transferido automaticamente por Wi-Fi</string>
+  <string name="auto_restart_under_wifi">O download será iniciado quando o dispositivo estiver conectado na rede Wi-Fi</string>
   <string name="avail_services">Disponível</string>
   <string name="available_playlist_name_format">Nova playlist %d</string>
   <string name="avoid_to_use_traffic_summary">"Não usar redes móveis para ouvir música online"</string>
@@ -91,7 +91,7 @@
   <string name="choose_download_quality">Escolher qualidade do download</string>
   <string name="choose_stream_quality">Escolher qualidade de streaming</string>
   <string name="click_modify">Toque para editar as letras.</string>
-  <string name="click_to_shuffle">Toque para reproduzir aleatoriamente</string>
+  <string name="click_to_shuffle">Toque para aleatório</string>
   <string name="click_to_view_new_local_audios">Toque para ver detalhes.</string>
   <string name="close_music_time">"Tempo restante: "</string>
   <string name="cloud_enable">Sincronizar música com a Mi Cloud</string>
@@ -136,24 +136,24 @@
   <string name="dialog_button_find_music">Descubra</string>
   <string name="dialog_button_login">Faça o login e sincronize sua música</string>
   <string name="dialog_button_scan_tracks">Procurar músicas neste dispositivo</string>
-  <string name="dialog_cannot_resume">Download interrompido. Não é possível retomá-lo.</string>
+  <string name="dialog_cannot_resume">"Download interrompido. Não é possível retomá-lo."</string>
   <string name="dialog_confirm_delete_checkbox_message">Excluir também o arquivo local</string>
-  <string name="dialog_confirm_delete_downloads_message">Excluir %d tarefas?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Excluir estas tarefas</string>
-  <string name="dialog_failed_body">Você deseja tentar novamente mais tarde ou excluir o download da fila?</string>
-  <string name="dialog_file_already_exists">Não foi possível fazer o download. O arquivo de destino já existe.</string>
-  <string name="dialog_file_missing_body">O arquivo transferido não foi encontrado.</string>
+  <string name="dialog_confirm_delete_downloads_message">Excluir %d itens?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Excluir estes itens?</string>
+  <string name="dialog_failed_body">Tentar fazer o download mais tarde ou removê-lo da fila?</string>
+  <string name="dialog_file_already_exists">"Não foi possível fazer o download. Este arquivo já existe."</string>
+  <string name="dialog_file_missing_body">"Não foi possível encontrar o arquivo."</string>
   <string name="dialog_file_missing_title">"Não foi possível abrir o arquivo"</string>
   <string name="dialog_hint_music_error">Nenhuma música encontrada.</string>
-  <string name="dialog_insufficient_space_on_cache">Não foi possível concluir o download. Não há espaço suficiente no armazenamento interno.</string>
-  <string name="dialog_insufficient_space_on_external">Não foi possível concluir o download. Não há espaço suficiente no armazenamento externo.</string>
-  <string name="dialog_media_not_found">Não foi possível fazer o download. A mídia externa está indisponível.</string>
+  <string name="dialog_insufficient_space_on_cache">"Não foi possível concluir o download. Espaço insuficiente no armazenamento interno."</string>
+  <string name="dialog_insufficient_space_on_external">"Não é possível concluir o download. Espaço insuficiente no cartão SD."</string>
+  <string name="dialog_media_not_found">"Não foi possível fazer o download. Cartão SD indisponível."</string>
   <string name="dialog_not_show_again">"Não mostrar novamente"</string>
   <string name="dialog_queued_body">Este arquivo está na fila para download futuro.</string>
   <string name="dialog_title_add_playlist">Adicionar playlist</string>
   <string name="dialog_title_delete_tracks">Excluir</string>
   <string name="dialog_title_name_playlist">Nome da playlist</string>
-  <string name="dialog_title_not_available">Falha no download</string>
+  <string name="dialog_title_not_available">"Falha no download"</string>
   <string name="dialog_title_queued_body">Arquivo ainda não disponível</string>
   <string name="dialog_title_remove_tracks">Remover</string>
   <string name="dialog_title_track_picker">Escolher músicas</string>
@@ -193,16 +193,16 @@
   <string name="download_filesize_unknown">Desconhecido</string>
   <string name="download_in_process">Transferindo</string>
   <string name="download_info_count_deleted_tasks">%s downloads removidos</string>
-  <string name="download_info_start_deleted_tasks">Excluir downloads</string>
+  <string name="download_info_start_deleted_tasks">Remover downloads</string>
   <string name="download_list_get_free_vip">Teste do Xunlei</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Acelerador Xunlei ativado</string>
-  <string name="download_list_get_hightspeed_flow_pay_ok">Pagamento concluído.</string>
+  <string name="download_list_get_hightspeed_flow_pay_ok">Pagamento concluído</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Sessão de testes Xunlei criada</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Aproveite velocidades de download maiores fornecidas pelo Xunlei</string>
   <string name="download_manage">Downloads</string>
   <string name="download_manage_item_complete">Concluído</string>
   <string name="download_method">Download</string>
-  <string name="download_no_application_title">Não foi possível abrir o arquivo</string>
+  <string name="download_no_application_title">"Não é possível abrir o arquivo"</string>
   <string name="download_paused">Download pausado</string>
   <string name="download_paused_in_power_save_mode">Os downloads atuais estão pausados pela Economia de energia</string>
   <string name="download_pending">Download pendente</string>
@@ -213,7 +213,7 @@
   <string name="download_queued">Na fila</string>
   <string name="download_running">Em progresso</string>
   <string name="download_running_percent">Em progresso, %d%%</string>
-  <string name="download_share_dialog">Compartilhar com</string>
+  <string name="download_share_dialog">Compartilhar usando</string>
   <string name="download_start">Iniciando download\u2026</string>
   <string name="download_success">Concluído</string>
   <string name="download_title_sorted_by_date">Downloads - Ordenados por data</string>
@@ -224,7 +224,7 @@
   <string name="download_traffic_dialog_position_button">Continuar</string>
   <string name="download_unknown_title">(Sem título)</string>
   <string name="download_wait_connect">Aguardando conexão</string>
-  <string name="download_when_network_connected">Download com conexão de dados móveis</string>
+  <string name="download_when_network_connected">Fazer download quando conectado à interent</string>
   <string name="download_while_playing_no_vip_summary">Transferir automaticamente músicas ouvidas (exceto conteúdo pago)</string>
   <string name="download_while_playing_summary">Transferir músicas que você ouve online automaticamente</string>
   <string name="download_while_playing_title">Download do streaming</string>
@@ -297,6 +297,8 @@
   <string name="filter_by_size_summary">Ocultar arquivos de áudio pequenos</string>
   <string name="find_music">Descobrir músicas</string>
   <string name="font_family">miui</string>
+  <string name="force_touch_audio_picker">Reconhecer música</string>
+  <string name="force_touch_play_local_music_random">Reproduzir aleatoriamente</string>
   <string name="format_not_support">"Este formato não é suportado."</string>
   <string name="format_unsupported_or_corrupted">"Este formato não é suportado ou o arquivo está corrompido"</string>
   <string name="fragment_more">Mais</string>
@@ -345,6 +347,8 @@
   <string name="list_item_play_all_tracks">Reproduzir tudo</string>
   <string name="loading_hint">Aguarde\u2026</string>
   <string name="local_music">Offline</string>
+  <string name="local_music_empty">Playlist local vazia</string>
+  <string name="local_music_empty_goto_online">Nenhuma música encontrada</string>
   <string name="local_music_is_not_available">Músicas locais indisponíveis.</string>
   <string name="local_tracks_short">Offline</string>
   <string name="login_first">Antes, faça o login em sua Conta Mi</string>
@@ -489,11 +493,11 @@
   <string name="package_filter">Pacotes</string>
   <string name="pause_download">Pausar</string>
   <string name="paused_by_app">Pausado</string>
-  <string name="paused_in_power_save_mode">Pausado por Economia de energia</string>
+  <string name="paused_in_power_save_mode">Pausado pela Economia de energia</string>
   <string name="paused_insufficient_space">Aguardando</string>
-  <string name="paused_queued_for_wifi">Aguardando rede</string>
+  <string name="paused_queued_for_wifi">Aguardando conexão</string>
   <string name="paused_unknown">Pausado</string>
-  <string name="paused_waiting_for_network">Aguardando rede</string>
+  <string name="paused_waiting_for_network">Aguardando conexão</string>
   <string name="paused_waiting_to_retry">Aguardando para repetir</string>
   <string name="pay">Pagar:</string>
   <string name="pay_now">Serviço atual</string>
@@ -512,10 +516,10 @@
   <string name="please_download_first">Você precisa transferir esta música antes de usá-la como toque do telefone</string>
   <string name="please_search_or_select">Pesquisar ou selecionar um campo</string>
   <string name="please_select_song">Primeiro, escolha uma música</string>
-  <string name="power_save_mode_dialog_msg">O dispositivo está em Economia de energia. Começar o download agora?</string>
+  <string name="power_save_mode_dialog_msg">A Economia de energia está ativada. Começar o download agora?</string>
   <string name="pref_download_settings_title">Limite de tamanho</string>
   <string name="pref_summary_any_bytes_popup">Sempre aguardar Wi-Fi para o download de arquivos</string>
-  <string name="pref_summary_enable_max_bytes_popup">Mostrar notificação pop-up ao usar a conexão de dados móveis para o download de conteúdo</string>
+  <string name="pref_summary_enable_max_bytes_popup">Mostrar notificações popup ao usar a conexão de dados móveis para download</string>
   <string name="pref_summary_max_bytes_limit_format">Aguardar Wi-Fi se o tamanho exceder %s</string>
   <string name="pref_summary_no_limit_popup">Ilimitado</string>
   <string name="pref_title_enable_max_bytes_popup">Mostrar aviso de uso de dados</string>
@@ -559,7 +563,7 @@
   <string name="restart_immediate">Reiniciar</string>
   <string name="resume_download">Continuar</string>
   <string name="retry">Repetir</string>
-  <string name="retry_after_network_available">"Não foi possível conectar-se à rede. Verifique sua conexão de dados e tente novamente."</string>
+  <string name="retry_after_network_available">"Não foi possível conectar-se à rede. Verifique sua conexão e tente novamente."</string>
   <string name="retry_download">Repetir</string>
   <string name="ringtone_not_support">"Este formato de música não é suportado"</string>
   <string name="root_downloads">Downloads</string>
@@ -604,6 +608,18 @@
   <string name="settings">Configurações</string>
   <string name="settings_notification_text">Mostrar widget do player na aba de notificações</string>
   <string name="settings_notification_title">Widget na aba de notificações</string>
+  <string name="settings_search_key_desktop_lyric">Letras na Tela inicial;Letras;Música;Músicas</string>
+  <string name="settings_search_key_download_quality">Qualidade do download;Qualidade;Música;Download;Músicas</string>
+  <string name="settings_search_key_download_when_favorite">Download de favoritas;Download;Favoritas;Música;Músicas</string>
+  <string name="settings_search_key_notification">Notificações de música;Música;Notificações;músicas</string>
+  <string name="settings_search_key_vip_service">Músicas Premium;VIP;Pacote de músicas;Pacote de músicas Premium;Assinante;Assinatura;Música;Músicas</string>
+  <string name="settings_search_path_advance">Apps do sistema/Música/Serviço e configurações/Configurações avançadas</string>
+  <string name="settings_search_path_normal">Apps do sistema/Música/Serviço e configurações</string>
+  <string name="settings_search_title_desktop_lyric">Letras na Tela inicial</string>
+  <string name="settings_search_title_download_quality">Qualidade do download</string>
+  <string name="settings_search_title_download_when_favorite">Download de favoritas</string>
+  <string name="settings_search_title_notification">Notificações do player</string>
+  <string name="settings_search_title_vip_service">Músicas Premium</string>
   <string name="share_append_text">De @MIUI</string>
   <string name="share_chooser_title">Compartilhar usando</string>
   <string name="share_description">Do Mi Música</string>
@@ -739,5 +755,5 @@
   <string name="wifi_required_body" formatted="false">"Você precisa usar o Wi-Fi para concluir o download de %s. 
 
 Toque em %s para iniciar o download da próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
-  <string name="wifi_required_title">Download muito grande para a rede da operadora</string>
+  <string name="wifi_required_title">Conecte-se à rede Wi-Fi para fazer download deste arquivo</string>
 </resources>
