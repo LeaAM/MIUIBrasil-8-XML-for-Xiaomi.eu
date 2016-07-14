@@ -100,7 +100,7 @@
   <string name="namecard_vendor_info">Fornecido por CamCard</string>
   <string name="nickname">Apelido:</string>
   <string name="no_network">"Não foi possível conectar-se à rede"</string>
-  <string name="no_storage">Instale um cartão SD antes de usar a Câmera</string>
+  <string name="no_storage">Nenhum armazenamento interno</string>
   <string name="not_insert_contact">"Não foi possível adicionar o contato"</string>
   <string name="not_recommend_access_web_url">Acessar assim mesmo</string>
   <string name="not_tips">"Não mostrar novamente"</string>
@@ -110,7 +110,7 @@
   <string name="phone">Telefone:</string>
   <string name="picker_lable">Foto</string>
   <string name="place_barcode_into_rectangle">Coloque o código dentro do quadro</string>
-  <string name="preparing_sd">Preparando cartão SD\u2026</string>
+  <string name="preparing_sd">Preparando armazenamento interno\u2026</string>
   <string name="previous">Voltar</string>
   <string name="qr_code_details">Detalhes do código QR:</string>
   <string name="recognize">Ler</string>
@@ -123,7 +123,7 @@
   <string name="shopping_searching">Pesquisando\u2026</string>
   <string name="shopping_title">Tire uma foto do produto</string>
   <string name="shopping_vendor_info">Fornecido por Taobao</string>
-  <string name="spaceIsLow_content">Espaço insuficiente no cartão SD. Libere algum espaço.</string>
+  <string name="spaceIsLow_content">Espaço insuficiente no armazenamento interno. Libere algum espaço.</string>
   <string name="study_report_title">Reportar</string>
   <string name="study_rotate_picture">Processando foto</string>
   <string name="study_scan_result">Resultado</string>

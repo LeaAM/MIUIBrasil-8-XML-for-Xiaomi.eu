@@ -186,6 +186,7 @@
   <string name="file_title">Nome:</string>
   <string name="file_width_height">Tamanho:</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="force_touch_new_message_title">Nova mensagem</string>
   <string name="forward_from">Encaminhar de:</string>
   <string name="forward_prefix">"Enc.: "</string>
   <string name="found_old_messages">Fazer o upload das mensagens de %1$s para %2$s?</string>
@@ -341,6 +342,7 @@
   <string name="need_download">Sincronizando\u2026</string>
   <string name="networking_allow_continue">OK</string>
   <string name="networking_allow_desc">"As mensagens inteligentes permitem o envio de texto e voz gratuitos, reconhecimento de números desconhecidos, filtro anti-spam, etc. Ao usar este serviço, você estará concordando com os %1$s e %2$s da Xiaomi. Você precisa ativar o Diretório e conectar-se à internet para utilizar este serviço."</string>
+  <string name="networking_allow_desc_without_mx">"O serviço inteligente de mensagens permite que você reconheça números desconhecidos, filtre spam, etc. Ao usar este serviço, você concorda com os %1$s e a %2$s da Xiaomi. Você precisa ativar as Páginas amarelas e conectar-se à internet para usar este serviço."</string>
   <string name="networking_allow_title">Atenção</string>
   <string name="new_message">Escrever</string>
   <string name="new_message_arrived">Você recebeu uma nova mensagem</string>

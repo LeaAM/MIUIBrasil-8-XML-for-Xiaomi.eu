@@ -27,6 +27,7 @@
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
+  <string name="empty_recognition_tip">Vazio</string>
   <string name="error_app_internal">Verifique se outro app está utilizando a função de gravação.</string>
   <string name="error_app_internal_title">Erro no gravador de som</string>
   <string name="error_file_access">"O arquivo não existe ou está corrompido"</string>

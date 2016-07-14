@@ -65,16 +65,16 @@
   <string name="root_downloads">Downloads</string>
   <string name="task_already_exist">Esta tarefa já existe</string>
   <string name="warning_tip_cancel">Download</string>
-  <string name="warning_tip_content">"Você não está conectado a uma rede Wi-Fi. Usar sua conexão de dados móveis para transferir este arquivo aumentará seu uso de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrar o excedente."</string>
+  <string name="warning_tip_content">"Você não está mais conectado a uma rede Wi-Fi. Usar sua conexão de dados móveis para concluir este download aumentará o seu uso de dados. Caso você exceda o limite de seu pacote, sua operadora poderá cobrar tarifas excedentes."</string>
   <string name="warning_tip_ok">Pausar</string>
   <string name="warning_tip_title">Alerta sobre o uso de dados</string>
-  <string name="wifi_recommended_body" formatted="false">"O download de \"%s\"  agora diminui a vida da bateria e resulta no uso excess. da conexão, levando a cobr. de acordo com seu plano de dados.
+  <string name="wifi_recommended_body" formatted="false">"O download de \"%s\"  agora diminui a vida da bateria e resulta no uso excessivo da conexão, levando a cobranças de acordo com seu plano de dados.
 
- Toque em \"%s\" para fazer o download quando conect. a uma rede Wi-Fi."</string>
+ Toque em \"%s\" para fazer o download quando conectado a uma rede Wi-Fi."</string>
   <string name="wifi_recommended_title">Colocar em fila para download mais tarde?</string>
-  <string name="wifi_required_body" formatted="false">"Você deve usar o Wi-Fi para completar o download de \"%s\". 
+  <string name="wifi_required_body" formatted="false">"Você deve utilizar uma rede Wi-Fi para concluir a transferência de %s. 
 
-Toque em \"%s\" para começar o download da próxima vez que você estiver conectado a uma rede Wi-Fi."</string>
+Toque em %s  para iniciar a transferência da próxima vez que estiver conectado a uma rede Wi-Fi"</string>
   <string name="wifi_required_title">Download muito grande para a rede da operadora</string>
   <string name="xl_speedup_experience_notify_context">"A velocidade de download é melhorada quando você é um membro Xunlei"</string>
   <string name="xl_speedup_experience_notify_title">Assinatura Xunlei</string>

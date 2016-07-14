@@ -2106,6 +2106,7 @@ Selecione seu sistema operacional:"</string>
   <string name="path_edge_handgrip">Configurações/Controles na borda</string>
   <string name="path_equalizer">Configurações/Sons &amp; vibração/Configurações de áudio/Equalizador</string>
   <string name="path_font_settings">Configurações/Tela/Fonte do sistema</string>
+  <string name="path_gesture_wakeup_title">Configurações/Tela/Toque duplo na tela para ligá-la</string>
   <string name="path_gps_settings">Configurações/Configurações adicionais/Privacidade/Localização</string>
   <string name="path_handy_mode_settings">Configurações/Configurações adicionais/Modo para uma mão</string>
   <string name="path_home_key">Configurações/Configurações adicionais/Botões/Início</string>
@@ -2707,6 +2708,7 @@ Para usar a fixação de tela:
   <string name="search_empty">Nenhum resultado para a busca</string>
   <string name="search_equalizer">Equalizador</string>
   <string name="search_font">Fonte do sistema</string>
+  <string name="search_gesture_wakeup_title">Toque duplo na tela para ligá-la</string>
   <string name="search_gps">GPS;Acesso à localização</string>
   <string name="search_handy_mode">Modo para uma mão</string>
   <string name="search_hint">Configurações de pesquisa</string>

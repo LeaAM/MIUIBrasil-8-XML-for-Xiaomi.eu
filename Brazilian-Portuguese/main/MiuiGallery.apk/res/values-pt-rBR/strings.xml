@@ -735,6 +735,7 @@ Tire mais fotos de seus amigos!"</string>
   <string name="video_editor_text_none">Nenhum</string>
   <string name="video_editor_text_preview_text">Texto</string>
   <string name="video_editor_trim">Cortar</string>
+  <string name="video_editor_unsupport_audio_file">Formato de áudio não suportado</string>
   <string name="video_err">"Não foi possível reproduzir o vídeo"</string>
   <string name="video_not_exist">"O vídeo não existe"</string>
   <string name="view_baby_album">Ver álbum do bebê</string>

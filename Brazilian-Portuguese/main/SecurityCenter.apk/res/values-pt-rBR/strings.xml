@@ -215,6 +215,10 @@
   <string name="cancel">Cancelar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="celcius_symbol">℃</string>
+  <string name="charging_text_battery_full_time">Última carga</string>
+  <string name="charging_text_battery_nearly_full">Quase carregado</string>
+  <string name="charging_text_battery_perfect">Bateria carregada</string>
+  <string name="charging_text_time_calculating">Calculando tempo de carregamento\u2026</string>
   <string name="chat_number">10 horas</string>
   <string name="chat_uint">" horas"</string>
   <string name="check_network_state">Testar rede</string>
@@ -470,7 +474,6 @@
   <string name="item_virus_lib">Atualizar definições de vírus automaticamente</string>
   <string name="keywords_antispam">Lista de bloqueio;Bloquear;Lista negra;Lista inteligente;Fraude;Vendas;Telemarketing</string>
   <string name="keywords_antivirus">Vírus;Riscos;Antivírus;Verificar</string>
-  <string name="keywords_applicationlock">Senha;Privacidade;Bloqueio de apps;Acesso;Proteção</string>
   <string name="keywords_cleanmaster">Lixo;Limpar;Velocidade;Armazenamento;Cache</string>
   <string name="keywords_monthreport">Relatório;Relatório mensal;Relatório anual;Relatório de segurança</string>
   <string name="keywords_networkassistant_1">Dados;Tráfego</string>
@@ -698,7 +701,6 @@
   <string name="passwordIncorrect">Usuário ou senha incorretos</string>
   <string name="path_antispam">Apps do sistema/Segurança/Lista de bloqueio</string>
   <string name="path_antivirus">Apps do sistema/Segurança/Antivírus</string>
-  <string name="path_applicationlock">Apps do sistema/Segurança</string>
   <string name="path_cleanmaster">Apps do sistema/Segurança/Limpeza</string>
   <string name="path_monthreport">Apps do sistema/Segurança</string>
   <string name="path_networkassistant_1">Apps do sistema/Segurança/Uso de dados</string>
@@ -930,7 +932,6 @@
   <string name="replace_dns">Substituir DNS automaticamente</string>
   <string name="resource_antispam">Lista de bloqueio</string>
   <string name="resource_antivirus">Antivírus</string>
-  <string name="resource_applicationlock">Bloqueio de apps</string>
   <string name="resource_cleanmaster">Limpeza</string>
   <string name="resource_monthreport">Relatório de segurança</string>
   <string name="resource_networkassistant_1">Uso de dados</string>

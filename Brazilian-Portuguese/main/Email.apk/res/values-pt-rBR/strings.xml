@@ -346,7 +346,7 @@ Atualizá-los agora?"</string>
   <string name="drawer_open">Abrir gaveta de navegação</string>
   <string name="edit_quick_response_dialog">Resposta rápida</string>
   <string name="elided_padding_token">&#160;</string>
-  <string name="email_setting">Configurações de email</string>
+  <string name="email_setting">E-mail</string>
   <string name="email_setting_keywords">Contas;Adicionar conta;Contas de e-mail;Adicionar conta de e-mail;Confirmar antes de excluir;Confirmação de exclusão;Confirmar antes de enviar;Confirmação de envio;Excluir mensagem;Ao excluir ir para;Visualização por conversa;Visualização por mensagem;Economia de energia;Economia de energia;Enviar feedback;Enviar logs</string>
   <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">"Não foi possível localizar a conta"</string>

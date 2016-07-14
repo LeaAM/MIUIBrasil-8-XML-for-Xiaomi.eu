@@ -92,7 +92,6 @@
   <string name="data_keep_in_device">Manter neste dispositivo</string>
   <string name="data_wipe_from_device">Excluir deste dispositivo</string>
   <string name="delete_action">Excluir</string>
-  <string name="delete_bank_card_failed">Falha ao excluir cartão bancário</string>
   <string name="delete_device_btn">Remover</string>
   <string name="delete_device_failed">"Não foi possível remover dispositivo"</string>
   <string name="delete_device_notice">"Depois que o dispositivo for removido, ele será desconectado de sua Conta Mi automaticamente. Você não poderá mais usar esse dispositivo para acessar fotos, mensagens, ou outros conteúdos armazenados em sua conta."</string>

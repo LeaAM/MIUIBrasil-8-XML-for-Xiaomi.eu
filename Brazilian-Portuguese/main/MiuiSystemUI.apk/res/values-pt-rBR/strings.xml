@@ -248,6 +248,11 @@ Use apenas o carregador fornecido."</string>
   <string name="screen_pinning_negative">Não, obrigado</string>
   <string name="screen_pinning_positive">OK</string>
   <string name="screen_pinning_title">A tela está fixada</string>
+  <string name="screenshot_delete">Excluir</string>
+  <string name="screenshot_delete_dlg_msg">Deseja excluir esta captura de tela?</string>
+  <string name="screenshot_delete_dlg_title">Excluir</string>
+  <string name="screenshot_dlg_cancel">Cancelar</string>
+  <string name="screenshot_dlg_delete_button">Excluir</string>
   <string name="screenshot_edit">Editar</string>
   <string name="screenshot_failed_text">"Não foi possível capturar a tela devido ao armazenamento interno estar cheio ou por não ser permitido pelo app ou sua organização."</string>
   <string name="screenshot_long_screenshot">Estender</string>

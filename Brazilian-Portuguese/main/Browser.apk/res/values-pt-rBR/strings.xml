@@ -294,6 +294,9 @@ Páginas visualizadas não aparecerão no histórico."</string>
   <string name="find_on_page_next">Avançar</string>
   <string name="find_on_page_prev">Voltar</string>
   <string name="find_previous">Localizar anterior</string>
+  <string name="force_quick_search_title">Pesquisar</string>
+  <string name="force_touch_bookmark_history_title">Favoritos e Histórico</string>
+  <string name="force_touch_infoflow_title">Notícias</string>
   <string name="geolocation_permissions_prompt_dont_share">Rejeitar</string>
   <string name="geolocation_permissions_prompt_message">%s quer saber a sua localização</string>
   <string name="geolocation_permissions_prompt_remember">Não mostrar novamente</string>

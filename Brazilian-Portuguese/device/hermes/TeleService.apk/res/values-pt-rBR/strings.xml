@@ -9,7 +9,9 @@
   <string name="activing_simcard">Verificando cartão SIM %1$d</string>
   <string name="activing_simcard_alone">Verificando cartão SIM</string>
   <string name="add">Adicionar</string>
+  <string name="add_by_input">Inserir número</string>
   <string name="add_fdn_contact">Adicionar número de chamadas fixas</string>
+  <string name="add_from_contacts">Adicionar de contatos</string>
   <string name="add_sip_account">Adicionar conta</string>
   <string name="add_vm_number_str">Adicionar número</string>
   <string name="adding_fdn_contact">Adicionando número de chamadas fixas\u2026</string>
@@ -867,6 +869,7 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="pin_progress_set_fdn_lock">Configurando estado de bloqueio FDN\u2026</string>
   <string name="pin_progress_set_icc_lock">Configurando estado de bloqueio ICC\u2026</string>
   <string name="pin_progress_unlock_icc">Desbloqueando cartão SIM\u2026</string>
+  <string name="please_enter_phone_number">Insira o número do telefone</string>
   <string name="plmn_list_setting_add_plmn">Novo PLMN</string>
   <string name="plmn_list_setting_title">Redes preferenciais</string>
   <string name="port_title">Número da porta</string>

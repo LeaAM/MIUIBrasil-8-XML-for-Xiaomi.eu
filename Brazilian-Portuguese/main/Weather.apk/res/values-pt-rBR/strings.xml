@@ -22,6 +22,7 @@
   <string name="activity_weathermain_locationg">Localizando\u2026</string>
   <string name="activity_weathermain_locationg_error">"Não foi possível obter localização"</string>
   <string name="add_city">Adicionar</string>
+  <string name="alert_warning">Aviso de alerta</string>
   <string name="app_name">Clima</string>
   <string name="aqi_data_source">Fornecido por Caiyun Weather</string>
   <string name="aqi_desc">Air Quality Index</string>
@@ -36,6 +37,7 @@
   <string name="aqi_detail_sub_title">Detalhes do IQA</string>
   <string name="aqi_detail_subtitle">IQA: %1$s</string>
   <string name="aqi_detail_title">Índice de Qualidade do Ar</string>
+  <string name="aqi_detail_unit">Unidade:µg/m3(CO:mg/m3)</string>
   <string name="aqi_publish_source">Atualizado às %1$s por CNEMC</string>
   <string name="aqi_publish_time">Atualizado %1$s</string>
   <string name="aqi_short_desc">IQA %1$s</string>
@@ -49,10 +51,12 @@
   <string name="button_not_allow">Cancelar</string>
   <string name="button_sure_abandon">Descartar alterações?</string>
   <string name="close">Fechar</string>
+  <string name="commercial">Comercial</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_drawer_on_top">Previsão para %1$s dias</string>
   <string name="daily_forcast_no_stable_direction">Sem ventos</string>
   <string name="daily_forcast_no_wind">Sem ventos</string>
+  <string name="daily_forcast_no_wind_miles">&lt;19.3mi/h</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s depois.</string>
   <string name="daily_forcast_whirl_wind">Furacão</string>
   <string name="daily_forcast_wind_connect">%1$s %2$s</string>
@@ -66,6 +70,7 @@
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Agora</string>
   <string name="hourly_forecast_title">Previsão por hora</string>
+  <string name="index_item_install_now">Instalar agora</string>
   <string name="indices_desc_Precip1hr">%1$smm</string>
   <string name="indices_desc_feel">Sensação de %1$sºC</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -86,6 +91,7 @@
   <string name="indices_title_visibility">Visibilidade</string>
   <string name="information_manager_information">Info. de clima</string>
   <string name="information_manager_wlan">Carregar quando conectado por Wi-Fi</string>
+  <string name="information_set">Informação definida</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="install">Instalar</string>
   <string name="international_detail_menu_title">Detalhes</string>
@@ -108,9 +114,16 @@ Toque na tela para adicionar manualmente sua localização"</string>
   <string name="no_network_btn">Repetir</string>
   <string name="open">Abrir</string>
   <string name="open_browser">Abrir no Navegador</string>
+  <string name="pressure_connect">%1$s MB</string>
   <string name="realtime_aqi_title">Índice de Qualidade do Ar</string>
   <string name="realtime_humidity_title">Umidade relativa</string>
   <string name="realtime_wind_default_title">Vento</string>
+  <string name="retry">Repetir</string>
+  <string name="set">Configurações</string>
+  <string name="set_degree_centigrade">°C</string>
+  <string name="set_fahrenheit">°F</string>
+  <string name="set_kilometre">km/h</string>
+  <string name="set_land_mile">mi/h</string>
   <string name="share">Compartilhar</string>
   <string name="share_btn_cancel">Cancelar</string>
   <string name="share_btn_confirm">Compartilhar</string>
@@ -130,9 +143,13 @@ Toque na tela para adicionar manualmente sua localização"</string>
   <string name="traffic_control_today_numbers">Hoje: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Amanhã: %1$s</string>
   <string name="traffic_controls">Controle de rodízio</string>
+  <string name="unit">Unidade</string>
+  <string name="unit_temperature">Unidade de temperatura</string>
+  <string name="unit_wind">Unidade de vento</string>
   <string name="view_forecast_item_yesterday">Ontem</string>
   <string name="view_indexes_item_today">Hoje</string>
   <string name="view_indexes_item_tommorrow">Amanhã</string>
   <string name="weather_alert">Alertas de clima</string>
+  <string name="wind_miles_unit">%1$smi/h</string>
   <string name="wind_unit">%1$skm/h</string>
 </resources>

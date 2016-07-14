@@ -7,6 +7,7 @@
   <string name="baidu_search_url_from_launcher">http://www.google.com/search?q=%s</string>
   <string name="baidu_search_url_from_systemui">http://www.google.com/search?q=%s</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%s</string>
+  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="clear_history">Limpar histórico</string>
   <string name="clear_shortcuts">Limpar atalhos</string>
   <string name="clear_shortcuts_agree">Limpar atalhos</string>
@@ -35,29 +36,36 @@ Para limpar o histórico do navegador, acesse as configurações do Navegador."<
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
   <string name="google_app_label">Pesquisa Google</string>
+  <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
+  <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
   <string name="google_search_description">Sugestões de pesquisa do Google</string>
   <string name="google_search_hint">Pesquisa Google</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Pesquisa Google</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
+  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
   <string name="loading">Aguarde\u2026</string>
   <string name="menu_help">Ajuda</string>
   <string name="menu_settings">Config. de pesquisa</string>
   <string name="network_unavailable">"Não foi possível conectar-se à rede"</string>
-  <string name="recent_apps">Apps recomendados</string>
+  <string name="recent_apps">Apps recentes</string>
   <string name="recently_shortcut_label">Atalhos recentes</string>
   <string name="remove_from_history">Você deseja remover este item do histórico de pesquisa?</string>
   <string name="remove_from_history_failed">"Não foi possível remover o item do histórico."</string>
+  <string name="search_apps">Apps recentes</string>
+  <string name="search_apps_url">market://search?q=%s&amp;ref=migs</string>
   <string name="search_group_fold">Ocultar</string>
   <string name="search_group_unfold">Mais</string>
   <string name="search_history">Histórico</string>
   <string name="search_in_app_store">Pesquisar Play Store</string>
-  <string name="search_in_web">Pesquisar Online</string>
+  <string name="search_in_web">Pesquisar na Web</string>
   <string name="search_settings">Config. de pesquisa</string>
   <string name="search_sources">Itens pesquisáveis</string>
   <string name="search_sources_summary">Escolha o que pesquisar no telefone</string>
   <string name="search_suggestion">Dicas</string>
+  <string name="search_videos">Pesquisar vídeos</string>
+  <string name="search_videos_url">https://video.browser.miui.com/v6/2/#page=search&amp;keyword=%s&amp;from=home&amp;entry=migs&amp;_miui_fullscreen=1</string>
   <string name="search_widget">Pesquisar</string>
   <string name="send_secret_code">Enviar código</string>
   <string name="show_more">Mostrar mais</string>
