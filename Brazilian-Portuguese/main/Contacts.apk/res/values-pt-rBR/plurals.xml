@@ -71,7 +71,7 @@
   </plurals>
   <plurals name="pick_recent_list_title">
     <item quantity="other">%1$d contatos recentes</item>
-    <item quantity="one">1 contato recente</item>
+    <item quantity="one">%1$d contato recente</item>
   </plurals>
   <plurals name="hint_search_contacts">
     <item quantity="other">%1$d contatos</item>
@@ -83,11 +83,11 @@
   </plurals>
   <plurals name="hint_search_emails">
     <item quantity="other">%1$d e-mails de contatos</item>
-    <item quantity="one">1 e-mail de contato</item>
+    <item quantity="one">%1$d e-mail de contato</item>
   </plurals>
   <plurals name="hint_account_contacts">
     <item quantity="other">%1$d itens encontrados</item>
-    <item quantity="one">1 item encontrado</item>
+    <item quantity="one">%1$d item encontrado</item>
   </plurals>
   <plurals name="pick_favorites_contacts_list_title">
     <item quantity="other">%1$d favoritos</item>
@@ -103,11 +103,11 @@
   </plurals>
   <plurals name="btn_delete_multi_contacts">
     <item quantity="other">Excluir %d contatos</item>
-    <item quantity="one">Excluir contato</item>
+    <item quantity="one">Excluir %d contato</item>
   </plurals>
   <plurals name="smart_group_member_count">
     <item quantity="other">%d pessoas</item>
-    <item quantity="one">1 pessoa</item>
+    <item quantity="one">%d pessoa</item>
   </plurals>
   <plurals name="device_import_done_toast">
     <item quantity="other">%1$d contatos importados</item>
@@ -122,12 +122,12 @@
     <item quantity="one">%1$d selecionado</item>
   </plurals>
   <plurals name="dlg_add_blacklist">
-    <item quantity="other">Bloquear estes %1$d números de telefone?</item>
-    <item quantity="one">Bloquear este número de telefone?</item>
+    <item quantity="other">Bloquear %1$d números de telefone?</item>
+    <item quantity="one">Bloquear %1$d número de telefone?</item>
   </plurals>
   <plurals name="dlg_remove_blacklist">
-    <item quantity="other">Desbloquear estes %1$d números de telefone?</item>
-    <item quantity="one">Desbloquear este número de telefone?</item>
+    <item quantity="other">Desbloquear %1$d números de telefone?</item>
+    <item quantity="one">Desbloquear %1$d número de telefone?</item>
   </plurals>
   <plurals name="voip_contacts_count">
     <item quantity="other">%1$d pessoas</item>
@@ -143,6 +143,6 @@
   </plurals>
   <plurals name="cloud_state_unsynced_count">
     <item quantity="other">"%d contatos ou fotos não foram sincronizados"</item>
-    <item quantity="one">"1 contato ou foto não foi sincronizado"</item>
+    <item quantity="one">"%d contato ou foto não foi sincronizado"</item>
   </plurals>
 </resources>

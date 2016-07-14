@@ -31,16 +31,45 @@
   <string-array name="welcome_notes_content">
     <item>"Toque para criar uma anotação
 "</item>
-    <item>"Para adicionar uma imagem ou exibir caixas de seleção, toque no botão abaixo
-"</item>
+    <item>"Crie uma anotação
+Toque no sinal de + para criar uma anotação."</item>
     <item>"Escolha modelos
-"</item>
+Use modelos para personalizar e estilizar suas anotações.
+Toque no botão da direita no canto inferior da anotação para escolher um modelo."</item>
     <item>"Crie pastas
-"</item>
+Organize suas anotações em pastas.
+Existem 2 formas de criar uma pasta:
+1. Toque no ícone de pasta no canto superior direito, em seguida toque em +.
+2. Segure uma anotação até o menu pop-up ser exibido, e selecione Mover para - Nova pasta."</item>
     <item>"Oculte anotações
+Proteja anotações privadas com uma senha.
+Existem 2 maneiras de ocultar uma anotação:
+1. Toque no botão Mais no canto superior direito de uma anotação, e selecione Ocultar.
+2. Segure uma anotação até que o menu pop-up seja exibido, e selecione Ocultar."</item>
+    <item>"E muitas outras funções!
+ - Imagens, checklists, lembretes.
+
+Adicione imagens
+Toque no ícone de imagem no canto inferior de uma anotação para adicionar uma imagem.
+Você pode tirar uma foto ou escolher uma foto da Galeria.
+Quando uma anotação contém uma imagem, esta imagem será usada como sua miniatura na visualização em grade.
+
+Crie checklists
+Uma caixa de seleção é um elemento essencial em uma lista de tarefas.
+Toque no ícone da caixa de seleção no canto inferior de uma anotação para adicionar a caixa a um parágrafo de texto.
+Marque a caixa quando a tarefa estiver concluída.
+
+Defina lembretes
+Defina lembretes diretamente de anotações.
+Toque no botão Mais no canto superior direito de uma anotação, selecione Lembretes, e defina os dados para o lembrete a ser criado.
 "</item>
-    <item>"E muitos outros recursos!
- - Sincronização com a Mi Cloud
- - Definição de lembretes"</item>
+  </string-array>
+  <string-array name="welcome_notes_image">
+    <item>guide_1</item>
+    <item></item>
+    <item>guide_3_1</item>
+    <item></item>
+    <item></item>
+    <item></item>
   </string-array>
 </resources>

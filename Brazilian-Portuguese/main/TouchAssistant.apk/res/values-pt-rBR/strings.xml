@@ -6,13 +6,15 @@
   <string name="applications">Aplicativos</string>
   <string name="category_others">Outros</string>
   <string name="category_setting">Configurações</string>
-  <string name="close_panel">Fechar Menu de atalhos</string>
+  <string name="close_panel">Desativar Menu de atalhos</string>
   <string name="customize_entries">Selecionar atalhos</string>
   <string name="enable_touch_assistant">Ativar Menu de atalhos</string>
   <string name="function_settings">Configurações de atalhos</string>
   <string name="hide_touch_assistant">Ocultar automaticamente</string>
   <string name="hide_touch_assistant_intro">Ocultar Menu de atalhos em apps selecionados.</string>
-  <string name="motion_behavior">Modo de movimento</string>
+  <string name="hide_when_fullscreen">Ocultar em tela cheia</string>
+  <string name="hide_when_fullscreen_intro">Ocultar Menu de atalhos quando um app entrar em modo tela cheia.</string>
+  <string name="motion_behavior">Gesto preferencial</string>
   <string name="name_alipay_payment_code">Pagamento Alipay</string>
   <string name="name_alipay_scan">Leitor QR Alipay</string>
   <string name="name_long_press_power_key">Segurar botão Liga/Desliga</string>
@@ -30,7 +32,7 @@
   <string name="name_screenshot">Capturar tela</string>
   <string name="name_wechat_payment_code">Pagamento WeChat</string>
   <string name="name_wechat_scan">Leitor QR WeChat</string>
-  <string name="open_panel">Abrir Menu de atalhos</string>
+  <string name="open_panel">Ativar Menu de atalhos</string>
   <string name="pay_entry_dialog_title_select">Selecionar app para abrir</string>
   <string name="pay_entry_dialog_title_setting">Configurar app</string>
   <string name="pref_category_others">Outros</string>

@@ -56,7 +56,7 @@
   <string name="account_vip_level">Conta</string>
   <string name="account_xiaomi_service">Serviços</string>
   <string name="activate_email_notice">Certifique-se de ativar sua conta dentro de 24 horas</string>
-  <string name="activity_not_found_notice">"Não foi possível encontrar o app"</string>
+  <string name="activity_not_found_notice">"App não encontrado"</string>
   <string name="add_account">Conectar conta</string>
   <string name="alert_title_remove_account">Remover conta?</string>
   <string name="app_name">Conta Mi</string>
@@ -137,6 +137,7 @@
   <string name="location_service_not_working">Serviço de localização inoperante</string>
   <string name="logout_failed">"Não foi possível fazer o logout"</string>
   <string name="mi_account_identity_title">Verificar identidade</string>
+  <string name="mi_insurance">Seguro Mi</string>
   <string name="mi_pass">Mi Pass</string>
   <string name="mi_pay_identity">Identidade</string>
   <string name="micloud_space_info">%s disponível</string>

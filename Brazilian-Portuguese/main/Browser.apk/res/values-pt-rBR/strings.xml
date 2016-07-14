@@ -647,7 +647,7 @@ Sair desta página?"</string>
   <string name="search_hint">Pesquisar</string>
   <string name="search_keyword_browser">Navegador</string>
   <string name="search_label">Navegador</string>
-  <string name="search_path_browser">Configurações/Apps do sistema/Navegador</string>
+  <string name="search_path_browser">Configurações/Apps instalados/Navegador</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Favoritos e histórico da web</string>
   <string name="search_shipin">Vídeo</string>
@@ -668,7 +668,7 @@ Sair desta página?"</string>
   <string name="select_download_device">Escolher dispositivo</string>
   <string name="send_comment_button">Enviar</string>
   <string name="send_comment_title">Comentário</string>
-  <string name="senddesktop">Desktop</string>
+  <string name="senddesktop">Tela inicial</string>
   <string name="sendstartpage">Página inicial</string>
   <string name="share_page_text">"Confira (%1$s) | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"A URL deste website será enviada aos servidores da Xiaomi para verificar a sua segurança. Você pode desativar este recurso a qualquer momento nas Configurações."</string>

@@ -241,6 +241,7 @@ Cartões de contatos estão desativados"</string>
   <string name="contacts_unavailable_create_contact">Criar um novo contato</string>
   <string name="contacts_unavailable_import_contacts">Importar contatos de um arquivo</string>
   <string name="convenient_service">Serviços</string>
+  <string name="copy_number">Copiar</string>
   <string name="copy_text">Copiar para área de transferência</string>
   <string name="createContactShortcutSuccessful">Widget do contato adicionado à Tela Inicial</string>
   <string name="create_group_dialog_title">Criar novo grupo</string>
@@ -434,7 +435,6 @@ Motivo: \"%s\""</string>
   <string name="favoritesFrequentContacted">Contatos frequentes</string>
   <string name="favorites_list_empty">Nenhum favorito</string>
   <string name="firewall_setting">Lista de bloqueio</string>
-  <string name="followed_yellowpage">Contas Verificadas</string>
   <string name="force_touch_miprofile">Cartão de contato</string>
   <string name="force_touch_new_contact">Novo contato</string>
   <string name="foundTooManyContacts">Mais de %d encontrados.</string>
@@ -641,13 +641,12 @@ Motivo: \"%s\""</string>
   <string name="miprofile_error_not_opened">Desativar cartões de contato</string>
   <string name="miprofile_error_not_set">"Seu cartão de contato não foi sincronizado no servidor"</string>
   <string name="miprofile_error_unknown">Erro desconhecido</string>
-  <string name="miprofile_find_miprofile_title">Adicionar perfil</string>
-  <string name="miprofile_find_profile_batch_add">Adicionar em todos os perfis</string>
+  <string name="miprofile_find_miprofile_title">Adicione para ver todas as informações</string>
+  <string name="miprofile_find_profile_batch_add">Adicionar tudo</string>
   <string name="miprofile_find_profile_batch_finish">Finalizar</string>
   <string name="miprofile_find_profile_batch_request_failed">"Não foi possível adicionar o perfil"</string>
   <string name="miprofile_find_profile_loading">Carregando\u2026</string>
   <string name="miprofile_find_profile_no_recommend">Perfis não recomendados</string>
-  <string name="miprofile_find_profile_subtitle">Adicionar para ver fotos e mais informações</string>
   <string name="miprofile_finding_label">Encontrar cartões de contato</string>
   <string name="miprofile_name">Meu perfil</string>
   <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -1131,8 +1130,10 @@ Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>"
   <string name="strequentList">Favoritos</string>
   <string name="success_message_import_from_account">Importação concluída</string>
   <string name="summary_kind_title">Resumo</string>
-  <string name="t9_search_guide_pinyin">Digite \"2\" e \"8\" para pesquisar por \"Alan Turing\"</string>
-  <string name="t9_search_guide_zhuyin">Digite \"2\" e \"8\" para pesquisar por \"Alan Turing\"</string>
+  <string name="t9_search_guide_pinyin_title1">Pesquise contatos rapidamente ao inserir letras</string>
+  <string name="t9_search_guide_pinyin_title2">Insira 2 e 3 para pesquisar por <font fgcolor="">A</font>lan <font fgcolor="">F</font>rank</string>
+  <string name="t9_search_guide_zhuyin_title1">Pesquise contatos rapidamente ao inserir letras</string>
+  <string name="t9_search_guide_zhuyin_title2">Insira 5 e 6 para pesquisar por <font fgcolor="">J</font>eff <font fgcolor="">M</font>ax</string>
   <string name="take_new_photo">Tirar outra foto</string>
   <string name="take_photo">Tirar foto</string>
   <string name="titleJoinContactDataWith">Mesclar contatos</string>

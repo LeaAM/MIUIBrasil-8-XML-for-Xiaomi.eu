@@ -141,6 +141,7 @@ http://www.miliao.com
   <string name="miliao_account_login">Fazer login com o Mi Talk</string>
   <string name="mms_title">MMS</string>
   <string name="multi_select_title">%1$s item(ns) selecionado(s)</string>
+  <string name="multi_user_mode_backup_message">"Não é possível usar o Backup no modo Multiusuário. Desative o modo Multiusuário para continuar."</string>
   <string name="multi_user_mode_dialog_message">"Não é possível usar o Mi Mover no Modo Multiusuário. Desative o Modo Multiusuário para continuar."</string>
   <string name="multi_user_mode_dialog_title">"Você está no Modo Multiusuário"</string>
   <string name="never">Nunca</string>

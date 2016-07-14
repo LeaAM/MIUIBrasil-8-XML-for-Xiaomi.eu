@@ -630,11 +630,11 @@
   <string name="network_connected_exception_title">Testar rede</string>
   <string name="network_control">Ver configurações do app</string>
   <string name="network_diagnostics">Testar rede</string>
-  <string name="network_mobile_exception_detail">"Seu dispositivo não pode se conectar à internet:\n\n
+  <string name="network_mobile_exception_detail">"Seu dispositivo não pode se conectar à internet:
 
-1. Certifique-se de que você não excedeu o limite de seu pacote de dados.\n\n
+1. Certifique-se de que você não excedeu o limite de seu pacote de dados.
 
-2. Caso você tenha carregado seu telefone a pouco tempo, reinicie o telefone e tente novamente.\n\n
+2. Caso você tenha carregado seu telefone a pouco tempo, reinicie o telefone e tente novamente.
 
 3. O sinal de sua operadora pode estar fraco em sua região."</string>
   <string name="network_operator_exception_summary">"Não foi possível ativar o cartão SIM. Certifique-se de que seu cartão SIM está inserido corretamente e sua linha está ativada por sua operadora."</string>

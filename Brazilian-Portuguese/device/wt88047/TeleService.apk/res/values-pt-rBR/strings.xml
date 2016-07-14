@@ -594,7 +594,7 @@ Recarregue e comece a falar"</string>
   <string name="livetalk_setting">Pacote de recarga</string>
   <string name="livetalk_terms_conditions">Termos e Condições</string>
   <string name="livetalk_unavaiable_info">Este serviço está temporariamente indisponível</string>
-  <string name="livetalk_user_config_title">Verificar número do telefone</string>
+  <string name="livetalk_user_config_title">Verificação do SIM</string>
   <string name="livetalk_welcome_description_text">"- Economize até 70% em suas tarifas de chamada.
 - Ligue para qualquer telefone do mundo, sem restrições.
 - Recarregue e comece a usar, não existem configurações complicadas."</string>
@@ -742,6 +742,7 @@ A rede preferencial será utilizada."</string>
   <string name="no_data">Sem dados</string>
   <string name="no_internet_available">Antes de fazer uma chamada SIP, verifique sua conexão com a internet.</string>
   <string name="no_more">Nada a exibir</string>
+  <string name="no_number">Nenhum número de telefone</string>
   <string name="no_sim_card">Inserir cartão SIM</string>
   <string name="no_vm_number">Número do correio de voz ausente</string>
   <string name="no_vm_number_msg">Não há um número de correio de voz armazenado no cartão SIM.</string>
@@ -1160,6 +1161,7 @@ Seu cartão SIM será apagado após outra tentativa incorreta."</string>
   <string name="sim_unknown">Desconhecido</string>
   <string name="sim_unlock_failed">Falha na requisição do desbloqueio do SIM.</string>
   <string name="sim_unlock_success">Desbloqueio do cartão SIM com bem-sucedido.</string>
+  <string name="sim_useless">Cartão SIM indisponível</string>
   <string name="sip_account_list">Contas SIP</string>
   <string name="sip_accounts">Contas SIP</string>
   <string name="sip_accounts_title">Contas</string>

@@ -76,6 +76,7 @@
   <string name="menu_item_sort_by_name">Ordenar por nome</string>
   <string name="minute">1 minuto</string>
   <string name="minutes">%s minutos</string>
+  <string name="more_settings">Mais configurações</string>
   <string name="never">Nunca</string>
   <string name="oneshot_alarm">Excluir após alarme disparar</string>
   <string name="pause">Pausar</string>
@@ -85,7 +86,7 @@
   <string name="set_alarm">Definir alarme</string>
   <string name="settings">Config.</string>
   <string name="shutdown_alarm_disable_summary">O alarme não tocará com o telefone desligado</string>
-  <string name="shutdown_alarm_enable_summary">O alarme tocará mesmo com o telefone desligado</string>
+  <string name="shutdown_alarm_enable_summary">O alarme tocará com o telefone desligado</string>
   <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
   <string name="silent_alarm_summary">Silencioso</string>
   <string name="skip_alarm_date_format">%1$s(%2$s)</string>

@@ -92,6 +92,8 @@
   <string name="feedback_tracking">Rastrear problemas</string>
   <string name="feedback_version_label">Versão</string>
   <string name="feesback_list">Relatórios</string>
+  <string name="first_position">2#</string>
+  <string name="floor">%1$s#</string>
   <string name="from">de %1$s</string>
   <string name="loading_apps">Carregando lista\u2026</string>
   <string name="login_system_failed">"Não foi possível fazer o login, tente novamente"</string>
@@ -100,6 +102,7 @@
   <string name="menu_copy">Copiar</string>
   <string name="message_label">Mensagem</string>
   <string name="michat_app_name">Suporte online</string>
+  <string name="michat_artifical_customer_phone">4001005678</string>
   <string name="michat_artifical_customer_phone_dial_error">"Se você não puder ligar para o hotline 400, ligue para %1$s usando outro telefone"</string>
   <string name="michat_artifical_customer_text">Equipe de suporte</string>
   <string name="michat_attach_image">Imagem</string>
@@ -235,6 +238,7 @@
   <string name="toast_report_sent_failed">"Não foi possível enviar o relatório"</string>
   <string name="toast_report_sent_succeed">O relatório foi enviado</string>
   <string name="toast_title_required">Descreva seu problema</string>
+  <string name="topic_author">1#</string>
   <string name="try_again">Tente novamente</string>
   <string name="warning_field_empty">Insira %1$s</string>
   <string name="warning_field_invalid">Seleciona um %1$s válido</string>

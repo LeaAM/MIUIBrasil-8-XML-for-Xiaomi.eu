@@ -198,10 +198,14 @@ para reativar esta função."</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Conexão expirada. Tente novamente mais tarde.</string>
   <string name="micloud_find_device_guide_micloud">Ativar sincronização com a Mi Cloud</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Sincronize contatos, fotos, anotações e mais com a Mi Cloud</string>
-  <string name="micloud_find_device_guide_noti_content">Ativar</string>
-  <string name="micloud_find_device_guide_noti_title">Ative o \'Encontrar dispositivo\' para proteger seus dados mesmo quando o dispositivo for perdido</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">Ative o \'Encontrar dispositivo\' para proteger seus dados do WeChat</string>
-  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Ative o \'Encontrar dispositivo\' para proteger seus dados Alipay</string>
+  <string name="micloud_find_device_guide_noti_content">Proteja seus dados mesmo se o dispositivo for perdido</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Seus dados do QQ estarão seguros mesmo se você perder seu dispositivo</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Seus dados do WeChat estarão seguros mesmo se você perder seu dispositivo</string>
+  <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Seus dados do Alipay estarão seguros mesmo se você perder seu dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title">Ativar Encontrar dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_qq">O QQ recomenda que você ative o Encontrar dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_wx">O WeChat recomenda que você ative o Encontrar dispositivo</string>
+  <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">O Alipay recomenda que você ative o Encontrar dispositivo</string>
   <string name="micloud_find_device_guide_progress">Ativando o \'Encontrar dispositivo\'\u2026</string>
   <string name="micloud_find_device_guide_title">"Faça o login em %s para localizar, bloquear,
 ou apagar seu dispositivo."</string>

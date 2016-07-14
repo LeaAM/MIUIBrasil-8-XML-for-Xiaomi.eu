@@ -47,6 +47,7 @@
   <string name="batch_deleting_progress_message">Excluindo\u2026</string>
   <string name="bcc_label">"Cco: "</string>
   <string name="block_messaging_entry_title">SMS bloqueado</string>
+  <string name="block_support_text">Fornecido por Antiy.</string>
   <string name="bookmark">Favoritos</string>
   <string name="bookmark_confirm_delete_message">Remover mensagem selecionada dos favoritos?</string>
   <string name="bookmark_empty">Nenhum favorito</string>

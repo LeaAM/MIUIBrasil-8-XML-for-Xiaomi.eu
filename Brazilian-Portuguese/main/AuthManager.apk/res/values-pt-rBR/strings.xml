@@ -262,7 +262,7 @@ Você precisa instalar a versão de desenvolvedor da MIUI para permitir o acesso
   <string name="Privacy_App_Uninstall">Desinstalar</string>
   <string name="Privacy_Perm_Count">%1$d permitido | %2$d negado</string>
   <string name="Su_Enable_Dialog">%1$s está solicitando acesso root.</string>
-  <string name="Su_Package_Forbidden">"%1$s não possui acesso root."</string>
+  <string name="Su_Package_Forbidden2">"não tem acesso root."</string>
   <string name="Su_Unavailable">O acesso root está indisponível nesta versão da MIUI. Você precisa instalar a versão beta da MIUI para obter acesso root.</string>
   <string name="SysOpt_Boost_AutoStart">Permissão de início automático</string>
   <string name="SysOpt_Boost_AutoStart_Group">início automático</string>
@@ -284,7 +284,7 @@ Você precisa instalar a versão de desenvolvedor da MIUI para permitir o acesso
   <string name="permission_group_title_settings_related">Configurações</string>
   <string name="permission_request_title">Solicitação de permissão</string>
   <string name="permission_warning_template">Permitir %2$s pelo app %1$s?</string>
-  <string name="permisson_reject_notice_toast_text">\"%1$s\" não tem permissão para %2$s. Você pode alterar as permissões do app a qualquer momento em Segurança &gt; Permissões.</string>
+  <string name="permisson_reject_notice_toast_text2">"não tem permissão para %1$s."</string>
   <string name="screen_overlay_button">Abrir Configurações</string>
   <string name="screen_overlay_message">Para alterar a configuração desta permissão, você primeiro precisa desativar a sobreposição de tela em Configurações &gt; Apps do sistema</string>
   <string name="screen_overlay_title">Sobreposição de tela detectada</string>

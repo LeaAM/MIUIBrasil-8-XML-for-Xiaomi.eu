@@ -41,7 +41,6 @@
   <string name="document_ocr_result_save">Salvar nas Anotações</string>
   <string name="document_ocr_result_title">Foto de documento</string>
   <string name="document_ocr_tip_msg">Lendo\u2026</string>
-  <string name="document_ocr_vendor_info">OCR fornecido por Kingsoft</string>
   <string name="document_recognize_fail_tip">"Não foi possível ler o documento"</string>
   <string name="document_rectify">Ajustar</string>
   <string name="document_rectify_tip_msg">Ajustando\u2026</string>
