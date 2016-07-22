@@ -100,7 +100,6 @@ Se você selecionar não usar anúncios personaliados, o nível de anúncios nã
   <string name="add_fingerprint_done_title">"Você está pronto para começar!"</string>
   <string name="add_fingerprint_failed_retry_text">"Não foi possível adicionar a impressão digital, tente novamente"</string>
   <string name="add_fingerprint_finished_button_text">OK</string>
-  <string name="add_fingerprint_instruction_dialog_msg">Para adicionar sua impressão digital, coloque seu dedo no sensor e retire-o ao sentir uma vibração.</string>
   <string name="add_fingerprint_instruction_msg">Desbloqueie seu dispositivo ou verifique pagamentos com sua impressão digital.</string>
   <string name="add_fingerprint_instruction_title">Adicionar impressão digital</string>
   <string name="add_fingerprint_put_finger_edge_msg">Mova o seu dedo um pouco e coloque-o novamente no sensor para adicionar todas as partes de sua impressão digital.</string>
@@ -1292,6 +1291,8 @@ Se você selecionar não usar anúncios personaliados, o nível de anúncios nã
   <string name="fingerprint_last_delete_message">"Você não poderá usar suas impressões digitais para desbloquear o smartphone, autorizar compras ou fazer login em apps."</string>
   <string name="fingerprint_last_delete_title">Remover todas as impressões digitais?</string>
   <string name="fingerprint_list_title">Impressão digital</string>
+  <string name="fingerprint_lock_first">Desbloquear Espaço principal</string>
+  <string name="fingerprint_lock_second">Desbloquear Segundo Espaço</string>
   <string name="fingerprint_manage_category_title">Gerenciar impressões digitais</string>
   <string name="fingerprint_not_recognized">Não reconhecido</string>
   <string name="fingerprint_removal_failed">"Não foi possível remover a impressão digital, tente novamente mais tarde"</string>
@@ -1387,6 +1388,7 @@ Se você selecionar não usar anúncios personaliados, o nível de anúncios nã
   <string name="global_change_warning">Esta configuração afeta todos os usuários do telefone.</string>
   <string name="global_font_change_title">Alterar tamanho da fonte</string>
   <string name="global_locale_change_title">Alterar idioma</string>
+  <string name="google_backup_enable">Ativar backups</string>
   <string name="google_backup_section_title">Backup e restauração do Google</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
   <string name="handy_mode">Modo para uma mão</string>
@@ -1698,11 +1700,11 @@ Se você selecionar não usar anúncios personaliados, o nível de anúncios nã
   <string name="lock_sounds_enable_title">Sons de bloqueio de tela</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
   <string name="lockpassword_choose_for_second_user">Definir senha do Segundo Espaço</string>
-  <string name="lockpassword_choose_lock_generic_header">Desbloquear seleção</string>
-  <string name="lockpassword_choose_your_password_header">Escolha a sua senha</string>
+  <string name="lockpassword_choose_lock_generic_header">Escolher bloqueio de tela</string>
+  <string name="lockpassword_choose_your_password_header">Definir senha</string>
   <string name="lockpassword_choose_your_password_second_space">"Definir senha
 para o Segundo Espaço"</string>
-  <string name="lockpassword_choose_your_pattern_header">Escolha seu padrão</string>
+  <string name="lockpassword_choose_your_pattern_header">Definir padrão</string>
   <string name="lockpassword_choose_your_pin_header">Escolha o seu PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Definir PIN
 para o Segundo Espaço"</string>
@@ -2200,7 +2202,7 @@ Selecione seu sistema operacional:"</string>
   <string name="path_alarm_sound_title">Configurações/Sons &amp; vibração/Toque do alarme</string>
   <string name="path_android_beam_settings">Configurações/Mais/Android Beam</string>
   <string name="path_apn_settings">Configurações/Cartões SIM &amp; redes móveis/Nomes dos Pontos de Acesso (APN)</string>
-  <string name="path_app_invisible">Configurações/Configurações adicionais/Adicionais/Apps invisíveis</string>
+  <string name="path_app_invisible">Configurações/Configurações adicionais/Funções beta/Apps invisíveis</string>
   <string name="path_app_permission">Configurações/Permissões</string>
   <string name="path_app_switch_key">Configurações/Configurações adicionais/Botões/Recentes</string>
   <string name="path_application_lock">Configurações/Bloqueio de apps</string>
@@ -2244,7 +2246,7 @@ Selecione seu sistema operacional:"</string>
   <string name="path_handy_mode_settings">Configurações/Configurações adicionais/Modo para uma mão</string>
   <string name="path_home_key">Configurações/Configurações adicionais/Botões/Início</string>
   <string name="path_key_settings">Configurações/Configurações adicionais/Botões</string>
-  <string name="path_lab_functions_title">Configurações/Configurações adicionais/Adicionais/Funções beta</string>
+  <string name="path_lab_functions_title">Configurações/Configurações adicionais/Funções beta</string>
   <string name="path_language_picker_title">Configurações/Configurações adicionais/Idioma &amp; entrada/Idioma</string>
   <string name="path_language_settings">Configurações/Configurações adicionais/Idioma &amp; entrada</string>
   <string name="path_led_settings">Configurações/Configurações adicionais/LED de notificações</string>
@@ -2275,10 +2277,10 @@ Selecione seu sistema operacional:"</string>
   <string name="path_owner_info_settings">Configurações/Bloqueio de tela &amp; senhas/Info. do proprietário</string>
   <string name="path_page_layout_settings">Configurações/Tela/Tamanho do texto</string>
   <string name="path_pointer_speed">Configurações/Configurações adicionais/Idioma &amp; entrada/Velocidade do ponteiro</string>
-  <string name="path_power_checker">Configurações/Configurações adicionais/Adicionais/Verificação de energia</string>
+  <string name="path_power_checker">Configurações/Configurações adicionais/Funções beta/Verificação de energia</string>
   <string name="path_power_hide_mode_title">Configurações/Bateria &amp; performance/Gerenciar uso de bateria por apps</string>
   <string name="path_power_mode_settings">Configurações/Bateria &amp; performance/Configurações de energia</string>
-  <string name="path_power_optimize">Configurações/Configurações adicionais/Adicionais/Economia de energia</string>
+  <string name="path_power_optimize">Configurações/Configurações adicionais/Funções beta/Economia de energia</string>
   <string name="path_pref_volume_wake_title">Configurações/Bloqueio de tela &amp; senhas/Ligar a tela com botões de volume</string>
   <string name="path_preferred_network_type_settings">Configurações/Cartões SIM &amp; redes móveis/Tipo de rede preferencial</string>
   <string name="path_privacy_policy">Configurações/Sobre o telefone/Informações legais/Política de Privacidade</string>
@@ -2363,10 +2365,13 @@ Selecione seu sistema operacional:"</string>
   <string name="permission_detail_info">Detalhes</string>
   <string name="permission_detail_info_summary">%1$d segurança | %2$d privacidade | %3$d outros</string>
   <string name="permission_manage">Gerenciador de permissões</string>
+  <string name="permission_manage_global_build_title">Outras permissões</string>
   <string name="permission_manage_summary">Perguntar antes de permitir que apps leiam seus contatos, vejam seus registros de chamadas, alterem configurações do sistema, ou acessem a câmera e outras funções do dispositivo</string>
   <string name="permission_manage_title">%s permissões</string>
   <string name="permission_manager">Permissões</string>
   <string name="permission_mgr">Permissões</string>
+  <string name="permission_settings_summary">Gerenciar permissões relacionadas a localização, armazenamento, telefone, mensagens e contatos.</string>
+  <string name="permission_settings_title">Permissões de apps</string>
   <string name="permissions_label">Permissões</string>
   <string name="permit_draw_overlay">Permitir a sobreposição a outros apps</string>
   <string name="permit_usage_access">Permitir acesso de uso</string>
@@ -3589,7 +3594,7 @@ Você pode usar um ^1 mais rápido para ter um desempenho melhor."</string>
   <string name="uninstall_dlg_title">Desinstalar agora?</string>
   <string name="uninstall_text">Desinstalar</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Os apps clonados correspondentes serão removidos com os dados dos apps.</string>
-  <string name="uninstall_xspace_app_dlg_msg">A desinstalação do app clonado removerá todos os dados deste app.</string>
+  <string name="uninstall_xspace_app_dlg_msg">A desinstalação do app clonado removerá todos os dados do app.</string>
   <string name="uninstall_xspace_app_dlg_title">Desinstalar app clonado?</string>
   <string name="unknown">Desconhecido</string>
   <string name="unknown_app">App desconhecido</string>

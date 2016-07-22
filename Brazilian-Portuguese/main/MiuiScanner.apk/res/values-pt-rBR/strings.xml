@@ -117,6 +117,7 @@
   <string name="recognize_fail">"Não foi possível ler o código"</string>
   <string name="scan_fail">"Não foi possível ler o código"</string>
   <string name="scan_result">Resultado</string>
+  <string name="sdk_not_ready">Preparando o SDK, tente novamente mais tarde.</string>
   <string name="secure_access_web_url">Ir ao website</string>
   <string name="see_app_details">Ver detalhes do app</string>
   <string name="settings">Configurações</string>

@@ -126,7 +126,7 @@
   <string name="notification_load_title_alpha">Faça o login na sua Conta Mi</string>
   <string name="notification_load_title_dev">Faça o login na sua Conta Mi</string>
   <string name="notification_reboot_btn">Reiniciar</string>
-  <string name="notification_reboot_seccess_des">Toque para mais informações.</string>
+  <string name="notification_reboot_seccess_des">Toque para mais info.</string>
   <string name="notification_reboot_seccess_title">Dispositivo atualizado</string>
   <string name="notification_reboot_summary_hm">Toque para reiniciar o dispositivo.</string>
   <string name="notification_reboot_title">Reinicie para aplicar a atualização</string>

@@ -24,7 +24,7 @@
   <string name="bookmark_list_title">Favorita</string>
   <string name="cannot_send_message">"Não foi possível enviar a mensagem"</string>
   <string name="check_network">Configurações de rede</string>
-  <string name="compressing">Imagem muito grande. Comprimindo\u2026</string>
+  <string name="compressing">A imagem é muito grande. Comprimindo\u2026</string>
   <string name="confirm_delete_all_conversations">Excluir todas as conversas?</string>
   <string name="confirm_delete_conversation">Excluir este tópico inteiro?</string>
   <string name="confirm_delete_group_message">Excluir mensagens de grupo?</string>
@@ -47,7 +47,7 @@
   <string name="converting_to_picture_message">Convertendo para mensagem multimídia\u2026</string>
   <string name="converting_to_text_message">Convertendo para mensagem de texto\u2026</string>
   <string name="copy_message_text">Copiar texto</string>
-  <string name="copy_message_text_success">Texto copiado</string>
+  <string name="copy_message_text_success">Texto copiado com sucesso</string>
   <string name="copy_to_sdcard">Salvar anexo</string>
   <string name="copy_to_sdcard_fail">"Não foi possível salvar o anexo"</string>
   <string name="copy_to_sdcard_success">Anexo salvo como %s</string>
@@ -66,12 +66,12 @@
   <string name="english_subject_limit">Limite de 40 caracteres</string>
   <string name="ex_type_mx">Mi Message</string>
   <string name="ex_type_sms">SMS/MMS</string>
-  <string name="exceed_message_size_limitation">Limite de tamanho da mensagem atingido.</string>
+  <string name="exceed_message_size_limitation">Tamanho máximo de mensagem atingido.</string>
   <string name="failed_to_add_media">"Você não pode adicionar este(a) %1$s em sua mensagem."</string>
-  <string name="failed_to_resize_image">Imagem não redimensionada.</string>
+  <string name="failed_to_resize_image">"Não foi possível redimensionar a imagem."</string>
   <string name="feedback_description_hint">Escreva seu feedback aqui</string>
   <string name="feedback_submit">Enviar</string>
-  <string name="festival_networking_desc">Este recurso precisa de uma conexão com a internet para funcionar normalmente.</string>
+  <string name="festival_networking_desc">Esta função precisa de uma conexão com a internet para funcionar normalmente.</string>
   <string name="festival_never_remind">"Não mostrar novamente"</string>
   <string name="festival_sms_loading">Carregando\u2026</string>
   <string name="file_create_time">"Criado: "</string>
@@ -122,8 +122,8 @@
   <string name="mx_dspt">Enviar mensagens para outros disppositivos com MIUI sem a cobrança de taxas de SMS</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_msg">Mi Message</string>
-  <string name="mx_on_sim_1">Mi Message no cartão SIM 1</string>
-  <string name="mx_on_sim_2">Mi Message no cartão SIM 2</string>
+  <string name="mx_on_sim_1">Mi Message SIM 1</string>
+  <string name="mx_on_sim_2">Mi Message SIM 2</string>
   <string name="mx_recommend_msg">Toque para ativar o Mi Message.</string>
   <string name="need_download">Sincronizando\u2026</string>
   <string name="network_error">Erro de rede</string>
@@ -145,7 +145,7 @@
   <string name="prefDefault_ringtone_repeat">1</string>
   <string name="pref_advanced_settings_title">Configurações adicionais</string>
   <string name="pref_collapse_sp_messages_summary">Agrupar notificações SMS automaticamente</string>
-  <string name="pref_edit_smsc_address">Centro de Serviço SMS (SMSC)</string>
+  <string name="pref_edit_smsc_address">Número do Centro de SMS</string>
   <string name="pref_forward_title">Encaminhar</string>
   <string name="pref_key_mx_feedback">Feedback</string>
   <string name="pref_messages_to_save">Definir número de mensagens a salvar</string>
@@ -159,7 +159,7 @@
   <string name="pref_summary_hide_festival">Ocultar recursos somente da língua chinesa quando o sistema estiver utilizando outro idiomas</string>
   <string name="pref_summary_manage_sim_messages">Gerenciar mensagens armazenadas no cartão SIM</string>
   <string name="pref_summary_mx_feedback">Relatar bugs e enviar feedback</string>
-  <string name="pref_summary_notification_body_enabled">Mostrar mensagens na tela de bloqueio e na aba de notificações</string>
+  <string name="pref_summary_notification_body_enabled">Mostrar SMS na Tela de bloqueio e Aba de notificações</string>
   <string name="pref_summary_show_recent_contacts">Mostrar contatos recentes ao escrever uma mensagem</string>
   <string name="pref_system_title">Sistema</string>
   <string name="pref_time_auto_group_summary">Agrupar mensagens recebidas dentro de um minuto de intervalo na mesma conversa</string>
@@ -172,7 +172,7 @@
   <string name="pref_title_hide_festival">Ocultar recursos da língua chinesa</string>
   <string name="pref_title_manage_sim_messages">Gerenciar mensagens do cartão SIM</string>
   <string name="pref_title_miui_card">Enviar via cartão</string>
-  <string name="pref_title_notification_body_enabled">Mostrar mensagens na tela de bloqueio</string>
+  <string name="pref_title_notification_body_enabled">Mostrar SMS na Tela de bloqueio</string>
   <string name="pref_title_ringtone_repeat">Número de notificações sonoras</string>
   <string name="pref_title_show_recent_contacts">Mostrar contatos recentes</string>
   <string name="pref_title_vcard">Enviar via vCard</string>
@@ -188,7 +188,7 @@
   <string name="remove">Remover</string>
   <string name="replace">Substituir</string>
   <string name="resent_message">Reenviar</string>
-  <string name="resize_image_error_information">Esta imagem é muito grande para ser enviada, mesmo quando redimensionada.</string>
+  <string name="resize_image_error_information">Esta imagem é muito grande para ser enviada, mesmo redimensionada.</string>
   <string name="restore_blocked_message">Restaurar mensagem</string>
   <string name="retrive_hms_tips">Recuperando\u2026</string>
   <string name="save">Salvar</string>
@@ -229,8 +229,8 @@
   <string name="type_attachment">anexo</string>
   <string name="type_audio">áudio</string>
   <string name="type_picture">imagem</string>
-  <string name="type_to_compose_text_enter_to_send">Digitar mensagem</string>
-  <string name="type_to_compose_text_or_leave_blank">Digitar mensagem, ou deixe em branco</string>
+  <string name="type_to_compose_text_enter_to_send">Inserir mensagem</string>
+  <string name="type_to_compose_text_or_leave_blank">Insira a mensagem ou deixe em branco</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">vídeo</string>
   <string name="undelivered_msg_dialog_title">Mensagem nao enviada</string>

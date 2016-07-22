@@ -38,6 +38,7 @@
   <string name="answer_state_setting_summary">Opções adicionais para chamadas recebidas</string>
   <string name="answer_state_setting_title">Configuração de chamadas recebidas</string>
   <string name="antispam_notification_title">Número desconhecido</string>
+  <string name="antispam_setting">Lista de bloqueio</string>
   <string name="apn_settings">Nomes dos Pontos de Acesso (APN)</string>
   <string name="area_code_preference_summary">Discar código de área automaticamente</string>
   <string name="areacode_set_default">Padrão</string>

@@ -56,7 +56,7 @@
   <string name="account_vip_level">Conta</string>
   <string name="account_xiaomi_service">Serviços</string>
   <string name="activate_email_notice">Certifique-se de ativar sua conta dentro de 24 horas</string>
-  <string name="activity_not_found_notice">"App não encontrado"</string>
+  <string name="activity_not_found_notice">"Não foi possível encontrar o app"</string>
   <string name="add_account">Conectar conta</string>
   <string name="alert_title_remove_account">Remover conta?</string>
   <string name="app_name">Conta Mi</string>
@@ -279,7 +279,7 @@ Para ativar sua conta, siga o
   <string name="passport_register_restricted">Muitas contas foram associadas a este número, tente um número diferente</string>
   <string name="passport_register_restricted_title">"Não é possível usar este número"</string>
   <string name="passport_registered_phone_user_ID">ID do usuário: %s</string>
-  <string name="passport_registered_phone_user_name">Nome do usuário: %s</string>
+  <string name="passport_registered_phone_user_name">Usuário: %s</string>
   <string name="passport_reject_recycle_account">Não</string>
   <string name="passport_relogin">Fazer login novamente</string>
   <string name="passport_relogin_notice">Você precisa fazer o login novamente</string>
@@ -292,7 +292,7 @@ Para ativar sua conta, siga o
   <string name="passport_restart">Tentar novamente</string>
   <string name="passport_restart_register_prompt">Outra mensagem de verificação pode ser necessária para criar sua conta.</string>
   <string name="passport_restart_register_title">Criar uma Conta Mi</string>
-  <string name="passport_retry">Repetir</string>
+  <string name="passport_retry">Tentar novamente</string>
   <string name="passport_select_reg_ways_title">Outras formas de login</string>
   <string name="passport_send_too_many_code">Muitos códigos de verificação foram enviados para este número. Aguarde 24 horas e tente novamente.</string>
   <string name="passport_setting">Configurando\u2026</string>

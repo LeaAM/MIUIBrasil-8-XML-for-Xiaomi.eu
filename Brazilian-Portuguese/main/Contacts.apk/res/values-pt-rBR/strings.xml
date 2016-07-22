@@ -203,7 +203,7 @@ Cartões de contatos estão desativados"</string>
   <string name="contact_detail_miprofile_request_success_toast">Pedido enviado</string>
   <string name="contact_detail_miprofile_save">Toque para obter o cartão do contato</string>
   <string name="contact_detail_miprofile_save_fail_toast">"Não foi possível obter o cartão do contato"</string>
-  <string name="contact_detail_miprofile_save_success_toast">Cartão do contato recebido</string>
+  <string name="contact_detail_miprofile_save_success_toast">Recebendo cartão de contato</string>
   <string name="contact_detail_miprofile_settings_header">CONFIGURAÇÕES ADICIONAIS</string>
   <string name="contact_detail_miprofile_subtitle">Cartões já trocados</string>
   <string name="contact_detail_profile_switch_fail_network_toast">"Não foi possível conectar-se à rede"</string>
@@ -438,6 +438,7 @@ Motivo: \"%s\""</string>
   <string name="force_touch_miprofile">Cartão de contato</string>
   <string name="force_touch_new_contact">Novo contato</string>
   <string name="foundTooManyContacts">Mais de %d encontrados.</string>
+  <string name="fraud_more_indemnity">Indenização</string>
   <string name="frequentList">Frequente</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Nome</string>
@@ -1131,11 +1132,13 @@ Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>"
   <string name="success_message_import_from_account">Importação concluída</string>
   <string name="summary_kind_title">Resumo</string>
   <string name="t9_search_guide_pinyin_title1">Pesquise contatos rapidamente ao inserir letras</string>
-  <string name="t9_search_guide_pinyin_title2">Insira 2 e 3 para pesquisar por <font fgcolor="">A</font>lan <font fgcolor="">F</font>rank</string>
+  <string name="t9_search_guide_pinyin_title2">Insira 5 e 6 para pesquisar por <font fgcolor="">J</font>eff <font fgcolor="">M</font>ax</string>
   <string name="t9_search_guide_zhuyin_title1">Pesquise contatos rapidamente ao inserir letras</string>
   <string name="t9_search_guide_zhuyin_title2">Insira 5 e 6 para pesquisar por <font fgcolor="">J</font>eff <font fgcolor="">M</font>ax</string>
   <string name="take_new_photo">Tirar outra foto</string>
   <string name="take_photo">Tirar foto</string>
+  <string name="telecom_fraud_insurance">Seguro contra fraudes telefônicas</string>
+  <string name="telecom_fraud_insurance_description">Seguro de 10000TMB | Personalizado pela Xiaomi | 9.9RMB anual</string>
   <string name="titleJoinContactDataWith">Mesclar contatos</string>
   <string name="title_other_devices">Outros dispositivos disponíveis</string>
   <string name="title_paired_devices">Dispositivos pareados</string>

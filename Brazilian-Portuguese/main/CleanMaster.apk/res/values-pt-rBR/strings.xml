@@ -30,6 +30,9 @@
   <string name="apk_status_install">Instalado</string>
   <string name="apk_status_installed_old">Versão antiga</string>
   <string name="apk_status_uninstalled">Não instalado</string>
+  <string name="app_install_tips_go_to">Iniciar agora</string>
+  <string name="app_install_tips_install_success">%1$s instalado com sucesso</string>
+  <string name="app_name">Cheetah Mobile CleanMaster SDK</string>
   <string name="apps_sort_type_item_size">Tamanho</string>
   <string name="apps_sort_type_item_time">Usados frequentemente</string>
   <string name="apps_sort_type_title">Ordenar</string>
@@ -38,6 +41,8 @@
   <string name="auto_clean_switch_on">Ativado</string>
   <string name="auto_cleaner_open">Ativar</string>
   <string name="back">Voltar</string>
+  <string name="browser_scan_history_desc">Histórico do Navegador</string>
+  <string name="browser_search_history_desc">Itens pesquisados</string>
   <string name="btn_text_done">Concluído</string>
   <string name="btn_text_quick_cleanup">Limpar</string>
   <string name="btn_text_quick_scan">Pesquisar</string>
@@ -76,6 +81,7 @@
   <string name="cache_title_empty_folder2">Pasta vazia</string>
   <string name="cache_title_system_cache">Cache do sistema</string>
   <string name="cached_garbage">Cache</string>
+  <string name="call_log">Registros de chamada</string>
   <string name="cancel">Cancelar</string>
   <string name="clean_content_all">Tudo</string>
   <string name="clean_content_one">1 item</string>
@@ -85,6 +91,8 @@
   <string name="clear_bigfiles">Excluir arquivos grandes, fotos duplicadas e outros itens desnecessários</string>
   <string name="clear_immediately">Limpar agora</string>
   <string name="clear_safe_notify">Barra do app nas notificações</string>
+  <string name="clip_board_history_desc">Conteúdo da área de transferência</string>
+  <string name="clipboard">Área de transferência</string>
   <string name="close">Fechar</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="conn_of_function_safe">Conexão de rede para Segurança</string>
@@ -160,7 +168,6 @@
   <string name="grabage_rank_title">Limpos hoje</string>
   <string name="harass_detail">Bloqueadas %1$d SMS e %2$d chamadas</string>
   <string name="header_optimizer">Ao usar este recurso, você estará concordando com os %s.</string>
-  <string name="hint_bar_select_image">%d selecionado(s)</string>
   <string name="hint_clean_select_similar_image">Excluindo duplicados\u2026</string>
   <string name="hints_ad_header_left">Arquivos de anúncios</string>
   <string name="hints_apk_header_left">Pacotes</string>
@@ -212,6 +219,7 @@
   <string name="hints_quick_prepare">Preparando\u2026</string>
   <string name="hints_quick_scanning">Verificando\u2026</string>
   <string name="hints_residual_header_left">Resíduos</string>
+  <string name="hints_scan_has_finish">Limpeza concluída</string>
   <string name="hints_scanfinish">Nenhum lixo</string>
   <string name="hints_storage_clean_size">Liberados %s do armazenamento</string>
   <string name="hints_storage_free">Livre</string>
@@ -227,6 +235,8 @@
   <string name="installed">Instalado</string>
   <string name="installing">Instalando</string>
   <string name="item_title_process_mode">Escolha uma ação</string>
+  <string name="junk_tag_RF_EmptyFolders">Pastas vazias</string>
+  <string name="junk_tag_RF_ImageThumbnails">Miniaturas da Galeria</string>
   <string name="just_now">Agora mesmo</string>
   <string name="kilobyteShort">KB</string>
   <string name="label_image_list_none">Sem dados</string>
@@ -268,6 +278,7 @@
   <string name="optimizecenter_data_support_cm">Desenvolvido por CleanMaster</string>
   <string name="optimizecenter_data_support_tc">Desenvolvido por Tencent</string>
   <string name="petabyteShort">PB</string>
+  <string name="phone_search">Pesquisa do Google</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Limpar automaticamente</string>
   <string name="pref_category_title_auto_update_cleanup_db">Configurações adicionais</string>
@@ -305,6 +316,7 @@
   <string name="privacy_app_desc_message">Conta, senhas e mensagens</string>
   <string name="privacy_app_desc_search">Conta, senhas e histórico de pesquisa</string>
   <string name="privacy_app_desc_setting">Conta, senhas e configurações</string>
+  <string name="privacy_appdata_chrome_history_des">Sites visitados</string>
   <string name="privacy_browser_desc">Itens pesquisados</string>
   <string name="privacy_cache_desc">Conta, senha, histórico, configurações e mais</string>
   <string name="privacy_cache_empty">Nenhum dado pessoal</string>
@@ -322,6 +334,7 @@
   <string name="safety_rank">À frente de %d%% dos usuários MIUI em termos de segurança</string>
   <string name="sc_allow_network_dialog_button">Permitir</string>
   <string name="sc_allow_network_dialog_message">Permitir que este app conecte-se à internet para receber atualizações?</string>
+  <string name="search_history">Histórico de pesquisa</string>
   <string name="see_more">Mais</string>
   <string name="set_immediately">Definir</string>
   <string name="seton_immediately">Ativar</string>
@@ -330,7 +343,9 @@
   <string name="similar_image_empty">Nenhuma foto duplicada encontrada</string>
   <string name="similar_image_scaning">Verificando\u2026</string>
   <string name="similar_image_title">Fotos</string>
+  <string name="sms">SMS/MMS</string>
   <string name="sponsored">Patrocinado</string>
+  <string name="start_downloading_app">Iniciar download: %1$s</string>
   <string name="start_install">Instalar agora</string>
   <string name="summary_auto_cleaner">Limpar seu sistema automaticamente a cada 3 dias?</string>
   <string name="summary_delete_apk">Excluir APKs selecionados permanentemente?</string>

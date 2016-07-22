@@ -479,7 +479,7 @@ Mudar para o novo provedor?"</string>
   <string name="incall_error_out_of_service">Rede móvel indisponível.</string>
   <string name="incall_error_power_off">Para fazer uma chamada, desative o Modo avião.</string>
   <string name="incall_error_supp_service_conference">Não foi possível realizar a conferência telefônica.</string>
-  <string name="incall_error_supp_service_hangup">Não foi possível liberar a(s) chamada(s).</string>
+  <string name="incall_error_supp_service_hangup">Impossível encerrar chamada.</string>
   <string name="incall_error_supp_service_reject">Não foi possível rejeitar a chamada.</string>
   <string name="incall_error_supp_service_separate">Não foi possível separar a chamada.</string>
   <string name="incall_error_supp_service_switch">Não foi possível alternar chamadas.</string>

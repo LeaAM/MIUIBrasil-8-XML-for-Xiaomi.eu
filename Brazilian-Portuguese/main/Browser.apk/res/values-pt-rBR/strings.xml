@@ -64,7 +64,7 @@
   <string name="add_quicklink_to_popular">Adicionar à página inicial</string>
   <string name="add_quicklinks">Adicionar à página inicial</string>
   <string name="add_shortcut">Adicionar atalho</string>
-  <string name="add_shortcut_success">Atalho adicionado</string>
+  <string name="add_shortcut_success">Atalho adicionado com sucesso</string>
   <string name="add_to_bookmark">Favoritos</string>
   <string name="add_to_desk">Colocar na Tela inicial</string>
   <string name="add_to_desk_success">Colocado na Tela inicial</string>
@@ -295,7 +295,7 @@ Páginas visualizadas não aparecerão no histórico."</string>
   <string name="find_on_page_prev">Voltar</string>
   <string name="find_previous">Localizar anterior</string>
   <string name="force_quick_search_title">Pesquisar</string>
-  <string name="force_touch_bookmark_history_title">Favoritos e Histórico</string>
+  <string name="force_touch_bookmark_history_title">Favoritos &amp; Histórico</string>
   <string name="force_touch_infoflow_title">Notícias</string>
   <string name="geolocation_permissions_prompt_dont_share">Rejeitar</string>
   <string name="geolocation_permissions_prompt_message">%s quer saber a sua localização</string>

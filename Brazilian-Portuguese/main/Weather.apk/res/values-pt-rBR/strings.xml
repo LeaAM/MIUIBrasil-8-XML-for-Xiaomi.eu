@@ -114,7 +114,7 @@ Toque na tela para adicionar manualmente sua localização"</string>
   <string name="no_network_btn">Repetir</string>
   <string name="open">Abrir</string>
   <string name="open_browser">Abrir no Navegador</string>
-  <string name="pressure_connect">%1$s MB</string>
+  <string name="pressure_connect">%1$s mb</string>
   <string name="realtime_aqi_title">Índice de Qualidade do Ar</string>
   <string name="realtime_humidity_title">Umidade relativa</string>
   <string name="realtime_wind_default_title">Vento</string>

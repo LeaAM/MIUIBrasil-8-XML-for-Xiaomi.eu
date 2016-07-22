@@ -7,8 +7,10 @@
 Mensagens aparecerão somente no Segundo Espaço."</string>
   <string name="PrivacyContactDes2">"Se você utiliza mensagens privadas no Espaço principal,
 esta função será adicionada ao Segundo Espaço automaticamente."</string>
+  <string name="add_finger_print">Adicionar impressão digital</string>
   <string name="appData">Apps instalados</string>
   <string name="app_name">Componente de Segurança</string>
+  <string name="back">Voltar</string>
   <string name="cancelClosePassword">"Não desativar"</string>
   <string name="cancel_button">Cancelar</string>
   <string name="changePassword">Alterar senha</string>
@@ -49,6 +51,9 @@ para visualizá-las a qualquer momento"</string>
   <string name="deleteAll">Excluir tudo</string>
   <string name="deleteDataConfirm">Todos os itens serão excluídos</string>
   <string name="deleteDataDes">"Você não selecionou nenhum item para mover. Você não será capaz de restaurar estes itens após serem excluídos."</string>
+  <string name="delete_fingerprint">Excluir impressão digital</string>
+  <string name="delete_fingerprint_desc">A impressão digital do Segundo Espaço será excluída junto com a senha</string>
+  <string name="delete_phone_fingerprint">Excluir impressão digital do Segundo Espaço</string>
   <string name="delete_src_file">Excluir arquivos</string>
   <string name="delete_src_photo">Excluir fotos</string>
   <string name="dir_switch_out_all_photos">Galeria do Segundo Espaço</string>
@@ -68,6 +73,9 @@ para visualizá-las a qualquer momento"</string>
   <string name="err_unknown">Erro desconhecido</string>
   <string name="err_volume_not_enough">Espaço de armazenamento insuficiente</string>
   <string name="exit_private_space">Alternar</string>
+  <string name="finger_print_num">Impressão %d</string>
+  <string name="finger_print_of_use">Usar impressão digital</string>
+  <string name="fingerprint_removal_failed">"Não foi possível excluir a impressão digital"</string>
   <string name="goToSecondSpacce">Ir para o Segundo Espaço</string>
   <string name="go_on_import">Continuar importação</string>
   <string name="guide_contact_sub_title_desc">"Contatos adicionados ao Segundo Espaço serão privados.
@@ -95,19 +103,24 @@ Você também pode fazer o download deles separadamente."</string>
   <string name="loading_apps">Carregando apps\u2026</string>
   <string name="loading_space">Aguarde\u2026</string>
   <string name="loading_success">Carregado com sucesso</string>
+  <string name="lock_screen_open_second_space">Acessar Segundo Espaço a partir da Tela de bloqueio</string>
   <string name="messageData">Mensagens</string>
   <string name="msg_switch_file">Excluir estes itens no Espaço principal após serem movidos?</string>
   <string name="msg_switch_photo">Excluir estas fotos no Espaço principal após serem movidas?</string>
   <string name="needSetKeyguardFirst">Definir senha do Espaço principal</string>
   <string name="needSetKeyguardFirstDes">Definir senha do Espaço principal antes de criar a senha do Segundo Espaço</string>
+  <string name="need_set_second_space_desc">Adicione uma senha ao Segundo Espaço antes de adicionar a impressão digital</string>
+  <string name="need_set_second_space_pwd_first">Configure a senha do Segundo Espaço primeiro</string>
   <string name="newSecondSpace">Ativar Segundo Espaço</string>
   <string name="next_setp">Avançar</string>
+  <string name="no_match_repate_scanner">"Nenhuma impressão digital correspondente encontrada, tente novamente"</string>
   <string name="normal_app">Espaço principal</string>
   <string name="not_support_multiple_users">"Múltiplos espaços não são suportados"</string>
   <string name="notificationSetPassword">Definir senha</string>
   <string name="notificationSetPasswordDes">Proteger dados do Segundo espaço</string>
   <string name="notificationSummary">Alternar entre Espaços pela Aba de notificações</string>
   <string name="notificationTitle">Atalho na Aba de notificações</string>
+  <string name="notification_recommend_title">Top 12 de apps para o Segundo Espaço</string>
   <string name="notification_setting_second_space">Configurar Segundo Espaço</string>
   <string name="notification_setting_second_space_desc">Adicionar senha no Segundo Espaço e mover dados</string>
   <string name="ok_button">OK</string>
@@ -117,6 +130,8 @@ Você também pode fazer o download deles separadamente."</string>
   <string name="otherSettings">Outras configurações</string>
   <string name="passWordGuardSummary">Acesse o Segundo Espaço pela Tela de bloqueio usando uma senha</string>
   <string name="passwordProtect">Senha</string>
+  <string name="please_diff_finger_print">"Certifique-se de usar diferentes impressões digitais no Espaço principal e no Segundo Espaço.
+Assim você conseguirá acessar o Segundo Espaço diretamente da Tela de bloqueio."</string>
   <string name="privacyContactsSummary">Mostrar itens privados no Segundo Espaço</string>
   <string name="privacyContactsTitle">Mensagens e Contatos privados</string>
   <string name="private_sms_show_sub_title">Os dados de mensagens serão compartilhados entre os dois Espaços</string>
@@ -126,12 +141,25 @@ Você também pode fazer o download deles separadamente."</string>
   <string name="removeSuccess">Excluído com sucesso</string>
   <string name="remove_second_space_msg">Todos os dados de apps do Segundo Espaço serão perdidos após excluir o Segundo Espaço. Excluí-lo agora?</string>
   <string name="removingSpace">Excluindo\u2026</string>
+  <string name="repeat_scanner_fingerprint">Adicionar novamente</string>
   <string name="restore_normal_show">"Não mostrar mensagens privadas"</string>
   <string name="restore_show_desc">"Não mostrar mensagens privadas no Segundo Espaço. Elas ainda estarão disponíveis no Espaço principal."</string>
   <string name="restore_show_toast">Não exibindo mensagens privadas</string>
   <string name="retain_src_file">Manter arquivos</string>
   <string name="retain_src_photo">Manter fotos</string>
+  <string name="scanner_fingerprint">Lendo impressão digital\u2026</string>
+  <string name="scanner_fingerprint_enter_second">"Leia a impressão digital do Segundo Espaço
+para acessar o Segundo Espaço a partir da Tela de bloqueio"</string>
+  <string name="scanner_fingerprint_error_tips_desc">"Impressões digitais correspondentes não encontradas. Adicionar impressão digital ao Segundo Espaço?"</string>
+  <string name="scanner_fingerprint_error_tips_title">"Não foi possível encontrar impressões digitais correspondentes"</string>
+  <string name="scanner_fingerprint_tips_desc">Selecione uma impressão digital existente para entrar no Segundo Espaço. Não será possível usá-la no Espaço principal.</string>
+  <string name="scanner_fingerprint_tips_title">Entrar no Segundo Espaço usando uma impressão digital atual</string>
+  <string name="scanner_second_space_fingerprint">Ler impressão digital do Segundo Espaço</string>
   <string name="secondSpace">Segundo Espaço</string>
+  <string name="second_owner_finger_print">Impressão digital do Segundo Espaço</string>
+  <string name="second_space_finger_printf_desc">Adicionar impressão digital especificamente para o Segundo Espaço</string>
+  <string name="second_space_finger_printf_title">Impressão digital do Segundo Espaço</string>
+  <string name="select_existed_fingerprint">Selecionar impressão digital</string>
   <string name="serNameSummary">Segundo Espaço</string>
   <string name="setSecondSpacePassword">Definir senha do Segundo Espaço</string>
   <string name="setSecondSpacePasswordGuide">Definir senha do Segundo Espaço</string>
@@ -140,6 +168,9 @@ Você também pode fazer o download deles separadamente."</string>
   <string name="setSuccess">Senhas definidas com sucesso</string>
   <string name="set_space_pwd_detail">Você pode entrar no Segundo Espaço usando a senha</string>
   <string name="set_space_pwd_suc">Senha do Segundo Espaço adicionada</string>
+  <string name="setting_finger_print_sub_title">Certifique-se de que a impressão digital é diferente da registrada para o Espaço principal</string>
+  <string name="setting_finger_print_title">Adicionar impressão digital ao Segundo Espaço</string>
+  <string name="setting_fingerprint_title">Adicionar senha ao Segundo Espaço</string>
   <string name="setting_is_show_text_contacts">Configurar mensagens e contatos privados</string>
   <string name="settings_cross_notification_summary">Receber notificações do outro espaço</string>
   <string name="settings_cross_notification_title">Notificações</string>
@@ -158,8 +189,13 @@ Você também pode fazer o download deles separadamente."</string>
   <string name="spaceSetting">Configurações</string>
   <string name="startSet">Definir</string>
   <string name="startTransfer">Mover</string>
+  <string name="start_input_finger_print">Adicionar impressão digital</string>
+  <string name="start_new_fingerprint">Adicionar nova impressão digital</string>
+  <string name="start_new_fingerprint_tips">"Use a impressão digital do Segundo Espaço
+para acessá-lo através da Tela de bloqueio"</string>
   <string name="start_setting_guide_desc_title">Algumas coisas precisam ser configuradas</string>
   <string name="summary_switch_apps_settings">Selecionar apps usados no Segundo Espaço</string>
+  <string name="sure_to_use">Confirmar</string>
   <string name="switchDataSummary">Mover itens entre Espaços</string>
   <string name="switch_apps_settings">Configurações do App</string>
   <string name="switch_data_app">Mover itens para o Segundo Espaço</string>
@@ -198,11 +234,12 @@ Você também pode fazer o download deles separadamente."</string>
   <string name="transferMessage">Mensagens do Segundo Espaço serão movidas para o Espaço principal</string>
   <string name="tryNow">Testar agora</string>
   <string name="wating">Aguarde\u2026</string>
-  <string name="xspace_chocie">Outros apps</string>
-  <string name="xspace_creating">Clonando app\u2026</string>
+  <string name="xspace_chocie">Suporte a apps clonados</string>
+  <string name="xspace_creating">Criando app clonado\u2026</string>
   <string name="xspace_description">Crie apps clonados para usá-los separadamente. Apps clonados possuem ícones específicos na Tela inicial.</string>
   <string name="xspace_header">Apps clonados</string>
   <string name="xspace_install_completed">Ícone adicionado na Tela inicial</string>
+  <string name="xspace_install_failed">"Não foi possível criar o app"</string>
   <string name="xspace_installing">Instalando\u2026</string>
   <string name="xspace_introduce">Recomendados</string>
   <string name="xspace_label">Apps clonados</string>

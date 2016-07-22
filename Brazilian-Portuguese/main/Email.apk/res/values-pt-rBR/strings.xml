@@ -18,7 +18,7 @@
   <string name="account_setting_keywords">Contas de e-mail;Contas de email;configurações de e-mail;configurações de conta de e-mail;Contas de correio eletrônico</string>
   <string name="account_settings_action">Configurações da conta</string>
   <string name="account_settings_background_attachments_label">Transferir anexos</string>
-  <string name="account_settings_background_attachments_summary">Transferir anexos usando Wi-Fi</string>
+  <string name="account_settings_background_attachments_summary">Download de anexos usando Wi-Fi</string>
   <string name="account_settings_data_usage">Configurações de sincronização</string>
   <string name="account_settings_description_label">Nome da conta</string>
   <string name="account_settings_edit_quick_responses_label">Resposta rápida</string>

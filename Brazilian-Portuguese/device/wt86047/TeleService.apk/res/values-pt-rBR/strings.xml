@@ -11,7 +11,9 @@
   <string name="activing_simcard_alone">Verificando cartão SIM</string>
   <string name="add">Adicionar</string>
   <string name="addSimEntries">Adicionar contato do SIM</string>
+  <string name="add_by_input">Inserir número</string>
   <string name="add_fdn_contact">Adicionar número de chamadas fixas</string>
+  <string name="add_from_contacts">Adicionar de contatos</string>
   <string name="add_sip_account">Adicionar conta</string>
   <string name="add_vm_number_str">Adicionar número</string>
   <string name="adding_fdn_contact">Adicionando número de chamadas fixas\u2026</string>
@@ -477,7 +479,7 @@ Mudar para o novo provedor?"</string>
   <string name="incall_error_out_of_service">Rede móvel indisponível.</string>
   <string name="incall_error_power_off">Para fazer uma chamada, desative o Modo avião.</string>
   <string name="incall_error_supp_service_conference">Não foi possível realizar a conferência telefônica.</string>
-  <string name="incall_error_supp_service_hangup">Não foi possível liberar a(s) chamada(s).</string>
+  <string name="incall_error_supp_service_hangup">Impossível encerrar chamada.</string>
   <string name="incall_error_supp_service_reject">Não foi possível rejeitar a chamada.</string>
   <string name="incall_error_supp_service_separate">Não foi possível separar a chamada.</string>
   <string name="incall_error_supp_service_switch">Não foi possível alternar chamadas.</string>
@@ -925,6 +927,7 @@ Seu telefone será bloqueado automaticamente após outra tentativa incorreta"</s
   <string name="pin_progress_set_fdn_lock">Configurando estado de bloqueio FDN\u2026</string>
   <string name="pin_progress_set_icc_lock">Configurando estado de bloqueio ICC\u2026</string>
   <string name="pin_progress_unlock_icc">Desbloqueando cartão SIM\u2026</string>
+  <string name="please_enter_phone_number">Insira o número do telefone</string>
   <string name="port_title">Número da porta</string>
   <string name="preference_auto_ip_summary_disable">Desativado</string>
   <string name="preference_category_ringtone">Toque &amp; vibração</string>

@@ -137,4 +137,8 @@
     <item quantity="other">%d itens selecionados</item>
     <item quantity="one">%d item selecionado</item>
   </plurals>
+  <plurals name="fast_share_auto_render_failed">
+    <item quantity="other">"%1$d fotos que não foram renderizadas foram ignoradas."</item>
+    <item quantity="one">"1 foto que não foi renderizada foi ignorada."</item>
+  </plurals>
 </resources>

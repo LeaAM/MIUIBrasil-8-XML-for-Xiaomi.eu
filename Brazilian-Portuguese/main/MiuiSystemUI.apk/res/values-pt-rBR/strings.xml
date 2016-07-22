@@ -268,7 +268,7 @@ Use apenas o carregador fornecido."</string>
   <string name="settings_toggle_position_divider_page">%1$d atalhos acima desta barra estão ativos</string>
   <string name="settings_toggle_position_reset">Redefinir atalhos</string>
   <string name="share">Compartilhar</string>
-  <string name="status_bar_clock_date_format">EEEE, d \'de\' MMMM</string>
+  <string name="status_bar_clock_date_format">EEEE, dd \'de\' MMMM</string>
   <string name="status_bar_date_format">"EEEE,
 dd \'de\' MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE,
@@ -342,8 +342,7 @@ Deslize para baixo para bloquear"</string>
   <string name="vpn_text_long">Conectado a %s. Toque para ver detalhes.</string>
   <string name="vpn_title">VPN ativado</string>
   <string name="vpn_title_long">Conectando-se à VPN usando %s</string>
-  <string name="weather_description">%1$s | %2$s &gt;</string>
-  <string name="weather_description_no_aqi">%1$s &gt;</string>
+  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Atualizado: %1$s</string>
   <string name="wifi_connected_no_internet">Conectado, sem internet</string>
   <string name="wifi_disabled_generic">Desativado</string>

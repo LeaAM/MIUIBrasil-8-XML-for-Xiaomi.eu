@@ -123,7 +123,7 @@
   <string name="event_view">Visualizar evento</string>
   <string name="every_weekday">Dias úteis (Seg-Sex)</string>
   <string name="festival_detail_title">Festival</string>
-  <string name="force_touch_title_add_new_event">Adicionar novo evento</string>
+  <string name="force_touch_title_add_new_event">Adicionar evento</string>
   <string name="from_google_group_calendar">Agenda do Google</string>
   <string name="gadget_no_events">Não há eventos futuros na agenda</string>
   <string name="gadget_title">Agenda</string>

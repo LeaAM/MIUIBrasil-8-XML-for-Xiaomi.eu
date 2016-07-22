@@ -185,7 +185,7 @@
   <string name="download_cloud_error_retryable">Erro no servidor da Mi Cloud, tente novamente mais tarde.</string>
   <string name="download_cloud_error_unknow">"Não foi possível transferir arquivos da Mi Cloud."</string>
   <string name="download_complete">Download concluído</string>
-  <string name="download_complete_btn">Instalado\u2026</string>
+  <string name="download_complete_btn">Instalado</string>
   <string name="download_complete_start_install">Instalando\u2026</string>
   <string name="download_completed">Transferido</string>
   <string name="download_confirm_button_text">Instalar</string>
@@ -218,7 +218,7 @@
   <string name="download_running_percent">Em progresso, %d%%</string>
   <string name="download_share_dialog">Compartilhar usando</string>
   <string name="download_start">Iniciando download\u2026</string>
-  <string name="download_start_btn">Download gratuito\u2026</string>
+  <string name="download_start_btn">Download grátis</string>
   <string name="download_success">Concluído</string>
   <string name="download_title_sorted_by_date">Downloads - Ordenados por data</string>
   <string name="download_title_sorted_by_size">Downloads - Ordenados por tamanho</string>
